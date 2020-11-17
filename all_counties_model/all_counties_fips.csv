@@ -1,0 +1,3139 @@
+fips_code,county,state,c3_data_id
+1001.0,Autauga,Alabama,Autauga_Alabama_UnitedStates
+1003.0,Baldwin,Alabama,Baldwin_Alabama_UnitedStates
+1005.0,Barbour,Alabama,Barbour_Alabama_UnitedStates
+1007.0,Bibb,Alabama,Bibb_Alabama_UnitedStates
+1009.0,Blount,Alabama,Blount_Alabama_UnitedStates
+1011.0,Bullock,Alabama,Bullock_Alabama_UnitedStates
+1013.0,Butler,Alabama,Butler_Alabama_UnitedStates
+1015.0,Calhoun,Alabama,Calhoun_Alabama_UnitedStates
+1017.0,Chambers,Alabama,Chambers_Alabama_UnitedStates
+1019.0,Cherokee,Alabama,Cherokee_Alabama_UnitedStates
+1021.0,Chilton,Alabama,Chilton_Alabama_UnitedStates
+1023.0,Choctaw,Alabama,Choctaw_Alabama_UnitedStates
+1025.0,Clarke,Alabama,Clarke_Alabama_UnitedStates
+1027.0,Clay,Alabama,Clay_Alabama_UnitedStates
+1029.0,Cleburne,Alabama,Cleburne_Alabama_UnitedStates
+1031.0,Coffee,Alabama,Coffee_Alabama_UnitedStates
+1033.0,Colbert,Alabama,Colbert_Alabama_UnitedStates
+1035.0,Conecuh,Alabama,Conecuh_Alabama_UnitedStates
+1037.0,Coosa,Alabama,Coosa_Alabama_UnitedStates
+1039.0,Covington,Alabama,Covington_Alabama_UnitedStates
+1041.0,Crenshaw,Alabama,Crenshaw_Alabama_UnitedStates
+1043.0,Cullman,Alabama,Cullman_Alabama_UnitedStates
+1045.0,Dale,Alabama,Dale_Alabama_UnitedStates
+1047.0,Dallas,Alabama,Dallas_Alabama_UnitedStates
+1049.0,DeKalb,Alabama,DeKalb_Alabama_UnitedStates
+1051.0,Elmore,Alabama,Elmore_Alabama_UnitedStates
+1053.0,Escambia,Alabama,Escambia_Alabama_UnitedStates
+1055.0,Etowah,Alabama,Etowah_Alabama_UnitedStates
+1057.0,Fayette,Alabama,Fayette_Alabama_UnitedStates
+1059.0,Franklin,Alabama,Franklin_Alabama_UnitedStates
+1061.0,Geneva,Alabama,Geneva_Alabama_UnitedStates
+1063.0,Greene,Alabama,Greene_Alabama_UnitedStates
+1065.0,Hale,Alabama,Hale_Alabama_UnitedStates
+1067.0,Henry,Alabama,Henry_Alabama_UnitedStates
+1069.0,Houston,Alabama,Houston_Alabama_UnitedStates
+1071.0,Jackson,Alabama,Jackson_Alabama_UnitedStates
+1073.0,Jefferson,Alabama,Jefferson_Alabama_UnitedStates
+1075.0,Lamar,Alabama,Lamar_Alabama_UnitedStates
+1077.0,Lauderdale,Alabama,Lauderdale_Alabama_UnitedStates
+1079.0,Lawrence,Alabama,Lawrence_Alabama_UnitedStates
+1081.0,Lee,Alabama,Lee_Alabama_UnitedStates
+1083.0,Limestone,Alabama,Limestone_Alabama_UnitedStates
+1085.0,Lowndes,Alabama,Lowndes_Alabama_UnitedStates
+1087.0,Macon,Alabama,Macon_Alabama_UnitedStates
+1089.0,Madison,Alabama,Madison_Alabama_UnitedStates
+1091.0,Marengo,Alabama,Marengo_Alabama_UnitedStates
+1093.0,Marion,Alabama,Marion_Alabama_UnitedStates
+1095.0,Marshall,Alabama,Marshall_Alabama_UnitedStates
+1097.0,Mobile,Alabama,Mobile_Alabama_UnitedStates
+1099.0,Monroe,Alabama,Monroe_Alabama_UnitedStates
+1101.0,Montgomery,Alabama,Montgomery_Alabama_UnitedStates
+1103.0,Morgan,Alabama,Morgan_Alabama_UnitedStates
+1105.0,Perry,Alabama,Perry_Alabama_UnitedStates
+1107.0,Pickens,Alabama,Pickens_Alabama_UnitedStates
+1109.0,Pike,Alabama,Pike_Alabama_UnitedStates
+1111.0,Randolph,Alabama,Randolph_Alabama_UnitedStates
+1113.0,Russell,Alabama,Russell_Alabama_UnitedStates
+1115.0,St. Clair,Alabama,St.Clair_Alabama_UnitedStates
+1117.0,Shelby,Alabama,Shelby_Alabama_UnitedStates
+1119.0,Sumter,Alabama,Sumter_Alabama_UnitedStates
+1121.0,Talladega,Alabama,Talladega_Alabama_UnitedStates
+1123.0,Tallapoosa,Alabama,Tallapoosa_Alabama_UnitedStates
+1125.0,Tuscaloosa,Alabama,Tuscaloosa_Alabama_UnitedStates
+1127.0,Walker,Alabama,Walker_Alabama_UnitedStates
+1129.0,Washington,Alabama,Washington_Alabama_UnitedStates
+1131.0,Wilcox,Alabama,Wilcox_Alabama_UnitedStates
+1133.0,Winston,Alabama,Winston_Alabama_UnitedStates
+2013.0,Aleutians East,Alaska,AleutiansEast_Alaska_UnitedStates
+2016.0,Aleutians West,Alaska,AleutiansWest_Alaska_UnitedStates
+2020.0,Anchorage,Alaska,Anchorage_Alaska_UnitedStates
+2050.0,Bethel,Alaska,Bethel_Alaska_UnitedStates
+2060.0,Bristol Bay,Alaska,BristolBay_Alaska_UnitedStates
+2068.0,Denali,Alaska,Denali_Alaska_UnitedStates
+2070.0,Dillingham,Alaska,Dillingham_Alaska_UnitedStates
+2090.0,Fairbanks North Star,Alaska,FairbanksNorthStar_Alaska_UnitedStates
+2100.0,Haines,Alaska,Haines_Alaska_UnitedStates
+2232.0,Hoonah-Angoon,Alaska,Hoonah-Angoon_Alaska_UnitedStates
+2110.0,Juneau,Alaska,Juneau_Alaska_UnitedStates
+2122.0,Kenai Peninsula,Alaska,KenaiPeninsula_Alaska_UnitedStates
+2130.0,Ketchikan Gateway,Alaska,KetchikanGateway_Alaska_UnitedStates
+2150.0,Kodiak Island,Alaska,KodiakIsland_Alaska_UnitedStates
+2164.0,Lake and Peninsula,Alaska,LakeandPeninsula_Alaska_UnitedStates
+2170.0,Matanuska-Susitna,Alaska,Matanuska-Susitna_Alaska_UnitedStates
+2180.0,Nome,Alaska,Nome_Alaska_UnitedStates
+2185.0,North Slope,Alaska,NorthSlope_Alaska_UnitedStates
+2188.0,Northwest Arctic,Alaska,NorthwestArctic_Alaska_UnitedStates
+2195.0,Petersburg,Alaska,Petersburg_Alaska_UnitedStates
+2201.0,Prince of Wales-Hyder,Alaska,PrinceofWales-Hyder_Alaska_UnitedStates
+2220.0,Sitka,Alaska,Sitka_Alaska_UnitedStates
+2240.0,Southeast Fairbanks,Alaska,SoutheastFairbanks_Alaska_UnitedStates
+2261.0,Valdez-Cordova,Alaska,Valdez-Cordova_Alaska_UnitedStates
+2280.0,Wrangell,Alaska,Wrangell_Alaska_UnitedStates
+2282.0,Yakutat,Alaska,Yakutat_Alaska_UnitedStates
+2290.0,Yukon-Koyukuk,Alaska,Yukon-Koyukuk_Alaska_UnitedStates
+4001.0,Apache,Arizona,Apache_Arizona_UnitedStates
+4003.0,Cochise,Arizona,Cochise_Arizona_UnitedStates
+4005.0,Coconino,Arizona,Coconino_Arizona_UnitedStates
+4007.0,Gila,Arizona,Gila_Arizona_UnitedStates
+4009.0,Graham,Arizona,Graham_Arizona_UnitedStates
+4011.0,Greenlee,Arizona,Greenlee_Arizona_UnitedStates
+4012.0,La Paz,Arizona,LaPaz_Arizona_UnitedStates
+4013.0,Maricopa,Arizona,Maricopa_Arizona_UnitedStates
+4015.0,Mohave,Arizona,Mohave_Arizona_UnitedStates
+4017.0,Navajo,Arizona,Navajo_Arizona_UnitedStates
+4019.0,Pima,Arizona,Pima_Arizona_UnitedStates
+4021.0,Pinal,Arizona,Pinal_Arizona_UnitedStates
+4023.0,Santa Cruz,Arizona,SantaCruz_Arizona_UnitedStates
+4025.0,Yavapai,Arizona,Yavapai_Arizona_UnitedStates
+4027.0,Yuma,Arizona,Yuma_Arizona_UnitedStates
+5001.0,Arkansas,Arkansas,Arkansas_Arkansas_UnitedStates
+5003.0,Ashley,Arkansas,Ashley_Arkansas_UnitedStates
+5005.0,Baxter,Arkansas,Baxter_Arkansas_UnitedStates
+5007.0,Benton,Arkansas,Benton_Arkansas_UnitedStates
+5009.0,Boone,Arkansas,Boone_Arkansas_UnitedStates
+5011.0,Bradley,Arkansas,Bradley_Arkansas_UnitedStates
+5013.0,Calhoun,Arkansas,Calhoun_Arkansas_UnitedStates
+5015.0,Carroll,Arkansas,Carroll_Arkansas_UnitedStates
+5017.0,Chicot,Arkansas,Chicot_Arkansas_UnitedStates
+5019.0,Clark,Arkansas,Clark_Arkansas_UnitedStates
+5021.0,Clay,Arkansas,Clay_Arkansas_UnitedStates
+5023.0,Cleburne,Arkansas,Cleburne_Arkansas_UnitedStates
+5025.0,Cleveland,Arkansas,Cleveland_Arkansas_UnitedStates
+5027.0,Columbia,Arkansas,Columbia_Arkansas_UnitedStates
+5029.0,Conway,Arkansas,Conway_Arkansas_UnitedStates
+5031.0,Craighead,Arkansas,Craighead_Arkansas_UnitedStates
+5033.0,Crawford,Arkansas,Crawford_Arkansas_UnitedStates
+5035.0,Crittenden,Arkansas,Crittenden_Arkansas_UnitedStates
+5037.0,Cross,Arkansas,Cross_Arkansas_UnitedStates
+5039.0,Dallas,Arkansas,Dallas_Arkansas_UnitedStates
+5041.0,Desha,Arkansas,Desha_Arkansas_UnitedStates
+5043.0,Drew,Arkansas,Drew_Arkansas_UnitedStates
+5045.0,Faulkner,Arkansas,Faulkner_Arkansas_UnitedStates
+5047.0,Franklin,Arkansas,Franklin_Arkansas_UnitedStates
+5049.0,Fulton,Arkansas,Fulton_Arkansas_UnitedStates
+5051.0,Garland,Arkansas,Garland_Arkansas_UnitedStates
+5053.0,Grant,Arkansas,Grant_Arkansas_UnitedStates
+5055.0,Greene,Arkansas,Greene_Arkansas_UnitedStates
+5057.0,Hempstead,Arkansas,Hempstead_Arkansas_UnitedStates
+5059.0,Hot Spring,Arkansas,HotSpring_Arkansas_UnitedStates
+5061.0,Howard,Arkansas,Howard_Arkansas_UnitedStates
+5063.0,Independence,Arkansas,Independence_Arkansas_UnitedStates
+5065.0,Izard,Arkansas,Izard_Arkansas_UnitedStates
+5067.0,Jackson,Arkansas,Jackson_Arkansas_UnitedStates
+5069.0,Jefferson,Arkansas,Jefferson_Arkansas_UnitedStates
+5071.0,Johnson,Arkansas,Johnson_Arkansas_UnitedStates
+5073.0,Lafayette,Arkansas,Lafayette_Arkansas_UnitedStates
+5075.0,Lawrence,Arkansas,Lawrence_Arkansas_UnitedStates
+5077.0,Lee,Arkansas,Lee_Arkansas_UnitedStates
+5079.0,Lincoln,Arkansas,Lincoln_Arkansas_UnitedStates
+5081.0,Little River,Arkansas,LittleRiver_Arkansas_UnitedStates
+5083.0,Logan,Arkansas,Logan_Arkansas_UnitedStates
+5085.0,Lonoke,Arkansas,Lonoke_Arkansas_UnitedStates
+5087.0,Madison,Arkansas,Madison_Arkansas_UnitedStates
+5089.0,Marion,Arkansas,Marion_Arkansas_UnitedStates
+5091.0,Miller,Arkansas,Miller_Arkansas_UnitedStates
+5093.0,Mississippi,Arkansas,Mississippi_Arkansas_UnitedStates
+5095.0,Monroe,Arkansas,Monroe_Arkansas_UnitedStates
+5097.0,Montgomery,Arkansas,Montgomery_Arkansas_UnitedStates
+5099.0,Nevada,Arkansas,Nevada_Arkansas_UnitedStates
+5101.0,Newton,Arkansas,Newton_Arkansas_UnitedStates
+5103.0,Ouachita,Arkansas,Ouachita_Arkansas_UnitedStates
+5105.0,Perry,Arkansas,Perry_Arkansas_UnitedStates
+5107.0,Phillips,Arkansas,Phillips_Arkansas_UnitedStates
+5109.0,Pike,Arkansas,Pike_Arkansas_UnitedStates
+5111.0,Poinsett,Arkansas,Poinsett_Arkansas_UnitedStates
+5113.0,Polk,Arkansas,Polk_Arkansas_UnitedStates
+5115.0,Pope,Arkansas,Pope_Arkansas_UnitedStates
+5117.0,Prairie,Arkansas,Prairie_Arkansas_UnitedStates
+5119.0,Pulaski,Arkansas,Pulaski_Arkansas_UnitedStates
+5121.0,Randolph,Arkansas,Randolph_Arkansas_UnitedStates
+5123.0,St. Francis,Arkansas,St.Francis_Arkansas_UnitedStates
+5125.0,Saline,Arkansas,Saline_Arkansas_UnitedStates
+5127.0,Scott,Arkansas,Scott_Arkansas_UnitedStates
+5129.0,Searcy,Arkansas,Searcy_Arkansas_UnitedStates
+5131.0,Sebastian,Arkansas,Sebastian_Arkansas_UnitedStates
+5133.0,Sevier,Arkansas,Sevier_Arkansas_UnitedStates
+5135.0,Sharp,Arkansas,Sharp_Arkansas_UnitedStates
+5137.0,Stone,Arkansas,Stone_Arkansas_UnitedStates
+5139.0,Union,Arkansas,Union_Arkansas_UnitedStates
+5141.0,Van Buren,Arkansas,VanBuren_Arkansas_UnitedStates
+5143.0,Washington,Arkansas,Washington_Arkansas_UnitedStates
+5145.0,White,Arkansas,White_Arkansas_UnitedStates
+5147.0,Woodruff,Arkansas,Woodruff_Arkansas_UnitedStates
+5149.0,Yell,Arkansas,Yell_Arkansas_UnitedStates
+6001.0,Alameda,California,Alameda_California_UnitedStates
+6003.0,Alpine,California,Alpine_California_UnitedStates
+6005.0,Amador,California,Amador_California_UnitedStates
+6007.0,Butte,California,Butte_California_UnitedStates
+6009.0,Calaveras,California,Calaveras_California_UnitedStates
+6011.0,Colusa,California,Colusa_California_UnitedStates
+6013.0,Contra Costa,California,ContraCosta_California_UnitedStates
+6015.0,Del Norte,California,DelNorte_California_UnitedStates
+6017.0,El Dorado,California,ElDorado_California_UnitedStates
+6019.0,Fresno,California,Fresno_California_UnitedStates
+6021.0,Glenn,California,Glenn_California_UnitedStates
+6023.0,Humboldt,California,Humboldt_California_UnitedStates
+6025.0,Imperial,California,Imperial_California_UnitedStates
+6027.0,Inyo,California,Inyo_California_UnitedStates
+6029.0,Kern,California,Kern_California_UnitedStates
+6031.0,Kings,California,Kings_California_UnitedStates
+6033.0,Lake,California,Lake_California_UnitedStates
+6035.0,Lassen,California,Lassen_California_UnitedStates
+6037.0,Los Angeles,California,LosAngeles_California_UnitedStates
+6039.0,Madera,California,Madera_California_UnitedStates
+6041.0,Marin,California,Marin_California_UnitedStates
+6043.0,Mariposa,California,Mariposa_California_UnitedStates
+6045.0,Mendocino,California,Mendocino_California_UnitedStates
+6047.0,Merced,California,Merced_California_UnitedStates
+6049.0,Modoc,California,Modoc_California_UnitedStates
+6051.0,Mono,California,Mono_California_UnitedStates
+6053.0,Monterey,California,Monterey_California_UnitedStates
+6055.0,Napa,California,Napa_California_UnitedStates
+6057.0,Nevada,California,Nevada_California_UnitedStates
+6059.0,Orange,California,Orange_California_UnitedStates
+6061.0,Placer,California,Placer_California_UnitedStates
+6063.0,Plumas,California,Plumas_California_UnitedStates
+6065.0,Riverside,California,Riverside_California_UnitedStates
+6067.0,Sacramento,California,Sacramento_California_UnitedStates
+6069.0,San Benito,California,SanBenito_California_UnitedStates
+6071.0,San Bernardino,California,SanBernardino_California_UnitedStates
+6073.0,San Diego,California,SanDiego_California_UnitedStates
+6075.0,San Francisco,California,SanFrancisco_California_UnitedStates
+6077.0,San Joaquin,California,SanJoaquin_California_UnitedStates
+6079.0,San Luis Obispo,California,SanLuisObispo_California_UnitedStates
+6081.0,San Mateo,California,SanMateo_California_UnitedStates
+6083.0,Santa Barbara,California,SantaBarbara_California_UnitedStates
+6085.0,Santa Clara,California,SantaClara_California_UnitedStates
+6087.0,Santa Cruz,California,SantaCruz_California_UnitedStates
+6089.0,Shasta,California,Shasta_California_UnitedStates
+6091.0,Sierra,California,Sierra_California_UnitedStates
+6093.0,Siskiyou,California,Siskiyou_California_UnitedStates
+6095.0,Solano,California,Solano_California_UnitedStates
+6097.0,Sonoma,California,Sonoma_California_UnitedStates
+6099.0,Stanislaus,California,Stanislaus_California_UnitedStates
+6101.0,Sutter,California,Sutter_California_UnitedStates
+6103.0,Tehama,California,Tehama_California_UnitedStates
+6105.0,Trinity,California,Trinity_California_UnitedStates
+6107.0,Tulare,California,Tulare_California_UnitedStates
+6109.0,Tuolumne,California,Tuolumne_California_UnitedStates
+6111.0,Ventura,California,Ventura_California_UnitedStates
+6113.0,Yolo,California,Yolo_California_UnitedStates
+6115.0,Yuba,California,Yuba_California_UnitedStates
+8001.0,Adams,Colorado,Adams_Colorado_UnitedStates
+8003.0,Alamosa,Colorado,Alamosa_Colorado_UnitedStates
+8005.0,Arapahoe,Colorado,Arapahoe_Colorado_UnitedStates
+8007.0,Archuleta,Colorado,Archuleta_Colorado_UnitedStates
+8009.0,Baca,Colorado,Baca_Colorado_UnitedStates
+8011.0,Bent,Colorado,Bent_Colorado_UnitedStates
+8013.0,Boulder,Colorado,Boulder_Colorado_UnitedStates
+8014.0,Broomfield,Colorado,Broomfield_Colorado_UnitedStates
+8015.0,Chaffee,Colorado,Chaffee_Colorado_UnitedStates
+8017.0,Cheyenne,Colorado,Cheyenne_Colorado_UnitedStates
+8019.0,Clear Creek,Colorado,ClearCreek_Colorado_UnitedStates
+8021.0,Conejos,Colorado,Conejos_Colorado_UnitedStates
+8023.0,Costilla,Colorado,Costilla_Colorado_UnitedStates
+8025.0,Crowley,Colorado,Crowley_Colorado_UnitedStates
+8027.0,Custer,Colorado,Custer_Colorado_UnitedStates
+8029.0,Delta,Colorado,Delta_Colorado_UnitedStates
+8031.0,Denver,Colorado,Denver_Colorado_UnitedStates
+8033.0,Dolores,Colorado,Dolores_Colorado_UnitedStates
+8035.0,Douglas,Colorado,Douglas_Colorado_UnitedStates
+8037.0,Eagle,Colorado,Eagle_Colorado_UnitedStates
+8039.0,Elbert,Colorado,Elbert_Colorado_UnitedStates
+8041.0,El Paso,Colorado,ElPaso_Colorado_UnitedStates
+8043.0,Fremont,Colorado,Fremont_Colorado_UnitedStates
+8045.0,Garfield,Colorado,Garfield_Colorado_UnitedStates
+8047.0,Gilpin,Colorado,Gilpin_Colorado_UnitedStates
+8049.0,Grand,Colorado,Grand_Colorado_UnitedStates
+8051.0,Gunnison,Colorado,Gunnison_Colorado_UnitedStates
+8053.0,Hinsdale,Colorado,Hinsdale_Colorado_UnitedStates
+8055.0,Huerfano,Colorado,Huerfano_Colorado_UnitedStates
+8057.0,Jackson,Colorado,Jackson_Colorado_UnitedStates
+8059.0,Jefferson,Colorado,Jefferson_Colorado_UnitedStates
+8061.0,Kiowa,Colorado,Kiowa_Colorado_UnitedStates
+8063.0,Kit Carson,Colorado,KitCarson_Colorado_UnitedStates
+8065.0,Lake,Colorado,Lake_Colorado_UnitedStates
+8067.0,La Plata,Colorado,LaPlata_Colorado_UnitedStates
+8069.0,Larimer,Colorado,Larimer_Colorado_UnitedStates
+8071.0,Las Animas,Colorado,LasAnimas_Colorado_UnitedStates
+8073.0,Lincoln,Colorado,Lincoln_Colorado_UnitedStates
+8075.0,Logan,Colorado,Logan_Colorado_UnitedStates
+8077.0,Mesa,Colorado,Mesa_Colorado_UnitedStates
+8079.0,Mineral,Colorado,Mineral_Colorado_UnitedStates
+8081.0,Moffat,Colorado,Moffat_Colorado_UnitedStates
+8083.0,Montezuma,Colorado,Montezuma_Colorado_UnitedStates
+8085.0,Montrose,Colorado,Montrose_Colorado_UnitedStates
+8087.0,Morgan,Colorado,Morgan_Colorado_UnitedStates
+8089.0,Otero,Colorado,Otero_Colorado_UnitedStates
+8091.0,Ouray,Colorado,Ouray_Colorado_UnitedStates
+8093.0,Park,Colorado,Park_Colorado_UnitedStates
+8095.0,Phillips,Colorado,Phillips_Colorado_UnitedStates
+8097.0,Pitkin,Colorado,Pitkin_Colorado_UnitedStates
+8099.0,Prowers,Colorado,Prowers_Colorado_UnitedStates
+8101.0,Pueblo,Colorado,Pueblo_Colorado_UnitedStates
+8103.0,Rio Blanco,Colorado,RioBlanco_Colorado_UnitedStates
+8105.0,Rio Grande,Colorado,RioGrande_Colorado_UnitedStates
+8107.0,Routt,Colorado,Routt_Colorado_UnitedStates
+8109.0,Saguache,Colorado,Saguache_Colorado_UnitedStates
+8111.0,San Juan,Colorado,SanJuan_Colorado_UnitedStates
+8113.0,San Miguel,Colorado,SanMiguel_Colorado_UnitedStates
+8115.0,Sedgwick,Colorado,Sedgwick_Colorado_UnitedStates
+8117.0,Summit,Colorado,Summit_Colorado_UnitedStates
+8119.0,Teller,Colorado,Teller_Colorado_UnitedStates
+8121.0,Washington,Colorado,Washington_Colorado_UnitedStates
+8123.0,Weld,Colorado,Weld_Colorado_UnitedStates
+8125.0,Yuma,Colorado,Yuma_Colorado_UnitedStates
+9001.0,Fairfield,Connecticut,Fairfield_Connecticut_UnitedStates
+9003.0,Hartford,Connecticut,Hartford_Connecticut_UnitedStates
+9005.0,Litchfield,Connecticut,Litchfield_Connecticut_UnitedStates
+9007.0,Middlesex,Connecticut,Middlesex_Connecticut_UnitedStates
+9009.0,New Haven,Connecticut,NewHaven_Connecticut_UnitedStates
+9011.0,New London,Connecticut,NewLondon_Connecticut_UnitedStates
+9013.0,Tolland,Connecticut,Tolland_Connecticut_UnitedStates
+9015.0,Windham,Connecticut,Windham_Connecticut_UnitedStates
+10001.0,Kent,Delaware,Kent_Delaware_UnitedStates
+10003.0,New Castle,Delaware,NewCastle_Delaware_UnitedStates
+10005.0,Sussex,Delaware,Sussex_Delaware_UnitedStates
+11001.0,District of Columbia,District of Columbia,DistrictofColumbia_DistrictofColumbia_UnitedStates
+12001.0,Alachua,Florida,Alachua_Florida_UnitedStates
+12003.0,Baker,Florida,Baker_Florida_UnitedStates
+12005.0,Bay,Florida,Bay_Florida_UnitedStates
+12007.0,Bradford,Florida,Bradford_Florida_UnitedStates
+12009.0,Brevard,Florida,Brevard_Florida_UnitedStates
+12011.0,Broward,Florida,Broward_Florida_UnitedStates
+12013.0,Calhoun,Florida,Calhoun_Florida_UnitedStates
+12015.0,Charlotte,Florida,Charlotte_Florida_UnitedStates
+12017.0,Citrus,Florida,Citrus_Florida_UnitedStates
+12019.0,Clay,Florida,Clay_Florida_UnitedStates
+12021.0,Collier,Florida,Collier_Florida_UnitedStates
+12023.0,Columbia,Florida,Columbia_Florida_UnitedStates
+12027.0,DeSoto,Florida,DeSoto_Florida_UnitedStates
+12029.0,Dixie,Florida,Dixie_Florida_UnitedStates
+12031.0,Duval,Florida,Duval_Florida_UnitedStates
+12033.0,Escambia,Florida,Escambia_Florida_UnitedStates
+12035.0,Flagler,Florida,Flagler_Florida_UnitedStates
+12037.0,Franklin,Florida,Franklin_Florida_UnitedStates
+12039.0,Gadsden,Florida,Gadsden_Florida_UnitedStates
+12041.0,Gilchrist,Florida,Gilchrist_Florida_UnitedStates
+12043.0,Glades,Florida,Glades_Florida_UnitedStates
+12045.0,Gulf,Florida,Gulf_Florida_UnitedStates
+12047.0,Hamilton,Florida,Hamilton_Florida_UnitedStates
+12049.0,Hardee,Florida,Hardee_Florida_UnitedStates
+12051.0,Hendry,Florida,Hendry_Florida_UnitedStates
+12053.0,Hernando,Florida,Hernando_Florida_UnitedStates
+12055.0,Highlands,Florida,Highlands_Florida_UnitedStates
+12057.0,Hillsborough,Florida,Hillsborough_Florida_UnitedStates
+12059.0,Holmes,Florida,Holmes_Florida_UnitedStates
+12061.0,Indian River,Florida,IndianRiver_Florida_UnitedStates
+12063.0,Jackson,Florida,Jackson_Florida_UnitedStates
+12065.0,Jefferson,Florida,Jefferson_Florida_UnitedStates
+12067.0,Lafayette,Florida,Lafayette_Florida_UnitedStates
+12069.0,Lake,Florida,Lake_Florida_UnitedStates
+12071.0,Lee,Florida,Lee_Florida_UnitedStates
+12073.0,Leon,Florida,Leon_Florida_UnitedStates
+12075.0,Levy,Florida,Levy_Florida_UnitedStates
+12077.0,Liberty,Florida,Liberty_Florida_UnitedStates
+12079.0,Madison,Florida,Madison_Florida_UnitedStates
+12081.0,Manatee,Florida,Manatee_Florida_UnitedStates
+12083.0,Marion,Florida,Marion_Florida_UnitedStates
+12085.0,Martin,Florida,Martin_Florida_UnitedStates
+12086.0,Miami-Dade,Florida,Miami-Dade_Florida_UnitedStates
+12087.0,Monroe,Florida,Monroe_Florida_UnitedStates
+12089.0,Nassau,Florida,Nassau_Florida_UnitedStates
+12091.0,Okaloosa,Florida,Okaloosa_Florida_UnitedStates
+12093.0,Okeechobee,Florida,Okeechobee_Florida_UnitedStates
+12095.0,Orange,Florida,Orange_Florida_UnitedStates
+12097.0,Osceola,Florida,Osceola_Florida_UnitedStates
+12099.0,Palm Beach,Florida,PalmBeach_Florida_UnitedStates
+12101.0,Pasco,Florida,Pasco_Florida_UnitedStates
+12103.0,Pinellas,Florida,Pinellas_Florida_UnitedStates
+12105.0,Polk,Florida,Polk_Florida_UnitedStates
+12107.0,Putnam,Florida,Putnam_Florida_UnitedStates
+12109.0,St. Johns,Florida,St.Johns_Florida_UnitedStates
+12111.0,St. Lucie,Florida,St.Lucie_Florida_UnitedStates
+12113.0,Santa Rosa,Florida,SantaRosa_Florida_UnitedStates
+12115.0,Sarasota,Florida,Sarasota_Florida_UnitedStates
+12117.0,Seminole,Florida,Seminole_Florida_UnitedStates
+12119.0,Sumter,Florida,Sumter_Florida_UnitedStates
+12121.0,Suwannee,Florida,Suwannee_Florida_UnitedStates
+12123.0,Taylor,Florida,Taylor_Florida_UnitedStates
+12125.0,Union,Florida,Union_Florida_UnitedStates
+12127.0,Volusia,Florida,Volusia_Florida_UnitedStates
+12129.0,Wakulla,Florida,Wakulla_Florida_UnitedStates
+12131.0,Walton,Florida,Walton_Florida_UnitedStates
+12133.0,Washington,Florida,Washington_Florida_UnitedStates
+13001.0,Appling,Georgia,Appling_Georgia_UnitedStates
+13003.0,Atkinson,Georgia,Atkinson_Georgia_UnitedStates
+13005.0,Bacon,Georgia,Bacon_Georgia_UnitedStates
+13007.0,Baker,Georgia,Baker_Georgia_UnitedStates
+13009.0,Baldwin,Georgia,Baldwin_Georgia_UnitedStates
+13011.0,Banks,Georgia,Banks_Georgia_UnitedStates
+13013.0,Barrow,Georgia,Barrow_Georgia_UnitedStates
+13015.0,Bartow,Georgia,Bartow_Georgia_UnitedStates
+13017.0,Ben Hill,Georgia,BenHill_Georgia_UnitedStates
+13019.0,Berrien,Georgia,Berrien_Georgia_UnitedStates
+13021.0,Bibb,Georgia,Bibb_Georgia_UnitedStates
+13023.0,Bleckley,Georgia,Bleckley_Georgia_UnitedStates
+13025.0,Brantley,Georgia,Brantley_Georgia_UnitedStates
+13027.0,Brooks,Georgia,Brooks_Georgia_UnitedStates
+13029.0,Bryan,Georgia,Bryan_Georgia_UnitedStates
+13031.0,Bulloch,Georgia,Bulloch_Georgia_UnitedStates
+13033.0,Burke,Georgia,Burke_Georgia_UnitedStates
+13035.0,Butts,Georgia,Butts_Georgia_UnitedStates
+13037.0,Calhoun,Georgia,Calhoun_Georgia_UnitedStates
+13039.0,Camden,Georgia,Camden_Georgia_UnitedStates
+13043.0,Candler,Georgia,Candler_Georgia_UnitedStates
+13045.0,Carroll,Georgia,Carroll_Georgia_UnitedStates
+13047.0,Catoosa,Georgia,Catoosa_Georgia_UnitedStates
+13049.0,Charlton,Georgia,Charlton_Georgia_UnitedStates
+13051.0,Chatham,Georgia,Chatham_Georgia_UnitedStates
+13053.0,Chattahoochee,Georgia,Chattahoochee_Georgia_UnitedStates
+13055.0,Chattooga,Georgia,Chattooga_Georgia_UnitedStates
+13057.0,Cherokee,Georgia,Cherokee_Georgia_UnitedStates
+13059.0,Clarke,Georgia,Clarke_Georgia_UnitedStates
+13061.0,Clay,Georgia,Clay_Georgia_UnitedStates
+13063.0,Clayton,Georgia,Clayton_Georgia_UnitedStates
+13065.0,Clinch,Georgia,Clinch_Georgia_UnitedStates
+13067.0,Cobb,Georgia,Cobb_Georgia_UnitedStates
+13069.0,Coffee,Georgia,Coffee_Georgia_UnitedStates
+13071.0,Colquitt,Georgia,Colquitt_Georgia_UnitedStates
+13073.0,Columbia,Georgia,Columbia_Georgia_UnitedStates
+13075.0,Cook,Georgia,Cook_Georgia_UnitedStates
+13077.0,Coweta,Georgia,Coweta_Georgia_UnitedStates
+13079.0,Crawford,Georgia,Crawford_Georgia_UnitedStates
+13081.0,Crisp,Georgia,Crisp_Georgia_UnitedStates
+13083.0,Dade,Georgia,Dade_Georgia_UnitedStates
+13085.0,Dawson,Georgia,Dawson_Georgia_UnitedStates
+13087.0,Decatur,Georgia,Decatur_Georgia_UnitedStates
+13089.0,DeKalb,Georgia,DeKalb_Georgia_UnitedStates
+13091.0,Dodge,Georgia,Dodge_Georgia_UnitedStates
+13093.0,Dooly,Georgia,Dooly_Georgia_UnitedStates
+13095.0,Dougherty,Georgia,Dougherty_Georgia_UnitedStates
+13097.0,Douglas,Georgia,Douglas_Georgia_UnitedStates
+13099.0,Early,Georgia,Early_Georgia_UnitedStates
+13101.0,Echols,Georgia,Echols_Georgia_UnitedStates
+13103.0,Effingham,Georgia,Effingham_Georgia_UnitedStates
+13105.0,Elbert,Georgia,Elbert_Georgia_UnitedStates
+13107.0,Emanuel,Georgia,Emanuel_Georgia_UnitedStates
+13109.0,Evans,Georgia,Evans_Georgia_UnitedStates
+13111.0,Fannin,Georgia,Fannin_Georgia_UnitedStates
+13113.0,Fayette,Georgia,Fayette_Georgia_UnitedStates
+13115.0,Floyd,Georgia,Floyd_Georgia_UnitedStates
+13117.0,Forsyth,Georgia,Forsyth_Georgia_UnitedStates
+13119.0,Franklin,Georgia,Franklin_Georgia_UnitedStates
+13121.0,Fulton,Georgia,Fulton_Georgia_UnitedStates
+13123.0,Gilmer,Georgia,Gilmer_Georgia_UnitedStates
+13125.0,Glascock,Georgia,Glascock_Georgia_UnitedStates
+13127.0,Glynn,Georgia,Glynn_Georgia_UnitedStates
+13129.0,Gordon,Georgia,Gordon_Georgia_UnitedStates
+13131.0,Grady,Georgia,Grady_Georgia_UnitedStates
+13133.0,Greene,Georgia,Greene_Georgia_UnitedStates
+13135.0,Gwinnett,Georgia,Gwinnett_Georgia_UnitedStates
+13137.0,Habersham,Georgia,Habersham_Georgia_UnitedStates
+13139.0,Hall,Georgia,Hall_Georgia_UnitedStates
+13141.0,Hancock,Georgia,Hancock_Georgia_UnitedStates
+13143.0,Haralson,Georgia,Haralson_Georgia_UnitedStates
+13145.0,Harris,Georgia,Harris_Georgia_UnitedStates
+13147.0,Hart,Georgia,Hart_Georgia_UnitedStates
+13149.0,Heard,Georgia,Heard_Georgia_UnitedStates
+13151.0,Henry,Georgia,Henry_Georgia_UnitedStates
+13153.0,Houston,Georgia,Houston_Georgia_UnitedStates
+13155.0,Irwin,Georgia,Irwin_Georgia_UnitedStates
+13157.0,Jackson,Georgia,Jackson_Georgia_UnitedStates
+13159.0,Jasper,Georgia,Jasper_Georgia_UnitedStates
+13161.0,Jeff Davis,Georgia,JeffDavis_Georgia_UnitedStates
+13163.0,Jefferson,Georgia,Jefferson_Georgia_UnitedStates
+13165.0,Jenkins,Georgia,Jenkins_Georgia_UnitedStates
+13167.0,Johnson,Georgia,Johnson_Georgia_UnitedStates
+13169.0,Jones,Georgia,Jones_Georgia_UnitedStates
+13171.0,Lamar,Georgia,Lamar_Georgia_UnitedStates
+13173.0,Lanier,Georgia,Lanier_Georgia_UnitedStates
+13175.0,Laurens,Georgia,Laurens_Georgia_UnitedStates
+13177.0,Lee,Georgia,Lee_Georgia_UnitedStates
+13179.0,Liberty,Georgia,Liberty_Georgia_UnitedStates
+13181.0,Lincoln,Georgia,Lincoln_Georgia_UnitedStates
+13183.0,Long,Georgia,Long_Georgia_UnitedStates
+13185.0,Lowndes,Georgia,Lowndes_Georgia_UnitedStates
+13187.0,Lumpkin,Georgia,Lumpkin_Georgia_UnitedStates
+13189.0,McDuffie,Georgia,McDuffie_Georgia_UnitedStates
+13191.0,McIntosh,Georgia,McIntosh_Georgia_UnitedStates
+13193.0,Macon,Georgia,Macon_Georgia_UnitedStates
+13195.0,Madison,Georgia,Madison_Georgia_UnitedStates
+13197.0,Marion,Georgia,Marion_Georgia_UnitedStates
+13199.0,Meriwether,Georgia,Meriwether_Georgia_UnitedStates
+13201.0,Miller,Georgia,Miller_Georgia_UnitedStates
+13205.0,Mitchell,Georgia,Mitchell_Georgia_UnitedStates
+13207.0,Monroe,Georgia,Monroe_Georgia_UnitedStates
+13209.0,Montgomery,Georgia,Montgomery_Georgia_UnitedStates
+13211.0,Morgan,Georgia,Morgan_Georgia_UnitedStates
+13213.0,Murray,Georgia,Murray_Georgia_UnitedStates
+13215.0,Muscogee,Georgia,Muscogee_Georgia_UnitedStates
+13217.0,Newton,Georgia,Newton_Georgia_UnitedStates
+13219.0,Oconee,Georgia,Oconee_Georgia_UnitedStates
+13221.0,Oglethorpe,Georgia,Oglethorpe_Georgia_UnitedStates
+13223.0,Paulding,Georgia,Paulding_Georgia_UnitedStates
+13225.0,Peach,Georgia,Peach_Georgia_UnitedStates
+13227.0,Pickens,Georgia,Pickens_Georgia_UnitedStates
+13229.0,Pierce,Georgia,Pierce_Georgia_UnitedStates
+13231.0,Pike,Georgia,Pike_Georgia_UnitedStates
+13233.0,Polk,Georgia,Polk_Georgia_UnitedStates
+13235.0,Pulaski,Georgia,Pulaski_Georgia_UnitedStates
+13237.0,Putnam,Georgia,Putnam_Georgia_UnitedStates
+13239.0,Quitman,Georgia,Quitman_Georgia_UnitedStates
+13241.0,Rabun,Georgia,Rabun_Georgia_UnitedStates
+13243.0,Randolph,Georgia,Randolph_Georgia_UnitedStates
+13245.0,Richmond,Georgia,Richmond_Georgia_UnitedStates
+13247.0,Rockdale,Georgia,Rockdale_Georgia_UnitedStates
+13249.0,Schley,Georgia,Schley_Georgia_UnitedStates
+13251.0,Screven,Georgia,Screven_Georgia_UnitedStates
+13253.0,Seminole,Georgia,Seminole_Georgia_UnitedStates
+13255.0,Spalding,Georgia,Spalding_Georgia_UnitedStates
+13257.0,Stephens,Georgia,Stephens_Georgia_UnitedStates
+13259.0,Stewart,Georgia,Stewart_Georgia_UnitedStates
+13261.0,Sumter,Georgia,Sumter_Georgia_UnitedStates
+13263.0,Talbot,Georgia,Talbot_Georgia_UnitedStates
+13265.0,Taliaferro,Georgia,Taliaferro_Georgia_UnitedStates
+13267.0,Tattnall,Georgia,Tattnall_Georgia_UnitedStates
+13269.0,Taylor,Georgia,Taylor_Georgia_UnitedStates
+13271.0,Telfair,Georgia,Telfair_Georgia_UnitedStates
+13273.0,Terrell,Georgia,Terrell_Georgia_UnitedStates
+13275.0,Thomas,Georgia,Thomas_Georgia_UnitedStates
+13277.0,Tift,Georgia,Tift_Georgia_UnitedStates
+13279.0,Toombs,Georgia,Toombs_Georgia_UnitedStates
+13281.0,Towns,Georgia,Towns_Georgia_UnitedStates
+13283.0,Treutlen,Georgia,Treutlen_Georgia_UnitedStates
+13285.0,Troup,Georgia,Troup_Georgia_UnitedStates
+13287.0,Turner,Georgia,Turner_Georgia_UnitedStates
+13289.0,Twiggs,Georgia,Twiggs_Georgia_UnitedStates
+13291.0,Union,Georgia,Union_Georgia_UnitedStates
+13293.0,Upson,Georgia,Upson_Georgia_UnitedStates
+13295.0,Walker,Georgia,Walker_Georgia_UnitedStates
+13297.0,Walton,Georgia,Walton_Georgia_UnitedStates
+13299.0,Ware,Georgia,Ware_Georgia_UnitedStates
+13301.0,Warren,Georgia,Warren_Georgia_UnitedStates
+13303.0,Washington,Georgia,Washington_Georgia_UnitedStates
+13305.0,Wayne,Georgia,Wayne_Georgia_UnitedStates
+13307.0,Webster,Georgia,Webster_Georgia_UnitedStates
+13309.0,Wheeler,Georgia,Wheeler_Georgia_UnitedStates
+13311.0,White,Georgia,White_Georgia_UnitedStates
+13313.0,Whitfield,Georgia,Whitfield_Georgia_UnitedStates
+13315.0,Wilcox,Georgia,Wilcox_Georgia_UnitedStates
+13317.0,Wilkes,Georgia,Wilkes_Georgia_UnitedStates
+13319.0,Wilkinson,Georgia,Wilkinson_Georgia_UnitedStates
+13321.0,Worth,Georgia,Worth_Georgia_UnitedStates
+15001.0,Hawaii,Hawaii,Hawaii_Hawaii_UnitedStates
+15003.0,Honolulu,Hawaii,Honolulu_Hawaii_UnitedStates
+15007.0,Kauai,Hawaii,Kauai_Hawaii_UnitedStates
+15009.0,Maui,Hawaii,Maui_Hawaii_UnitedStates
+16001.0,Ada,Idaho,Ada_Idaho_UnitedStates
+16003.0,Adams,Idaho,Adams_Idaho_UnitedStates
+16005.0,Bannock,Idaho,Bannock_Idaho_UnitedStates
+16007.0,Bear Lake,Idaho,BearLake_Idaho_UnitedStates
+16009.0,Benewah,Idaho,Benewah_Idaho_UnitedStates
+16011.0,Bingham,Idaho,Bingham_Idaho_UnitedStates
+16013.0,Blaine,Idaho,Blaine_Idaho_UnitedStates
+16015.0,Boise,Idaho,Boise_Idaho_UnitedStates
+16017.0,Bonner,Idaho,Bonner_Idaho_UnitedStates
+16019.0,Bonneville,Idaho,Bonneville_Idaho_UnitedStates
+16021.0,Boundary,Idaho,Boundary_Idaho_UnitedStates
+16023.0,Butte,Idaho,Butte_Idaho_UnitedStates
+16025.0,Camas,Idaho,Camas_Idaho_UnitedStates
+16027.0,Canyon,Idaho,Canyon_Idaho_UnitedStates
+16029.0,Caribou,Idaho,Caribou_Idaho_UnitedStates
+16031.0,Cassia,Idaho,Cassia_Idaho_UnitedStates
+16033.0,Clark,Idaho,Clark_Idaho_UnitedStates
+16035.0,Clearwater,Idaho,Clearwater_Idaho_UnitedStates
+16037.0,Custer,Idaho,Custer_Idaho_UnitedStates
+16039.0,Elmore,Idaho,Elmore_Idaho_UnitedStates
+16041.0,Franklin,Idaho,Franklin_Idaho_UnitedStates
+16043.0,Fremont,Idaho,Fremont_Idaho_UnitedStates
+16045.0,Gem,Idaho,Gem_Idaho_UnitedStates
+16047.0,Gooding,Idaho,Gooding_Idaho_UnitedStates
+16049.0,Idaho,Idaho,Idaho_Idaho_UnitedStates
+16051.0,Jefferson,Idaho,Jefferson_Idaho_UnitedStates
+16053.0,Jerome,Idaho,Jerome_Idaho_UnitedStates
+16055.0,Kootenai,Idaho,Kootenai_Idaho_UnitedStates
+16057.0,Latah,Idaho,Latah_Idaho_UnitedStates
+16059.0,Lemhi,Idaho,Lemhi_Idaho_UnitedStates
+16061.0,Lewis,Idaho,Lewis_Idaho_UnitedStates
+16063.0,Lincoln,Idaho,Lincoln_Idaho_UnitedStates
+16065.0,Madison,Idaho,Madison_Idaho_UnitedStates
+16067.0,Minidoka,Idaho,Minidoka_Idaho_UnitedStates
+16069.0,Nez Perce,Idaho,NezPerce_Idaho_UnitedStates
+16071.0,Oneida,Idaho,Oneida_Idaho_UnitedStates
+16073.0,Owyhee,Idaho,Owyhee_Idaho_UnitedStates
+16075.0,Payette,Idaho,Payette_Idaho_UnitedStates
+16077.0,Power,Idaho,Power_Idaho_UnitedStates
+16079.0,Shoshone,Idaho,Shoshone_Idaho_UnitedStates
+16081.0,Teton,Idaho,Teton_Idaho_UnitedStates
+16083.0,Twin Falls,Idaho,TwinFalls_Idaho_UnitedStates
+16085.0,Valley,Idaho,Valley_Idaho_UnitedStates
+16087.0,Washington,Idaho,Washington_Idaho_UnitedStates
+17001.0,Adams,Illinois,Adams_Illinois_UnitedStates
+17003.0,Alexander,Illinois,Alexander_Illinois_UnitedStates
+17005.0,Bond,Illinois,Bond_Illinois_UnitedStates
+17007.0,Boone,Illinois,Boone_Illinois_UnitedStates
+17009.0,Brown,Illinois,Brown_Illinois_UnitedStates
+17011.0,Bureau,Illinois,Bureau_Illinois_UnitedStates
+17013.0,Calhoun,Illinois,Calhoun_Illinois_UnitedStates
+17015.0,Carroll,Illinois,Carroll_Illinois_UnitedStates
+17017.0,Cass,Illinois,Cass_Illinois_UnitedStates
+17019.0,Champaign,Illinois,Champaign_Illinois_UnitedStates
+17021.0,Christian,Illinois,Christian_Illinois_UnitedStates
+17023.0,Clark,Illinois,Clark_Illinois_UnitedStates
+17025.0,Clay,Illinois,Clay_Illinois_UnitedStates
+17027.0,Clinton,Illinois,Clinton_Illinois_UnitedStates
+17029.0,Coles,Illinois,Coles_Illinois_UnitedStates
+17031.0,Cook,Illinois,Cook_Illinois_UnitedStates
+17033.0,Crawford,Illinois,Crawford_Illinois_UnitedStates
+17035.0,Cumberland,Illinois,Cumberland_Illinois_UnitedStates
+17037.0,DeKalb,Illinois,DeKalb_Illinois_UnitedStates
+17039.0,De Witt,Illinois,DeWitt_Illinois_UnitedStates
+17041.0,Douglas,Illinois,Douglas_Illinois_UnitedStates
+17043.0,DuPage,Illinois,DuPage_Illinois_UnitedStates
+17045.0,Edgar,Illinois,Edgar_Illinois_UnitedStates
+17047.0,Edwards,Illinois,Edwards_Illinois_UnitedStates
+17049.0,Effingham,Illinois,Effingham_Illinois_UnitedStates
+17051.0,Fayette,Illinois,Fayette_Illinois_UnitedStates
+17053.0,Ford,Illinois,Ford_Illinois_UnitedStates
+17055.0,Franklin,Illinois,Franklin_Illinois_UnitedStates
+17057.0,Fulton,Illinois,Fulton_Illinois_UnitedStates
+17059.0,Gallatin,Illinois,Gallatin_Illinois_UnitedStates
+17061.0,Greene,Illinois,Greene_Illinois_UnitedStates
+17063.0,Grundy,Illinois,Grundy_Illinois_UnitedStates
+17065.0,Hamilton,Illinois,Hamilton_Illinois_UnitedStates
+17067.0,Hancock,Illinois,Hancock_Illinois_UnitedStates
+17069.0,Hardin,Illinois,Hardin_Illinois_UnitedStates
+17071.0,Henderson,Illinois,Henderson_Illinois_UnitedStates
+17073.0,Henry,Illinois,Henry_Illinois_UnitedStates
+17075.0,Iroquois,Illinois,Iroquois_Illinois_UnitedStates
+17077.0,Jackson,Illinois,Jackson_Illinois_UnitedStates
+17079.0,Jasper,Illinois,Jasper_Illinois_UnitedStates
+17081.0,Jefferson,Illinois,Jefferson_Illinois_UnitedStates
+17083.0,Jersey,Illinois,Jersey_Illinois_UnitedStates
+17085.0,Jo Daviess,Illinois,JoDaviess_Illinois_UnitedStates
+17087.0,Johnson,Illinois,Johnson_Illinois_UnitedStates
+17089.0,Kane,Illinois,Kane_Illinois_UnitedStates
+17091.0,Kankakee,Illinois,Kankakee_Illinois_UnitedStates
+17093.0,Kendall,Illinois,Kendall_Illinois_UnitedStates
+17095.0,Knox,Illinois,Knox_Illinois_UnitedStates
+17097.0,Lake,Illinois,Lake_Illinois_UnitedStates
+17099.0,LaSalle,Illinois,LaSalle_Illinois_UnitedStates
+17101.0,Lawrence,Illinois,Lawrence_Illinois_UnitedStates
+17103.0,Lee,Illinois,Lee_Illinois_UnitedStates
+17105.0,Livingston,Illinois,Livingston_Illinois_UnitedStates
+17107.0,Logan,Illinois,Logan_Illinois_UnitedStates
+17109.0,McDonough,Illinois,McDonough_Illinois_UnitedStates
+17111.0,McHenry,Illinois,McHenry_Illinois_UnitedStates
+17113.0,McLean,Illinois,McLean_Illinois_UnitedStates
+17115.0,Macon,Illinois,Macon_Illinois_UnitedStates
+17117.0,Macoupin,Illinois,Macoupin_Illinois_UnitedStates
+17119.0,Madison,Illinois,Madison_Illinois_UnitedStates
+17121.0,Marion,Illinois,Marion_Illinois_UnitedStates
+17123.0,Marshall,Illinois,Marshall_Illinois_UnitedStates
+17125.0,Mason,Illinois,Mason_Illinois_UnitedStates
+17127.0,Massac,Illinois,Massac_Illinois_UnitedStates
+17129.0,Menard,Illinois,Menard_Illinois_UnitedStates
+17131.0,Mercer,Illinois,Mercer_Illinois_UnitedStates
+17133.0,Monroe,Illinois,Monroe_Illinois_UnitedStates
+17135.0,Montgomery,Illinois,Montgomery_Illinois_UnitedStates
+17137.0,Morgan,Illinois,Morgan_Illinois_UnitedStates
+17139.0,Moultrie,Illinois,Moultrie_Illinois_UnitedStates
+17141.0,Ogle,Illinois,Ogle_Illinois_UnitedStates
+17143.0,Peoria,Illinois,Peoria_Illinois_UnitedStates
+17145.0,Perry,Illinois,Perry_Illinois_UnitedStates
+17147.0,Piatt,Illinois,Piatt_Illinois_UnitedStates
+17149.0,Pike,Illinois,Pike_Illinois_UnitedStates
+17151.0,Pope,Illinois,Pope_Illinois_UnitedStates
+17153.0,Pulaski,Illinois,Pulaski_Illinois_UnitedStates
+17155.0,Putnam,Illinois,Putnam_Illinois_UnitedStates
+17157.0,Randolph,Illinois,Randolph_Illinois_UnitedStates
+17159.0,Richland,Illinois,Richland_Illinois_UnitedStates
+17161.0,Rock Island,Illinois,RockIsland_Illinois_UnitedStates
+17163.0,St. Clair,Illinois,St.Clair_Illinois_UnitedStates
+17165.0,Saline,Illinois,Saline_Illinois_UnitedStates
+17167.0,Sangamon,Illinois,Sangamon_Illinois_UnitedStates
+17169.0,Schuyler,Illinois,Schuyler_Illinois_UnitedStates
+17171.0,Scott,Illinois,Scott_Illinois_UnitedStates
+17173.0,Shelby,Illinois,Shelby_Illinois_UnitedStates
+17175.0,Stark,Illinois,Stark_Illinois_UnitedStates
+17177.0,Stephenson,Illinois,Stephenson_Illinois_UnitedStates
+17179.0,Tazewell,Illinois,Tazewell_Illinois_UnitedStates
+17181.0,Union,Illinois,Union_Illinois_UnitedStates
+17183.0,Vermilion,Illinois,Vermilion_Illinois_UnitedStates
+17185.0,Wabash,Illinois,Wabash_Illinois_UnitedStates
+17187.0,Warren,Illinois,Warren_Illinois_UnitedStates
+17189.0,Washington,Illinois,Washington_Illinois_UnitedStates
+17191.0,Wayne,Illinois,Wayne_Illinois_UnitedStates
+17193.0,White,Illinois,White_Illinois_UnitedStates
+17195.0,Whiteside,Illinois,Whiteside_Illinois_UnitedStates
+17197.0,Will,Illinois,Will_Illinois_UnitedStates
+17199.0,Williamson,Illinois,Williamson_Illinois_UnitedStates
+17201.0,Winnebago,Illinois,Winnebago_Illinois_UnitedStates
+17203.0,Woodford,Illinois,Woodford_Illinois_UnitedStates
+18001.0,Adams,Indiana,Adams_Indiana_UnitedStates
+18003.0,Allen,Indiana,Allen_Indiana_UnitedStates
+18005.0,Bartholomew,Indiana,Bartholomew_Indiana_UnitedStates
+18007.0,Benton,Indiana,Benton_Indiana_UnitedStates
+18009.0,Blackford,Indiana,Blackford_Indiana_UnitedStates
+18011.0,Boone,Indiana,Boone_Indiana_UnitedStates
+18013.0,Brown,Indiana,Brown_Indiana_UnitedStates
+18015.0,Carroll,Indiana,Carroll_Indiana_UnitedStates
+18017.0,Cass,Indiana,Cass_Indiana_UnitedStates
+18019.0,Clark,Indiana,Clark_Indiana_UnitedStates
+18021.0,Clay,Indiana,Clay_Indiana_UnitedStates
+18023.0,Clinton,Indiana,Clinton_Indiana_UnitedStates
+18025.0,Crawford,Indiana,Crawford_Indiana_UnitedStates
+18027.0,Daviess,Indiana,Daviess_Indiana_UnitedStates
+18029.0,Dearborn,Indiana,Dearborn_Indiana_UnitedStates
+18031.0,Decatur,Indiana,Decatur_Indiana_UnitedStates
+18033.0,DeKalb,Indiana,DeKalb_Indiana_UnitedStates
+18035.0,Delaware,Indiana,Delaware_Indiana_UnitedStates
+18037.0,Dubois,Indiana,Dubois_Indiana_UnitedStates
+18039.0,Elkhart,Indiana,Elkhart_Indiana_UnitedStates
+18041.0,Fayette,Indiana,Fayette_Indiana_UnitedStates
+18043.0,Floyd,Indiana,Floyd_Indiana_UnitedStates
+18045.0,Fountain,Indiana,Fountain_Indiana_UnitedStates
+18047.0,Franklin,Indiana,Franklin_Indiana_UnitedStates
+18049.0,Fulton,Indiana,Fulton_Indiana_UnitedStates
+18051.0,Gibson,Indiana,Gibson_Indiana_UnitedStates
+18053.0,Grant,Indiana,Grant_Indiana_UnitedStates
+18055.0,Greene,Indiana,Greene_Indiana_UnitedStates
+18057.0,Hamilton,Indiana,Hamilton_Indiana_UnitedStates
+18059.0,Hancock,Indiana,Hancock_Indiana_UnitedStates
+18061.0,Harrison,Indiana,Harrison_Indiana_UnitedStates
+18063.0,Hendricks,Indiana,Hendricks_Indiana_UnitedStates
+18065.0,Henry,Indiana,Henry_Indiana_UnitedStates
+18067.0,Howard,Indiana,Howard_Indiana_UnitedStates
+18069.0,Huntington,Indiana,Huntington_Indiana_UnitedStates
+18071.0,Jackson,Indiana,Jackson_Indiana_UnitedStates
+18073.0,Jasper,Indiana,Jasper_Indiana_UnitedStates
+18075.0,Jay,Indiana,Jay_Indiana_UnitedStates
+18077.0,Jefferson,Indiana,Jefferson_Indiana_UnitedStates
+18079.0,Jennings,Indiana,Jennings_Indiana_UnitedStates
+18081.0,Johnson,Indiana,Johnson_Indiana_UnitedStates
+18083.0,Knox,Indiana,Knox_Indiana_UnitedStates
+18085.0,Kosciusko,Indiana,Kosciusko_Indiana_UnitedStates
+18087.0,LaGrange,Indiana,LaGrange_Indiana_UnitedStates
+18089.0,Lake,Indiana,Lake_Indiana_UnitedStates
+18091.0,LaPorte,Indiana,LaPorte_Indiana_UnitedStates
+18093.0,Lawrence,Indiana,Lawrence_Indiana_UnitedStates
+18095.0,Madison,Indiana,Madison_Indiana_UnitedStates
+18097.0,Marion,Indiana,Marion_Indiana_UnitedStates
+18099.0,Marshall,Indiana,Marshall_Indiana_UnitedStates
+18101.0,Martin,Indiana,Martin_Indiana_UnitedStates
+18103.0,Miami,Indiana,Miami_Indiana_UnitedStates
+18105.0,Monroe,Indiana,Monroe_Indiana_UnitedStates
+18107.0,Montgomery,Indiana,Montgomery_Indiana_UnitedStates
+18109.0,Morgan,Indiana,Morgan_Indiana_UnitedStates
+18111.0,Newton,Indiana,Newton_Indiana_UnitedStates
+18113.0,Noble,Indiana,Noble_Indiana_UnitedStates
+18115.0,Ohio,Indiana,Ohio_Indiana_UnitedStates
+18117.0,Orange,Indiana,Orange_Indiana_UnitedStates
+18119.0,Owen,Indiana,Owen_Indiana_UnitedStates
+18121.0,Parke,Indiana,Parke_Indiana_UnitedStates
+18123.0,Perry,Indiana,Perry_Indiana_UnitedStates
+18125.0,Pike,Indiana,Pike_Indiana_UnitedStates
+18127.0,Porter,Indiana,Porter_Indiana_UnitedStates
+18129.0,Posey,Indiana,Posey_Indiana_UnitedStates
+18131.0,Pulaski,Indiana,Pulaski_Indiana_UnitedStates
+18133.0,Putnam,Indiana,Putnam_Indiana_UnitedStates
+18135.0,Randolph,Indiana,Randolph_Indiana_UnitedStates
+18137.0,Ripley,Indiana,Ripley_Indiana_UnitedStates
+18139.0,Rush,Indiana,Rush_Indiana_UnitedStates
+18141.0,St. Joseph,Indiana,St.Joseph_Indiana_UnitedStates
+18143.0,Scott,Indiana,Scott_Indiana_UnitedStates
+18145.0,Shelby,Indiana,Shelby_Indiana_UnitedStates
+18147.0,Spencer,Indiana,Spencer_Indiana_UnitedStates
+18149.0,Starke,Indiana,Starke_Indiana_UnitedStates
+18151.0,Steuben,Indiana,Steuben_Indiana_UnitedStates
+18153.0,Sullivan,Indiana,Sullivan_Indiana_UnitedStates
+18155.0,Switzerland,Indiana,Switzerland_Indiana_UnitedStates
+18157.0,Tippecanoe,Indiana,Tippecanoe_Indiana_UnitedStates
+18159.0,Tipton,Indiana,Tipton_Indiana_UnitedStates
+18161.0,Union,Indiana,Union_Indiana_UnitedStates
+18163.0,Vanderburgh,Indiana,Vanderburgh_Indiana_UnitedStates
+18165.0,Vermillion,Indiana,Vermillion_Indiana_UnitedStates
+18167.0,Vigo,Indiana,Vigo_Indiana_UnitedStates
+18169.0,Wabash,Indiana,Wabash_Indiana_UnitedStates
+18171.0,Warren,Indiana,Warren_Indiana_UnitedStates
+18173.0,Warrick,Indiana,Warrick_Indiana_UnitedStates
+18175.0,Washington,Indiana,Washington_Indiana_UnitedStates
+18177.0,Wayne,Indiana,Wayne_Indiana_UnitedStates
+18179.0,Wells,Indiana,Wells_Indiana_UnitedStates
+18181.0,White,Indiana,White_Indiana_UnitedStates
+18183.0,Whitley,Indiana,Whitley_Indiana_UnitedStates
+19001.0,Adair,Iowa,Adair_Iowa_UnitedStates
+19003.0,Adams,Iowa,Adams_Iowa_UnitedStates
+19005.0,Allamakee,Iowa,Allamakee_Iowa_UnitedStates
+19007.0,Appanoose,Iowa,Appanoose_Iowa_UnitedStates
+19009.0,Audubon,Iowa,Audubon_Iowa_UnitedStates
+19011.0,Benton,Iowa,Benton_Iowa_UnitedStates
+19013.0,Black Hawk,Iowa,BlackHawk_Iowa_UnitedStates
+19015.0,Boone,Iowa,Boone_Iowa_UnitedStates
+19017.0,Bremer,Iowa,Bremer_Iowa_UnitedStates
+19019.0,Buchanan,Iowa,Buchanan_Iowa_UnitedStates
+19021.0,Buena Vista,Iowa,BuenaVista_Iowa_UnitedStates
+19023.0,Butler,Iowa,Butler_Iowa_UnitedStates
+19025.0,Calhoun,Iowa,Calhoun_Iowa_UnitedStates
+19027.0,Carroll,Iowa,Carroll_Iowa_UnitedStates
+19029.0,Cass,Iowa,Cass_Iowa_UnitedStates
+19031.0,Cedar,Iowa,Cedar_Iowa_UnitedStates
+19033.0,Cerro Gordo,Iowa,CerroGordo_Iowa_UnitedStates
+19035.0,Cherokee,Iowa,Cherokee_Iowa_UnitedStates
+19037.0,Chickasaw,Iowa,Chickasaw_Iowa_UnitedStates
+19039.0,Clarke,Iowa,Clarke_Iowa_UnitedStates
+19041.0,Clay,Iowa,Clay_Iowa_UnitedStates
+19043.0,Clayton,Iowa,Clayton_Iowa_UnitedStates
+19045.0,Clinton,Iowa,Clinton_Iowa_UnitedStates
+19047.0,Crawford,Iowa,Crawford_Iowa_UnitedStates
+19049.0,Dallas,Iowa,Dallas_Iowa_UnitedStates
+19051.0,Davis,Iowa,Davis_Iowa_UnitedStates
+19053.0,Decatur,Iowa,Decatur_Iowa_UnitedStates
+19055.0,Delaware,Iowa,Delaware_Iowa_UnitedStates
+19057.0,Des Moines,Iowa,DesMoines_Iowa_UnitedStates
+19059.0,Dickinson,Iowa,Dickinson_Iowa_UnitedStates
+19061.0,Dubuque,Iowa,Dubuque_Iowa_UnitedStates
+19063.0,Emmet,Iowa,Emmet_Iowa_UnitedStates
+19065.0,Fayette,Iowa,Fayette_Iowa_UnitedStates
+19067.0,Floyd,Iowa,Floyd_Iowa_UnitedStates
+19069.0,Franklin,Iowa,Franklin_Iowa_UnitedStates
+19071.0,Fremont,Iowa,Fremont_Iowa_UnitedStates
+19073.0,Greene,Iowa,Greene_Iowa_UnitedStates
+19075.0,Grundy,Iowa,Grundy_Iowa_UnitedStates
+19077.0,Guthrie,Iowa,Guthrie_Iowa_UnitedStates
+19079.0,Hamilton,Iowa,Hamilton_Iowa_UnitedStates
+19081.0,Hancock,Iowa,Hancock_Iowa_UnitedStates
+19083.0,Hardin,Iowa,Hardin_Iowa_UnitedStates
+19085.0,Harrison,Iowa,Harrison_Iowa_UnitedStates
+19087.0,Henry,Iowa,Henry_Iowa_UnitedStates
+19089.0,Howard,Iowa,Howard_Iowa_UnitedStates
+19091.0,Humboldt,Iowa,Humboldt_Iowa_UnitedStates
+19093.0,Ida,Iowa,Ida_Iowa_UnitedStates
+19095.0,Iowa,Iowa,Iowa_Iowa_UnitedStates
+19097.0,Jackson,Iowa,Jackson_Iowa_UnitedStates
+19099.0,Jasper,Iowa,Jasper_Iowa_UnitedStates
+19101.0,Jefferson,Iowa,Jefferson_Iowa_UnitedStates
+19103.0,Johnson,Iowa,Johnson_Iowa_UnitedStates
+19105.0,Jones,Iowa,Jones_Iowa_UnitedStates
+19107.0,Keokuk,Iowa,Keokuk_Iowa_UnitedStates
+19109.0,Kossuth,Iowa,Kossuth_Iowa_UnitedStates
+19111.0,Lee,Iowa,Lee_Iowa_UnitedStates
+19113.0,Linn,Iowa,Linn_Iowa_UnitedStates
+19115.0,Louisa,Iowa,Louisa_Iowa_UnitedStates
+19117.0,Lucas,Iowa,Lucas_Iowa_UnitedStates
+19119.0,Lyon,Iowa,Lyon_Iowa_UnitedStates
+19121.0,Madison,Iowa,Madison_Iowa_UnitedStates
+19123.0,Mahaska,Iowa,Mahaska_Iowa_UnitedStates
+19125.0,Marion,Iowa,Marion_Iowa_UnitedStates
+19127.0,Marshall,Iowa,Marshall_Iowa_UnitedStates
+19129.0,Mills,Iowa,Mills_Iowa_UnitedStates
+19131.0,Mitchell,Iowa,Mitchell_Iowa_UnitedStates
+19133.0,Monona,Iowa,Monona_Iowa_UnitedStates
+19135.0,Monroe,Iowa,Monroe_Iowa_UnitedStates
+19137.0,Montgomery,Iowa,Montgomery_Iowa_UnitedStates
+19139.0,Muscatine,Iowa,Muscatine_Iowa_UnitedStates
+19141.0,O'Brien,Iowa,O'Brien_Iowa_UnitedStates
+19143.0,Osceola,Iowa,Osceola_Iowa_UnitedStates
+19145.0,Page,Iowa,Page_Iowa_UnitedStates
+19147.0,Palo Alto,Iowa,PaloAlto_Iowa_UnitedStates
+19149.0,Plymouth,Iowa,Plymouth_Iowa_UnitedStates
+19151.0,Pocahontas,Iowa,Pocahontas_Iowa_UnitedStates
+19153.0,Polk,Iowa,Polk_Iowa_UnitedStates
+19155.0,Pottawattamie,Iowa,Pottawattamie_Iowa_UnitedStates
+19157.0,Poweshiek,Iowa,Poweshiek_Iowa_UnitedStates
+19159.0,Ringgold,Iowa,Ringgold_Iowa_UnitedStates
+19161.0,Sac,Iowa,Sac_Iowa_UnitedStates
+19163.0,Scott,Iowa,Scott_Iowa_UnitedStates
+19165.0,Shelby,Iowa,Shelby_Iowa_UnitedStates
+19167.0,Sioux,Iowa,Sioux_Iowa_UnitedStates
+19169.0,Story,Iowa,Story_Iowa_UnitedStates
+19171.0,Tama,Iowa,Tama_Iowa_UnitedStates
+19173.0,Taylor,Iowa,Taylor_Iowa_UnitedStates
+19175.0,Union,Iowa,Union_Iowa_UnitedStates
+19177.0,Van Buren,Iowa,VanBuren_Iowa_UnitedStates
+19179.0,Wapello,Iowa,Wapello_Iowa_UnitedStates
+19181.0,Warren,Iowa,Warren_Iowa_UnitedStates
+19183.0,Washington,Iowa,Washington_Iowa_UnitedStates
+19185.0,Wayne,Iowa,Wayne_Iowa_UnitedStates
+19187.0,Webster,Iowa,Webster_Iowa_UnitedStates
+19189.0,Winnebago,Iowa,Winnebago_Iowa_UnitedStates
+19191.0,Winneshiek,Iowa,Winneshiek_Iowa_UnitedStates
+19193.0,Woodbury,Iowa,Woodbury_Iowa_UnitedStates
+19195.0,Worth,Iowa,Worth_Iowa_UnitedStates
+19197.0,Wright,Iowa,Wright_Iowa_UnitedStates
+20001.0,Allen,Kansas,Allen_Kansas_UnitedStates
+20003.0,Anderson,Kansas,Anderson_Kansas_UnitedStates
+20005.0,Atchison,Kansas,Atchison_Kansas_UnitedStates
+20007.0,Barber,Kansas,Barber_Kansas_UnitedStates
+20009.0,Barton,Kansas,Barton_Kansas_UnitedStates
+20011.0,Bourbon,Kansas,Bourbon_Kansas_UnitedStates
+20013.0,Brown,Kansas,Brown_Kansas_UnitedStates
+20015.0,Butler,Kansas,Butler_Kansas_UnitedStates
+20017.0,Chase,Kansas,Chase_Kansas_UnitedStates
+20019.0,Chautauqua,Kansas,Chautauqua_Kansas_UnitedStates
+20021.0,Cherokee,Kansas,Cherokee_Kansas_UnitedStates
+20023.0,Cheyenne,Kansas,Cheyenne_Kansas_UnitedStates
+20025.0,Clark,Kansas,Clark_Kansas_UnitedStates
+20027.0,Clay,Kansas,Clay_Kansas_UnitedStates
+20029.0,Cloud,Kansas,Cloud_Kansas_UnitedStates
+20031.0,Coffey,Kansas,Coffey_Kansas_UnitedStates
+20033.0,Comanche,Kansas,Comanche_Kansas_UnitedStates
+20035.0,Cowley,Kansas,Cowley_Kansas_UnitedStates
+20037.0,Crawford,Kansas,Crawford_Kansas_UnitedStates
+20039.0,Decatur,Kansas,Decatur_Kansas_UnitedStates
+20041.0,Dickinson,Kansas,Dickinson_Kansas_UnitedStates
+20043.0,Doniphan,Kansas,Doniphan_Kansas_UnitedStates
+20045.0,Douglas,Kansas,Douglas_Kansas_UnitedStates
+20047.0,Edwards,Kansas,Edwards_Kansas_UnitedStates
+20049.0,Elk,Kansas,Elk_Kansas_UnitedStates
+20051.0,Ellis,Kansas,Ellis_Kansas_UnitedStates
+20053.0,Ellsworth,Kansas,Ellsworth_Kansas_UnitedStates
+20055.0,Finney,Kansas,Finney_Kansas_UnitedStates
+20057.0,Ford,Kansas,Ford_Kansas_UnitedStates
+20059.0,Franklin,Kansas,Franklin_Kansas_UnitedStates
+20061.0,Geary,Kansas,Geary_Kansas_UnitedStates
+20063.0,Gove,Kansas,Gove_Kansas_UnitedStates
+20065.0,Graham,Kansas,Graham_Kansas_UnitedStates
+20067.0,Grant,Kansas,Grant_Kansas_UnitedStates
+20069.0,Gray,Kansas,Gray_Kansas_UnitedStates
+20071.0,Greeley,Kansas,Greeley_Kansas_UnitedStates
+20073.0,Greenwood,Kansas,Greenwood_Kansas_UnitedStates
+20075.0,Hamilton,Kansas,Hamilton_Kansas_UnitedStates
+20077.0,Harper,Kansas,Harper_Kansas_UnitedStates
+20079.0,Harvey,Kansas,Harvey_Kansas_UnitedStates
+20081.0,Haskell,Kansas,Haskell_Kansas_UnitedStates
+20083.0,Hodgeman,Kansas,Hodgeman_Kansas_UnitedStates
+20085.0,Jackson,Kansas,Jackson_Kansas_UnitedStates
+20087.0,Jefferson,Kansas,Jefferson_Kansas_UnitedStates
+20089.0,Jewell,Kansas,Jewell_Kansas_UnitedStates
+20091.0,Johnson,Kansas,Johnson_Kansas_UnitedStates
+20093.0,Kearny,Kansas,Kearny_Kansas_UnitedStates
+20095.0,Kingman,Kansas,Kingman_Kansas_UnitedStates
+20097.0,Kiowa,Kansas,Kiowa_Kansas_UnitedStates
+20099.0,Labette,Kansas,Labette_Kansas_UnitedStates
+20101.0,Lane,Kansas,Lane_Kansas_UnitedStates
+20103.0,Leavenworth,Kansas,Leavenworth_Kansas_UnitedStates
+20105.0,Lincoln,Kansas,Lincoln_Kansas_UnitedStates
+20107.0,Linn,Kansas,Linn_Kansas_UnitedStates
+20109.0,Logan,Kansas,Logan_Kansas_UnitedStates
+20111.0,Lyon,Kansas,Lyon_Kansas_UnitedStates
+20113.0,McPherson,Kansas,McPherson_Kansas_UnitedStates
+20115.0,Marion,Kansas,Marion_Kansas_UnitedStates
+20117.0,Marshall,Kansas,Marshall_Kansas_UnitedStates
+20119.0,Meade,Kansas,Meade_Kansas_UnitedStates
+20121.0,Miami,Kansas,Miami_Kansas_UnitedStates
+20123.0,Mitchell,Kansas,Mitchell_Kansas_UnitedStates
+20125.0,Montgomery,Kansas,Montgomery_Kansas_UnitedStates
+20127.0,Morris,Kansas,Morris_Kansas_UnitedStates
+20129.0,Morton,Kansas,Morton_Kansas_UnitedStates
+20131.0,Nemaha,Kansas,Nemaha_Kansas_UnitedStates
+20133.0,Neosho,Kansas,Neosho_Kansas_UnitedStates
+20135.0,Ness,Kansas,Ness_Kansas_UnitedStates
+20137.0,Norton,Kansas,Norton_Kansas_UnitedStates
+20139.0,Osage,Kansas,Osage_Kansas_UnitedStates
+20141.0,Osborne,Kansas,Osborne_Kansas_UnitedStates
+20143.0,Ottawa,Kansas,Ottawa_Kansas_UnitedStates
+20145.0,Pawnee,Kansas,Pawnee_Kansas_UnitedStates
+20147.0,Phillips,Kansas,Phillips_Kansas_UnitedStates
+20149.0,Pottawatomie,Kansas,Pottawatomie_Kansas_UnitedStates
+20151.0,Pratt,Kansas,Pratt_Kansas_UnitedStates
+20153.0,Rawlins,Kansas,Rawlins_Kansas_UnitedStates
+20155.0,Reno,Kansas,Reno_Kansas_UnitedStates
+20157.0,Republic,Kansas,Republic_Kansas_UnitedStates
+20159.0,Rice,Kansas,Rice_Kansas_UnitedStates
+20161.0,Riley,Kansas,Riley_Kansas_UnitedStates
+20163.0,Rooks,Kansas,Rooks_Kansas_UnitedStates
+20165.0,Rush,Kansas,Rush_Kansas_UnitedStates
+20167.0,Russell,Kansas,Russell_Kansas_UnitedStates
+20169.0,Saline,Kansas,Saline_Kansas_UnitedStates
+20171.0,Scott,Kansas,Scott_Kansas_UnitedStates
+20173.0,Sedgwick,Kansas,Sedgwick_Kansas_UnitedStates
+20175.0,Seward,Kansas,Seward_Kansas_UnitedStates
+20177.0,Shawnee,Kansas,Shawnee_Kansas_UnitedStates
+20179.0,Sheridan,Kansas,Sheridan_Kansas_UnitedStates
+20181.0,Sherman,Kansas,Sherman_Kansas_UnitedStates
+20183.0,Smith,Kansas,Smith_Kansas_UnitedStates
+20185.0,Stafford,Kansas,Stafford_Kansas_UnitedStates
+20187.0,Stanton,Kansas,Stanton_Kansas_UnitedStates
+20189.0,Stevens,Kansas,Stevens_Kansas_UnitedStates
+20191.0,Sumner,Kansas,Sumner_Kansas_UnitedStates
+20193.0,Thomas,Kansas,Thomas_Kansas_UnitedStates
+20195.0,Trego,Kansas,Trego_Kansas_UnitedStates
+20197.0,Wabaunsee,Kansas,Wabaunsee_Kansas_UnitedStates
+20199.0,Wallace,Kansas,Wallace_Kansas_UnitedStates
+20201.0,Washington,Kansas,Washington_Kansas_UnitedStates
+20203.0,Wichita,Kansas,Wichita_Kansas_UnitedStates
+20205.0,Wilson,Kansas,Wilson_Kansas_UnitedStates
+20207.0,Woodson,Kansas,Woodson_Kansas_UnitedStates
+20209.0,Wyandotte,Kansas,Wyandotte_Kansas_UnitedStates
+21001.0,Adair,Kentucky,Adair_Kentucky_UnitedStates
+21003.0,Allen,Kentucky,Allen_Kentucky_UnitedStates
+21005.0,Anderson,Kentucky,Anderson_Kentucky_UnitedStates
+21007.0,Ballard,Kentucky,Ballard_Kentucky_UnitedStates
+21009.0,Barren,Kentucky,Barren_Kentucky_UnitedStates
+21011.0,Bath,Kentucky,Bath_Kentucky_UnitedStates
+21013.0,Bell,Kentucky,Bell_Kentucky_UnitedStates
+21015.0,Boone,Kentucky,Boone_Kentucky_UnitedStates
+21017.0,Bourbon,Kentucky,Bourbon_Kentucky_UnitedStates
+21019.0,Boyd,Kentucky,Boyd_Kentucky_UnitedStates
+21021.0,Boyle,Kentucky,Boyle_Kentucky_UnitedStates
+21023.0,Bracken,Kentucky,Bracken_Kentucky_UnitedStates
+21025.0,Breathitt,Kentucky,Breathitt_Kentucky_UnitedStates
+21027.0,Breckinridge,Kentucky,Breckinridge_Kentucky_UnitedStates
+21029.0,Bullitt,Kentucky,Bullitt_Kentucky_UnitedStates
+21031.0,Butler,Kentucky,Butler_Kentucky_UnitedStates
+21033.0,Caldwell,Kentucky,Caldwell_Kentucky_UnitedStates
+21035.0,Calloway,Kentucky,Calloway_Kentucky_UnitedStates
+21037.0,Campbell,Kentucky,Campbell_Kentucky_UnitedStates
+21039.0,Carlisle,Kentucky,Carlisle_Kentucky_UnitedStates
+21041.0,Carroll,Kentucky,Carroll_Kentucky_UnitedStates
+21043.0,Carter,Kentucky,Carter_Kentucky_UnitedStates
+21045.0,Casey,Kentucky,Casey_Kentucky_UnitedStates
+21047.0,Christian,Kentucky,Christian_Kentucky_UnitedStates
+21049.0,Clark,Kentucky,Clark_Kentucky_UnitedStates
+21051.0,Clay,Kentucky,Clay_Kentucky_UnitedStates
+21053.0,Clinton,Kentucky,Clinton_Kentucky_UnitedStates
+21055.0,Crittenden,Kentucky,Crittenden_Kentucky_UnitedStates
+21057.0,Cumberland,Kentucky,Cumberland_Kentucky_UnitedStates
+21059.0,Daviess,Kentucky,Daviess_Kentucky_UnitedStates
+21061.0,Edmonson,Kentucky,Edmonson_Kentucky_UnitedStates
+21063.0,Elliott,Kentucky,Elliott_Kentucky_UnitedStates
+21065.0,Estill,Kentucky,Estill_Kentucky_UnitedStates
+21067.0,Fayette,Kentucky,Fayette_Kentucky_UnitedStates
+21069.0,Fleming,Kentucky,Fleming_Kentucky_UnitedStates
+21071.0,Floyd,Kentucky,Floyd_Kentucky_UnitedStates
+21073.0,Franklin,Kentucky,Franklin_Kentucky_UnitedStates
+21075.0,Fulton,Kentucky,Fulton_Kentucky_UnitedStates
+21077.0,Gallatin,Kentucky,Gallatin_Kentucky_UnitedStates
+21079.0,Garrard,Kentucky,Garrard_Kentucky_UnitedStates
+21081.0,Grant,Kentucky,Grant_Kentucky_UnitedStates
+21083.0,Graves,Kentucky,Graves_Kentucky_UnitedStates
+21085.0,Grayson,Kentucky,Grayson_Kentucky_UnitedStates
+21087.0,Green,Kentucky,Green_Kentucky_UnitedStates
+21089.0,Greenup,Kentucky,Greenup_Kentucky_UnitedStates
+21091.0,Hancock,Kentucky,Hancock_Kentucky_UnitedStates
+21093.0,Hardin,Kentucky,Hardin_Kentucky_UnitedStates
+21095.0,Harlan,Kentucky,Harlan_Kentucky_UnitedStates
+21097.0,Harrison,Kentucky,Harrison_Kentucky_UnitedStates
+21099.0,Hart,Kentucky,Hart_Kentucky_UnitedStates
+21101.0,Henderson,Kentucky,Henderson_Kentucky_UnitedStates
+21103.0,Henry,Kentucky,Henry_Kentucky_UnitedStates
+21105.0,Hickman,Kentucky,Hickman_Kentucky_UnitedStates
+21107.0,Hopkins,Kentucky,Hopkins_Kentucky_UnitedStates
+21109.0,Jackson,Kentucky,Jackson_Kentucky_UnitedStates
+21111.0,Jefferson,Kentucky,Jefferson_Kentucky_UnitedStates
+21113.0,Jessamine,Kentucky,Jessamine_Kentucky_UnitedStates
+21115.0,Johnson,Kentucky,Johnson_Kentucky_UnitedStates
+21117.0,Kenton,Kentucky,Kenton_Kentucky_UnitedStates
+21119.0,Knott,Kentucky,Knott_Kentucky_UnitedStates
+21121.0,Knox,Kentucky,Knox_Kentucky_UnitedStates
+21123.0,Larue,Kentucky,Larue_Kentucky_UnitedStates
+21125.0,Laurel,Kentucky,Laurel_Kentucky_UnitedStates
+21127.0,Lawrence,Kentucky,Lawrence_Kentucky_UnitedStates
+21129.0,Lee,Kentucky,Lee_Kentucky_UnitedStates
+21131.0,Leslie,Kentucky,Leslie_Kentucky_UnitedStates
+21133.0,Letcher,Kentucky,Letcher_Kentucky_UnitedStates
+21135.0,Lewis,Kentucky,Lewis_Kentucky_UnitedStates
+21137.0,Lincoln,Kentucky,Lincoln_Kentucky_UnitedStates
+21139.0,Livingston,Kentucky,Livingston_Kentucky_UnitedStates
+21141.0,Logan,Kentucky,Logan_Kentucky_UnitedStates
+21143.0,Lyon,Kentucky,Lyon_Kentucky_UnitedStates
+21145.0,McCracken,Kentucky,McCracken_Kentucky_UnitedStates
+21147.0,McCreary,Kentucky,McCreary_Kentucky_UnitedStates
+21149.0,McLean,Kentucky,McLean_Kentucky_UnitedStates
+21151.0,Madison,Kentucky,Madison_Kentucky_UnitedStates
+21153.0,Magoffin,Kentucky,Magoffin_Kentucky_UnitedStates
+21155.0,Marion,Kentucky,Marion_Kentucky_UnitedStates
+21157.0,Marshall,Kentucky,Marshall_Kentucky_UnitedStates
+21159.0,Martin,Kentucky,Martin_Kentucky_UnitedStates
+21161.0,Mason,Kentucky,Mason_Kentucky_UnitedStates
+21163.0,Meade,Kentucky,Meade_Kentucky_UnitedStates
+21165.0,Menifee,Kentucky,Menifee_Kentucky_UnitedStates
+21167.0,Mercer,Kentucky,Mercer_Kentucky_UnitedStates
+21169.0,Metcalfe,Kentucky,Metcalfe_Kentucky_UnitedStates
+21171.0,Monroe,Kentucky,Monroe_Kentucky_UnitedStates
+21173.0,Montgomery,Kentucky,Montgomery_Kentucky_UnitedStates
+21175.0,Morgan,Kentucky,Morgan_Kentucky_UnitedStates
+21177.0,Muhlenberg,Kentucky,Muhlenberg_Kentucky_UnitedStates
+21179.0,Nelson,Kentucky,Nelson_Kentucky_UnitedStates
+21181.0,Nicholas,Kentucky,Nicholas_Kentucky_UnitedStates
+21183.0,Ohio,Kentucky,Ohio_Kentucky_UnitedStates
+21185.0,Oldham,Kentucky,Oldham_Kentucky_UnitedStates
+21187.0,Owen,Kentucky,Owen_Kentucky_UnitedStates
+21189.0,Owsley,Kentucky,Owsley_Kentucky_UnitedStates
+21191.0,Pendleton,Kentucky,Pendleton_Kentucky_UnitedStates
+21193.0,Perry,Kentucky,Perry_Kentucky_UnitedStates
+21195.0,Pike,Kentucky,Pike_Kentucky_UnitedStates
+21197.0,Powell,Kentucky,Powell_Kentucky_UnitedStates
+21199.0,Pulaski,Kentucky,Pulaski_Kentucky_UnitedStates
+21201.0,Robertson,Kentucky,Robertson_Kentucky_UnitedStates
+21203.0,Rockcastle,Kentucky,Rockcastle_Kentucky_UnitedStates
+21205.0,Rowan,Kentucky,Rowan_Kentucky_UnitedStates
+21207.0,Russell,Kentucky,Russell_Kentucky_UnitedStates
+21209.0,Scott,Kentucky,Scott_Kentucky_UnitedStates
+21211.0,Shelby,Kentucky,Shelby_Kentucky_UnitedStates
+21213.0,Simpson,Kentucky,Simpson_Kentucky_UnitedStates
+21215.0,Spencer,Kentucky,Spencer_Kentucky_UnitedStates
+21217.0,Taylor,Kentucky,Taylor_Kentucky_UnitedStates
+21219.0,Todd,Kentucky,Todd_Kentucky_UnitedStates
+21221.0,Trigg,Kentucky,Trigg_Kentucky_UnitedStates
+21223.0,Trimble,Kentucky,Trimble_Kentucky_UnitedStates
+21225.0,Union,Kentucky,Union_Kentucky_UnitedStates
+21227.0,Warren,Kentucky,Warren_Kentucky_UnitedStates
+21229.0,Washington,Kentucky,Washington_Kentucky_UnitedStates
+21231.0,Wayne,Kentucky,Wayne_Kentucky_UnitedStates
+21233.0,Webster,Kentucky,Webster_Kentucky_UnitedStates
+21235.0,Whitley,Kentucky,Whitley_Kentucky_UnitedStates
+21237.0,Wolfe,Kentucky,Wolfe_Kentucky_UnitedStates
+21239.0,Woodford,Kentucky,Woodford_Kentucky_UnitedStates
+22001.0,Acadia,Louisiana,Acadia_Louisiana_UnitedStates
+22003.0,Allen,Louisiana,Allen_Louisiana_UnitedStates
+22005.0,Ascension,Louisiana,Ascension_Louisiana_UnitedStates
+22007.0,Assumption,Louisiana,Assumption_Louisiana_UnitedStates
+22009.0,Avoyelles,Louisiana,Avoyelles_Louisiana_UnitedStates
+22011.0,Beauregard,Louisiana,Beauregard_Louisiana_UnitedStates
+22013.0,Bienville,Louisiana,Bienville_Louisiana_UnitedStates
+22015.0,Bossier,Louisiana,Bossier_Louisiana_UnitedStates
+22017.0,Caddo,Louisiana,Caddo_Louisiana_UnitedStates
+22019.0,Calcasieu,Louisiana,Calcasieu_Louisiana_UnitedStates
+22021.0,Caldwell,Louisiana,Caldwell_Louisiana_UnitedStates
+22023.0,Cameron,Louisiana,Cameron_Louisiana_UnitedStates
+22025.0,Catahoula,Louisiana,Catahoula_Louisiana_UnitedStates
+22027.0,Claiborne,Louisiana,Claiborne_Louisiana_UnitedStates
+22029.0,Concordia,Louisiana,Concordia_Louisiana_UnitedStates
+22031.0,De Soto,Louisiana,DeSoto_Louisiana_UnitedStates
+22033.0,East Baton Rouge,Louisiana,EastBatonRouge_Louisiana_UnitedStates
+22035.0,East Carroll,Louisiana,EastCarroll_Louisiana_UnitedStates
+22037.0,East Feliciana,Louisiana,EastFeliciana_Louisiana_UnitedStates
+22039.0,Evangeline,Louisiana,Evangeline_Louisiana_UnitedStates
+22041.0,Franklin,Louisiana,Franklin_Louisiana_UnitedStates
+22043.0,Grant,Louisiana,Grant_Louisiana_UnitedStates
+22045.0,Iberia,Louisiana,Iberia_Louisiana_UnitedStates
+22047.0,Iberville,Louisiana,Iberville_Louisiana_UnitedStates
+22049.0,Jackson,Louisiana,Jackson_Louisiana_UnitedStates
+22051.0,Jefferson,Louisiana,Jefferson_Louisiana_UnitedStates
+22053.0,Jefferson Davis,Louisiana,JeffersonDavis_Louisiana_UnitedStates
+22055.0,Lafayette,Louisiana,Lafayette_Louisiana_UnitedStates
+22057.0,Lafourche,Louisiana,Lafourche_Louisiana_UnitedStates
+22059.0,LaSalle,Louisiana,LaSalle_Louisiana_UnitedStates
+22061.0,Lincoln,Louisiana,Lincoln_Louisiana_UnitedStates
+22063.0,Livingston,Louisiana,Livingston_Louisiana_UnitedStates
+22065.0,Madison,Louisiana,Madison_Louisiana_UnitedStates
+22067.0,Morehouse,Louisiana,Morehouse_Louisiana_UnitedStates
+22069.0,Natchitoches,Louisiana,Natchitoches_Louisiana_UnitedStates
+22071.0,Orleans,Louisiana,Orleans_Louisiana_UnitedStates
+22073.0,Ouachita,Louisiana,Ouachita_Louisiana_UnitedStates
+22075.0,Plaquemines,Louisiana,Plaquemines_Louisiana_UnitedStates
+22077.0,Pointe Coupee,Louisiana,PointeCoupee_Louisiana_UnitedStates
+22079.0,Rapides,Louisiana,Rapides_Louisiana_UnitedStates
+22081.0,Red River,Louisiana,RedRiver_Louisiana_UnitedStates
+22083.0,Richland,Louisiana,Richland_Louisiana_UnitedStates
+22085.0,Sabine,Louisiana,Sabine_Louisiana_UnitedStates
+22087.0,St. Bernard,Louisiana,St.Bernard_Louisiana_UnitedStates
+22089.0,St. Charles,Louisiana,St.Charles_Louisiana_UnitedStates
+22091.0,St. Helena,Louisiana,St.Helena_Louisiana_UnitedStates
+22093.0,St. James,Louisiana,St.James_Louisiana_UnitedStates
+22095.0,St. John the Baptist,Louisiana,St.JohntheBaptist_Louisiana_UnitedStates
+22097.0,St. Landry,Louisiana,St.Landry_Louisiana_UnitedStates
+22099.0,St. Martin,Louisiana,St.Martin_Louisiana_UnitedStates
+22101.0,St. Mary,Louisiana,St.Mary_Louisiana_UnitedStates
+22103.0,St. Tammany,Louisiana,St.Tammany_Louisiana_UnitedStates
+22105.0,Tangipahoa,Louisiana,Tangipahoa_Louisiana_UnitedStates
+22107.0,Tensas,Louisiana,Tensas_Louisiana_UnitedStates
+22109.0,Terrebonne,Louisiana,Terrebonne_Louisiana_UnitedStates
+22111.0,Union,Louisiana,Union_Louisiana_UnitedStates
+22113.0,Vermilion,Louisiana,Vermilion_Louisiana_UnitedStates
+22115.0,Vernon,Louisiana,Vernon_Louisiana_UnitedStates
+22117.0,Washington,Louisiana,Washington_Louisiana_UnitedStates
+22119.0,Webster,Louisiana,Webster_Louisiana_UnitedStates
+22121.0,West Baton Rouge,Louisiana,WestBatonRouge_Louisiana_UnitedStates
+22123.0,West Carroll,Louisiana,WestCarroll_Louisiana_UnitedStates
+22125.0,West Feliciana,Louisiana,WestFeliciana_Louisiana_UnitedStates
+22127.0,Winn,Louisiana,Winn_Louisiana_UnitedStates
+23001.0,Androscoggin,Maine,Androscoggin_Maine_UnitedStates
+23003.0,Aroostook,Maine,Aroostook_Maine_UnitedStates
+23005.0,Cumberland,Maine,Cumberland_Maine_UnitedStates
+23007.0,Franklin,Maine,Franklin_Maine_UnitedStates
+23009.0,Hancock,Maine,Hancock_Maine_UnitedStates
+23011.0,Kennebec,Maine,Kennebec_Maine_UnitedStates
+23013.0,Knox,Maine,Knox_Maine_UnitedStates
+23015.0,Lincoln,Maine,Lincoln_Maine_UnitedStates
+23017.0,Oxford,Maine,Oxford_Maine_UnitedStates
+23019.0,Penobscot,Maine,Penobscot_Maine_UnitedStates
+23021.0,Piscataquis,Maine,Piscataquis_Maine_UnitedStates
+23023.0,Sagadahoc,Maine,Sagadahoc_Maine_UnitedStates
+23025.0,Somerset,Maine,Somerset_Maine_UnitedStates
+23027.0,Waldo,Maine,Waldo_Maine_UnitedStates
+23029.0,Washington,Maine,Washington_Maine_UnitedStates
+23031.0,York,Maine,York_Maine_UnitedStates
+24001.0,Allegany,Maryland,Allegany_Maryland_UnitedStates
+24003.0,Anne Arundel,Maryland,AnneArundel_Maryland_UnitedStates
+24005.0,Baltimore,Maryland,Baltimore_Maryland_UnitedStates
+24009.0,Calvert,Maryland,Calvert_Maryland_UnitedStates
+24011.0,Caroline,Maryland,Caroline_Maryland_UnitedStates
+24013.0,Carroll,Maryland,Carroll_Maryland_UnitedStates
+24015.0,Cecil,Maryland,Cecil_Maryland_UnitedStates
+24017.0,Charles,Maryland,Charles_Maryland_UnitedStates
+24019.0,Dorchester,Maryland,Dorchester_Maryland_UnitedStates
+24021.0,Frederick,Maryland,Frederick_Maryland_UnitedStates
+24023.0,Garrett,Maryland,Garrett_Maryland_UnitedStates
+24025.0,Harford,Maryland,Harford_Maryland_UnitedStates
+24027.0,Howard,Maryland,Howard_Maryland_UnitedStates
+24029.0,Kent,Maryland,Kent_Maryland_UnitedStates
+24031.0,Montgomery,Maryland,Montgomery_Maryland_UnitedStates
+24033.0,Prince George's,Maryland,PrinceGeorge's_Maryland_UnitedStates
+24035.0,Queen Anne's,Maryland,QueenAnne's_Maryland_UnitedStates
+24037.0,St. Mary's,Maryland,St.Mary's_Maryland_UnitedStates
+24039.0,Somerset,Maryland,Somerset_Maryland_UnitedStates
+24041.0,Talbot,Maryland,Talbot_Maryland_UnitedStates
+24043.0,Washington,Maryland,Washington_Maryland_UnitedStates
+24045.0,Wicomico,Maryland,Wicomico_Maryland_UnitedStates
+24047.0,Worcester,Maryland,Worcester_Maryland_UnitedStates
+24510.0,Baltimore City,Maryland,BaltimoreCity_Maryland_UnitedStates
+25001.0,Barnstable,Massachusetts,Barnstable_Massachusetts_UnitedStates
+25003.0,Berkshire,Massachusetts,Berkshire_Massachusetts_UnitedStates
+25005.0,Bristol,Massachusetts,Bristol_Massachusetts_UnitedStates
+25007.0,Dukes,Massachusetts,Dukes_Massachusetts_UnitedStates
+25009.0,Essex,Massachusetts,Essex_Massachusetts_UnitedStates
+25011.0,Franklin,Massachusetts,Franklin_Massachusetts_UnitedStates
+25013.0,Hampden,Massachusetts,Hampden_Massachusetts_UnitedStates
+25015.0,Hampshire,Massachusetts,Hampshire_Massachusetts_UnitedStates
+25017.0,Middlesex,Massachusetts,Middlesex_Massachusetts_UnitedStates
+25019.0,Nantucket,Massachusetts,Nantucket_Massachusetts_UnitedStates
+25021.0,Norfolk,Massachusetts,Norfolk_Massachusetts_UnitedStates
+25023.0,Plymouth,Massachusetts,Plymouth_Massachusetts_UnitedStates
+25025.0,Suffolk,Massachusetts,Suffolk_Massachusetts_UnitedStates
+25027.0,Worcester,Massachusetts,Worcester_Massachusetts_UnitedStates
+26001.0,Alcona,Michigan,Alcona_Michigan_UnitedStates
+26003.0,Alger,Michigan,Alger_Michigan_UnitedStates
+26005.0,Allegan,Michigan,Allegan_Michigan_UnitedStates
+26007.0,Alpena,Michigan,Alpena_Michigan_UnitedStates
+26009.0,Antrim,Michigan,Antrim_Michigan_UnitedStates
+26011.0,Arenac,Michigan,Arenac_Michigan_UnitedStates
+26013.0,Baraga,Michigan,Baraga_Michigan_UnitedStates
+26015.0,Barry,Michigan,Barry_Michigan_UnitedStates
+26017.0,Bay,Michigan,Bay_Michigan_UnitedStates
+26019.0,Benzie,Michigan,Benzie_Michigan_UnitedStates
+26021.0,Berrien,Michigan,Berrien_Michigan_UnitedStates
+26023.0,Branch,Michigan,Branch_Michigan_UnitedStates
+26025.0,Calhoun,Michigan,Calhoun_Michigan_UnitedStates
+26027.0,Cass,Michigan,Cass_Michigan_UnitedStates
+26029.0,Charlevoix,Michigan,Charlevoix_Michigan_UnitedStates
+26031.0,Cheboygan,Michigan,Cheboygan_Michigan_UnitedStates
+26033.0,Chippewa,Michigan,Chippewa_Michigan_UnitedStates
+26035.0,Clare,Michigan,Clare_Michigan_UnitedStates
+26037.0,Clinton,Michigan,Clinton_Michigan_UnitedStates
+26039.0,Crawford,Michigan,Crawford_Michigan_UnitedStates
+26041.0,Delta,Michigan,Delta_Michigan_UnitedStates
+26043.0,Dickinson,Michigan,Dickinson_Michigan_UnitedStates
+26045.0,Eaton,Michigan,Eaton_Michigan_UnitedStates
+26047.0,Emmet,Michigan,Emmet_Michigan_UnitedStates
+26049.0,Genesee,Michigan,Genesee_Michigan_UnitedStates
+26051.0,Gladwin,Michigan,Gladwin_Michigan_UnitedStates
+26053.0,Gogebic,Michigan,Gogebic_Michigan_UnitedStates
+26055.0,Grand Traverse,Michigan,GrandTraverse_Michigan_UnitedStates
+26057.0,Gratiot,Michigan,Gratiot_Michigan_UnitedStates
+26059.0,Hillsdale,Michigan,Hillsdale_Michigan_UnitedStates
+26061.0,Houghton,Michigan,Houghton_Michigan_UnitedStates
+26063.0,Huron,Michigan,Huron_Michigan_UnitedStates
+26065.0,Ingham,Michigan,Ingham_Michigan_UnitedStates
+26067.0,Ionia,Michigan,Ionia_Michigan_UnitedStates
+26069.0,Iosco,Michigan,Iosco_Michigan_UnitedStates
+26071.0,Iron,Michigan,Iron_Michigan_UnitedStates
+26073.0,Isabella,Michigan,Isabella_Michigan_UnitedStates
+26075.0,Jackson,Michigan,Jackson_Michigan_UnitedStates
+26077.0,Kalamazoo,Michigan,Kalamazoo_Michigan_UnitedStates
+26079.0,Kalkaska,Michigan,Kalkaska_Michigan_UnitedStates
+26081.0,Kent,Michigan,Kent_Michigan_UnitedStates
+26083.0,Keweenaw,Michigan,Keweenaw_Michigan_UnitedStates
+26085.0,Lake,Michigan,Lake_Michigan_UnitedStates
+26087.0,Lapeer,Michigan,Lapeer_Michigan_UnitedStates
+26089.0,Leelanau,Michigan,Leelanau_Michigan_UnitedStates
+26091.0,Lenawee,Michigan,Lenawee_Michigan_UnitedStates
+26093.0,Livingston,Michigan,Livingston_Michigan_UnitedStates
+26095.0,Luce,Michigan,Luce_Michigan_UnitedStates
+26097.0,Mackinac,Michigan,Mackinac_Michigan_UnitedStates
+26099.0,Macomb,Michigan,Macomb_Michigan_UnitedStates
+26101.0,Manistee,Michigan,Manistee_Michigan_UnitedStates
+26103.0,Marquette,Michigan,Marquette_Michigan_UnitedStates
+26105.0,Mason,Michigan,Mason_Michigan_UnitedStates
+26107.0,Mecosta,Michigan,Mecosta_Michigan_UnitedStates
+26109.0,Menominee,Michigan,Menominee_Michigan_UnitedStates
+26111.0,Midland,Michigan,Midland_Michigan_UnitedStates
+26113.0,Missaukee,Michigan,Missaukee_Michigan_UnitedStates
+26115.0,Monroe,Michigan,Monroe_Michigan_UnitedStates
+26117.0,Montcalm,Michigan,Montcalm_Michigan_UnitedStates
+26119.0,Montmorency,Michigan,Montmorency_Michigan_UnitedStates
+26121.0,Muskegon,Michigan,Muskegon_Michigan_UnitedStates
+26123.0,Newaygo,Michigan,Newaygo_Michigan_UnitedStates
+26125.0,Oakland,Michigan,Oakland_Michigan_UnitedStates
+26127.0,Oceana,Michigan,Oceana_Michigan_UnitedStates
+26129.0,Ogemaw,Michigan,Ogemaw_Michigan_UnitedStates
+26131.0,Ontonagon,Michigan,Ontonagon_Michigan_UnitedStates
+26133.0,Osceola,Michigan,Osceola_Michigan_UnitedStates
+26135.0,Oscoda,Michigan,Oscoda_Michigan_UnitedStates
+26137.0,Otsego,Michigan,Otsego_Michigan_UnitedStates
+26139.0,Ottawa,Michigan,Ottawa_Michigan_UnitedStates
+26141.0,Presque Isle,Michigan,PresqueIsle_Michigan_UnitedStates
+26143.0,Roscommon,Michigan,Roscommon_Michigan_UnitedStates
+26145.0,Saginaw,Michigan,Saginaw_Michigan_UnitedStates
+26147.0,St. Clair,Michigan,St.Clair_Michigan_UnitedStates
+26149.0,St. Joseph,Michigan,St.Joseph_Michigan_UnitedStates
+26151.0,Sanilac,Michigan,Sanilac_Michigan_UnitedStates
+26153.0,Schoolcraft,Michigan,Schoolcraft_Michigan_UnitedStates
+26155.0,Shiawassee,Michigan,Shiawassee_Michigan_UnitedStates
+26157.0,Tuscola,Michigan,Tuscola_Michigan_UnitedStates
+26159.0,Van Buren,Michigan,VanBuren_Michigan_UnitedStates
+26161.0,Washtenaw,Michigan,Washtenaw_Michigan_UnitedStates
+26163.0,Wayne,Michigan,Wayne_Michigan_UnitedStates
+26165.0,Wexford,Michigan,Wexford_Michigan_UnitedStates
+27001.0,Aitkin,Minnesota,Aitkin_Minnesota_UnitedStates
+27003.0,Anoka,Minnesota,Anoka_Minnesota_UnitedStates
+27005.0,Becker,Minnesota,Becker_Minnesota_UnitedStates
+27007.0,Beltrami,Minnesota,Beltrami_Minnesota_UnitedStates
+27009.0,Benton,Minnesota,Benton_Minnesota_UnitedStates
+27011.0,Big Stone,Minnesota,BigStone_Minnesota_UnitedStates
+27013.0,Blue Earth,Minnesota,BlueEarth_Minnesota_UnitedStates
+27015.0,Brown,Minnesota,Brown_Minnesota_UnitedStates
+27017.0,Carlton,Minnesota,Carlton_Minnesota_UnitedStates
+27019.0,Carver,Minnesota,Carver_Minnesota_UnitedStates
+27021.0,Cass,Minnesota,Cass_Minnesota_UnitedStates
+27023.0,Chippewa,Minnesota,Chippewa_Minnesota_UnitedStates
+27025.0,Chisago,Minnesota,Chisago_Minnesota_UnitedStates
+27027.0,Clay,Minnesota,Clay_Minnesota_UnitedStates
+27029.0,Clearwater,Minnesota,Clearwater_Minnesota_UnitedStates
+27031.0,Cook,Minnesota,Cook_Minnesota_UnitedStates
+27033.0,Cottonwood,Minnesota,Cottonwood_Minnesota_UnitedStates
+27035.0,Crow Wing,Minnesota,CrowWing_Minnesota_UnitedStates
+27037.0,Dakota,Minnesota,Dakota_Minnesota_UnitedStates
+27039.0,Dodge,Minnesota,Dodge_Minnesota_UnitedStates
+27041.0,Douglas,Minnesota,Douglas_Minnesota_UnitedStates
+27043.0,Faribault,Minnesota,Faribault_Minnesota_UnitedStates
+27045.0,Fillmore,Minnesota,Fillmore_Minnesota_UnitedStates
+27047.0,Freeborn,Minnesota,Freeborn_Minnesota_UnitedStates
+27049.0,Goodhue,Minnesota,Goodhue_Minnesota_UnitedStates
+27051.0,Grant,Minnesota,Grant_Minnesota_UnitedStates
+27053.0,Hennepin,Minnesota,Hennepin_Minnesota_UnitedStates
+27055.0,Houston,Minnesota,Houston_Minnesota_UnitedStates
+27057.0,Hubbard,Minnesota,Hubbard_Minnesota_UnitedStates
+27059.0,Isanti,Minnesota,Isanti_Minnesota_UnitedStates
+27061.0,Itasca,Minnesota,Itasca_Minnesota_UnitedStates
+27063.0,Jackson,Minnesota,Jackson_Minnesota_UnitedStates
+27065.0,Kanabec,Minnesota,Kanabec_Minnesota_UnitedStates
+27067.0,Kandiyohi,Minnesota,Kandiyohi_Minnesota_UnitedStates
+27069.0,Kittson,Minnesota,Kittson_Minnesota_UnitedStates
+27071.0,Koochiching,Minnesota,Koochiching_Minnesota_UnitedStates
+27073.0,Lac qui Parle,Minnesota,LacquiParle_Minnesota_UnitedStates
+27075.0,Lake,Minnesota,Lake_Minnesota_UnitedStates
+27077.0,Lake of the Woods,Minnesota,LakeoftheWoods_Minnesota_UnitedStates
+27079.0,Le Sueur,Minnesota,LeSueur_Minnesota_UnitedStates
+27081.0,Lincoln,Minnesota,Lincoln_Minnesota_UnitedStates
+27083.0,Lyon,Minnesota,Lyon_Minnesota_UnitedStates
+27085.0,McLeod,Minnesota,McLeod_Minnesota_UnitedStates
+27087.0,Mahnomen,Minnesota,Mahnomen_Minnesota_UnitedStates
+27089.0,Marshall,Minnesota,Marshall_Minnesota_UnitedStates
+27091.0,Martin,Minnesota,Martin_Minnesota_UnitedStates
+27093.0,Meeker,Minnesota,Meeker_Minnesota_UnitedStates
+27095.0,Mille Lacs,Minnesota,MilleLacs_Minnesota_UnitedStates
+27097.0,Morrison,Minnesota,Morrison_Minnesota_UnitedStates
+27099.0,Mower,Minnesota,Mower_Minnesota_UnitedStates
+27101.0,Murray,Minnesota,Murray_Minnesota_UnitedStates
+27103.0,Nicollet,Minnesota,Nicollet_Minnesota_UnitedStates
+27105.0,Nobles,Minnesota,Nobles_Minnesota_UnitedStates
+27107.0,Norman,Minnesota,Norman_Minnesota_UnitedStates
+27109.0,Olmsted,Minnesota,Olmsted_Minnesota_UnitedStates
+27111.0,Otter Tail,Minnesota,OtterTail_Minnesota_UnitedStates
+27113.0,Pennington,Minnesota,Pennington_Minnesota_UnitedStates
+27115.0,Pine,Minnesota,Pine_Minnesota_UnitedStates
+27117.0,Pipestone,Minnesota,Pipestone_Minnesota_UnitedStates
+27119.0,Polk,Minnesota,Polk_Minnesota_UnitedStates
+27121.0,Pope,Minnesota,Pope_Minnesota_UnitedStates
+27123.0,Ramsey,Minnesota,Ramsey_Minnesota_UnitedStates
+27125.0,Red Lake,Minnesota,RedLake_Minnesota_UnitedStates
+27127.0,Redwood,Minnesota,Redwood_Minnesota_UnitedStates
+27129.0,Renville,Minnesota,Renville_Minnesota_UnitedStates
+27131.0,Rice,Minnesota,Rice_Minnesota_UnitedStates
+27133.0,Rock,Minnesota,Rock_Minnesota_UnitedStates
+27135.0,Roseau,Minnesota,Roseau_Minnesota_UnitedStates
+27137.0,St. Louis,Minnesota,St.Louis_Minnesota_UnitedStates
+27139.0,Scott,Minnesota,Scott_Minnesota_UnitedStates
+27141.0,Sherburne,Minnesota,Sherburne_Minnesota_UnitedStates
+27143.0,Sibley,Minnesota,Sibley_Minnesota_UnitedStates
+27145.0,Stearns,Minnesota,Stearns_Minnesota_UnitedStates
+27147.0,Steele,Minnesota,Steele_Minnesota_UnitedStates
+27149.0,Stevens,Minnesota,Stevens_Minnesota_UnitedStates
+27151.0,Swift,Minnesota,Swift_Minnesota_UnitedStates
+27153.0,Todd,Minnesota,Todd_Minnesota_UnitedStates
+27155.0,Traverse,Minnesota,Traverse_Minnesota_UnitedStates
+27157.0,Wabasha,Minnesota,Wabasha_Minnesota_UnitedStates
+27159.0,Wadena,Minnesota,Wadena_Minnesota_UnitedStates
+27161.0,Waseca,Minnesota,Waseca_Minnesota_UnitedStates
+27163.0,Washington,Minnesota,Washington_Minnesota_UnitedStates
+27165.0,Watonwan,Minnesota,Watonwan_Minnesota_UnitedStates
+27167.0,Wilkin,Minnesota,Wilkin_Minnesota_UnitedStates
+27169.0,Winona,Minnesota,Winona_Minnesota_UnitedStates
+27171.0,Wright,Minnesota,Wright_Minnesota_UnitedStates
+27173.0,Yellow Medicine,Minnesota,YellowMedicine_Minnesota_UnitedStates
+28001.0,Adams,Mississippi,Adams_Mississippi_UnitedStates
+28003.0,Alcorn,Mississippi,Alcorn_Mississippi_UnitedStates
+28005.0,Amite,Mississippi,Amite_Mississippi_UnitedStates
+28007.0,Attala,Mississippi,Attala_Mississippi_UnitedStates
+28009.0,Benton,Mississippi,Benton_Mississippi_UnitedStates
+28011.0,Bolivar,Mississippi,Bolivar_Mississippi_UnitedStates
+28013.0,Calhoun,Mississippi,Calhoun_Mississippi_UnitedStates
+28015.0,Carroll,Mississippi,Carroll_Mississippi_UnitedStates
+28017.0,Chickasaw,Mississippi,Chickasaw_Mississippi_UnitedStates
+28019.0,Choctaw,Mississippi,Choctaw_Mississippi_UnitedStates
+28021.0,Claiborne,Mississippi,Claiborne_Mississippi_UnitedStates
+28023.0,Clarke,Mississippi,Clarke_Mississippi_UnitedStates
+28025.0,Clay,Mississippi,Clay_Mississippi_UnitedStates
+28027.0,Coahoma,Mississippi,Coahoma_Mississippi_UnitedStates
+28029.0,Copiah,Mississippi,Copiah_Mississippi_UnitedStates
+28031.0,Covington,Mississippi,Covington_Mississippi_UnitedStates
+28033.0,DeSoto,Mississippi,DeSoto_Mississippi_UnitedStates
+28035.0,Forrest,Mississippi,Forrest_Mississippi_UnitedStates
+28037.0,Franklin,Mississippi,Franklin_Mississippi_UnitedStates
+28039.0,George,Mississippi,George_Mississippi_UnitedStates
+28041.0,Greene,Mississippi,Greene_Mississippi_UnitedStates
+28043.0,Grenada,Mississippi,Grenada_Mississippi_UnitedStates
+28045.0,Hancock,Mississippi,Hancock_Mississippi_UnitedStates
+28047.0,Harrison,Mississippi,Harrison_Mississippi_UnitedStates
+28049.0,Hinds,Mississippi,Hinds_Mississippi_UnitedStates
+28051.0,Holmes,Mississippi,Holmes_Mississippi_UnitedStates
+28053.0,Humphreys,Mississippi,Humphreys_Mississippi_UnitedStates
+28055.0,Issaquena,Mississippi,Issaquena_Mississippi_UnitedStates
+28057.0,Itawamba,Mississippi,Itawamba_Mississippi_UnitedStates
+28059.0,Jackson,Mississippi,Jackson_Mississippi_UnitedStates
+28061.0,Jasper,Mississippi,Jasper_Mississippi_UnitedStates
+28063.0,Jefferson,Mississippi,Jefferson_Mississippi_UnitedStates
+28065.0,Jefferson Davis,Mississippi,JeffersonDavis_Mississippi_UnitedStates
+28067.0,Jones,Mississippi,Jones_Mississippi_UnitedStates
+28069.0,Kemper,Mississippi,Kemper_Mississippi_UnitedStates
+28071.0,Lafayette,Mississippi,Lafayette_Mississippi_UnitedStates
+28073.0,Lamar,Mississippi,Lamar_Mississippi_UnitedStates
+28075.0,Lauderdale,Mississippi,Lauderdale_Mississippi_UnitedStates
+28077.0,Lawrence,Mississippi,Lawrence_Mississippi_UnitedStates
+28079.0,Leake,Mississippi,Leake_Mississippi_UnitedStates
+28081.0,Lee,Mississippi,Lee_Mississippi_UnitedStates
+28083.0,Leflore,Mississippi,Leflore_Mississippi_UnitedStates
+28085.0,Lincoln,Mississippi,Lincoln_Mississippi_UnitedStates
+28087.0,Lowndes,Mississippi,Lowndes_Mississippi_UnitedStates
+28089.0,Madison,Mississippi,Madison_Mississippi_UnitedStates
+28091.0,Marion,Mississippi,Marion_Mississippi_UnitedStates
+28093.0,Marshall,Mississippi,Marshall_Mississippi_UnitedStates
+28095.0,Monroe,Mississippi,Monroe_Mississippi_UnitedStates
+28097.0,Montgomery,Mississippi,Montgomery_Mississippi_UnitedStates
+28099.0,Neshoba,Mississippi,Neshoba_Mississippi_UnitedStates
+28101.0,Newton,Mississippi,Newton_Mississippi_UnitedStates
+28103.0,Noxubee,Mississippi,Noxubee_Mississippi_UnitedStates
+28105.0,Oktibbeha,Mississippi,Oktibbeha_Mississippi_UnitedStates
+28107.0,Panola,Mississippi,Panola_Mississippi_UnitedStates
+28109.0,Pearl River,Mississippi,PearlRiver_Mississippi_UnitedStates
+28111.0,Perry,Mississippi,Perry_Mississippi_UnitedStates
+28113.0,Pike,Mississippi,Pike_Mississippi_UnitedStates
+28115.0,Pontotoc,Mississippi,Pontotoc_Mississippi_UnitedStates
+28117.0,Prentiss,Mississippi,Prentiss_Mississippi_UnitedStates
+28119.0,Quitman,Mississippi,Quitman_Mississippi_UnitedStates
+28121.0,Rankin,Mississippi,Rankin_Mississippi_UnitedStates
+28123.0,Scott,Mississippi,Scott_Mississippi_UnitedStates
+28125.0,Sharkey,Mississippi,Sharkey_Mississippi_UnitedStates
+28127.0,Simpson,Mississippi,Simpson_Mississippi_UnitedStates
+28129.0,Smith,Mississippi,Smith_Mississippi_UnitedStates
+28131.0,Stone,Mississippi,Stone_Mississippi_UnitedStates
+28133.0,Sunflower,Mississippi,Sunflower_Mississippi_UnitedStates
+28135.0,Tallahatchie,Mississippi,Tallahatchie_Mississippi_UnitedStates
+28137.0,Tate,Mississippi,Tate_Mississippi_UnitedStates
+28139.0,Tippah,Mississippi,Tippah_Mississippi_UnitedStates
+28141.0,Tishomingo,Mississippi,Tishomingo_Mississippi_UnitedStates
+28143.0,Tunica,Mississippi,Tunica_Mississippi_UnitedStates
+28145.0,Union,Mississippi,Union_Mississippi_UnitedStates
+28147.0,Walthall,Mississippi,Walthall_Mississippi_UnitedStates
+28149.0,Warren,Mississippi,Warren_Mississippi_UnitedStates
+28151.0,Washington,Mississippi,Washington_Mississippi_UnitedStates
+28153.0,Wayne,Mississippi,Wayne_Mississippi_UnitedStates
+28155.0,Webster,Mississippi,Webster_Mississippi_UnitedStates
+28157.0,Wilkinson,Mississippi,Wilkinson_Mississippi_UnitedStates
+28159.0,Winston,Mississippi,Winston_Mississippi_UnitedStates
+28161.0,Yalobusha,Mississippi,Yalobusha_Mississippi_UnitedStates
+28163.0,Yazoo,Mississippi,Yazoo_Mississippi_UnitedStates
+29001.0,Adair,Missouri,Adair_Missouri_UnitedStates
+29003.0,Andrew,Missouri,Andrew_Missouri_UnitedStates
+29005.0,Atchison,Missouri,Atchison_Missouri_UnitedStates
+29007.0,Audrain,Missouri,Audrain_Missouri_UnitedStates
+29009.0,Barry,Missouri,Barry_Missouri_UnitedStates
+29011.0,Barton,Missouri,Barton_Missouri_UnitedStates
+29013.0,Bates,Missouri,Bates_Missouri_UnitedStates
+29015.0,Benton,Missouri,Benton_Missouri_UnitedStates
+29017.0,Bollinger,Missouri,Bollinger_Missouri_UnitedStates
+29019.0,Boone,Missouri,Boone_Missouri_UnitedStates
+29021.0,Buchanan,Missouri,Buchanan_Missouri_UnitedStates
+29023.0,Butler,Missouri,Butler_Missouri_UnitedStates
+29025.0,Caldwell,Missouri,Caldwell_Missouri_UnitedStates
+29027.0,Callaway,Missouri,Callaway_Missouri_UnitedStates
+29029.0,Camden,Missouri,Camden_Missouri_UnitedStates
+29031.0,Cape Girardeau,Missouri,CapeGirardeau_Missouri_UnitedStates
+29033.0,Carroll,Missouri,Carroll_Missouri_UnitedStates
+29035.0,Carter,Missouri,Carter_Missouri_UnitedStates
+29037.0,Cass,Missouri,Cass_Missouri_UnitedStates
+29039.0,Cedar,Missouri,Cedar_Missouri_UnitedStates
+29041.0,Chariton,Missouri,Chariton_Missouri_UnitedStates
+29043.0,Christian,Missouri,Christian_Missouri_UnitedStates
+29045.0,Clark,Missouri,Clark_Missouri_UnitedStates
+29047.0,Clay,Missouri,Clay_Missouri_UnitedStates
+29049.0,Clinton,Missouri,Clinton_Missouri_UnitedStates
+29051.0,Cole,Missouri,Cole_Missouri_UnitedStates
+29053.0,Cooper,Missouri,Cooper_Missouri_UnitedStates
+29055.0,Crawford,Missouri,Crawford_Missouri_UnitedStates
+29057.0,Dade,Missouri,Dade_Missouri_UnitedStates
+29059.0,Dallas,Missouri,Dallas_Missouri_UnitedStates
+29061.0,Daviess,Missouri,Daviess_Missouri_UnitedStates
+29063.0,DeKalb,Missouri,DeKalb_Missouri_UnitedStates
+29065.0,Dent,Missouri,Dent_Missouri_UnitedStates
+29067.0,Douglas,Missouri,Douglas_Missouri_UnitedStates
+29069.0,Dunklin,Missouri,Dunklin_Missouri_UnitedStates
+29071.0,Franklin,Missouri,Franklin_Missouri_UnitedStates
+29073.0,Gasconade,Missouri,Gasconade_Missouri_UnitedStates
+29075.0,Gentry,Missouri,Gentry_Missouri_UnitedStates
+29077.0,Greene,Missouri,Greene_Missouri_UnitedStates
+29079.0,Grundy,Missouri,Grundy_Missouri_UnitedStates
+29081.0,Harrison,Missouri,Harrison_Missouri_UnitedStates
+29083.0,Henry,Missouri,Henry_Missouri_UnitedStates
+29085.0,Hickory,Missouri,Hickory_Missouri_UnitedStates
+29087.0,Holt,Missouri,Holt_Missouri_UnitedStates
+29089.0,Howard,Missouri,Howard_Missouri_UnitedStates
+29091.0,Howell,Missouri,Howell_Missouri_UnitedStates
+29093.0,Iron,Missouri,Iron_Missouri_UnitedStates
+29095.0,Jackson,Missouri,Jackson_Missouri_UnitedStates
+29097.0,Jasper,Missouri,Jasper_Missouri_UnitedStates
+29099.0,Jefferson,Missouri,Jefferson_Missouri_UnitedStates
+29101.0,Johnson,Missouri,Johnson_Missouri_UnitedStates
+29103.0,Knox,Missouri,Knox_Missouri_UnitedStates
+29105.0,Laclede,Missouri,Laclede_Missouri_UnitedStates
+29107.0,Lafayette,Missouri,Lafayette_Missouri_UnitedStates
+29109.0,Lawrence,Missouri,Lawrence_Missouri_UnitedStates
+29111.0,Lewis,Missouri,Lewis_Missouri_UnitedStates
+29113.0,Lincoln,Missouri,Lincoln_Missouri_UnitedStates
+29115.0,Linn,Missouri,Linn_Missouri_UnitedStates
+29117.0,Livingston,Missouri,Livingston_Missouri_UnitedStates
+29119.0,McDonald,Missouri,McDonald_Missouri_UnitedStates
+29121.0,Macon,Missouri,Macon_Missouri_UnitedStates
+29123.0,Madison,Missouri,Madison_Missouri_UnitedStates
+29125.0,Maries,Missouri,Maries_Missouri_UnitedStates
+29127.0,Marion,Missouri,Marion_Missouri_UnitedStates
+29129.0,Mercer,Missouri,Mercer_Missouri_UnitedStates
+29131.0,Miller,Missouri,Miller_Missouri_UnitedStates
+29133.0,Mississippi,Missouri,Mississippi_Missouri_UnitedStates
+29135.0,Moniteau,Missouri,Moniteau_Missouri_UnitedStates
+29137.0,Monroe,Missouri,Monroe_Missouri_UnitedStates
+29139.0,Montgomery,Missouri,Montgomery_Missouri_UnitedStates
+29141.0,Morgan,Missouri,Morgan_Missouri_UnitedStates
+29143.0,New Madrid,Missouri,NewMadrid_Missouri_UnitedStates
+29145.0,Newton,Missouri,Newton_Missouri_UnitedStates
+29147.0,Nodaway,Missouri,Nodaway_Missouri_UnitedStates
+29149.0,Oregon,Missouri,Oregon_Missouri_UnitedStates
+29151.0,Osage,Missouri,Osage_Missouri_UnitedStates
+29153.0,Ozark,Missouri,Ozark_Missouri_UnitedStates
+29155.0,Pemiscot,Missouri,Pemiscot_Missouri_UnitedStates
+29157.0,Perry,Missouri,Perry_Missouri_UnitedStates
+29159.0,Pettis,Missouri,Pettis_Missouri_UnitedStates
+29161.0,Phelps,Missouri,Phelps_Missouri_UnitedStates
+29163.0,Pike,Missouri,Pike_Missouri_UnitedStates
+29165.0,Platte,Missouri,Platte_Missouri_UnitedStates
+29167.0,Polk,Missouri,Polk_Missouri_UnitedStates
+29169.0,Pulaski,Missouri,Pulaski_Missouri_UnitedStates
+29171.0,Putnam,Missouri,Putnam_Missouri_UnitedStates
+29173.0,Ralls,Missouri,Ralls_Missouri_UnitedStates
+29175.0,Randolph,Missouri,Randolph_Missouri_UnitedStates
+29177.0,Ray,Missouri,Ray_Missouri_UnitedStates
+29179.0,Reynolds,Missouri,Reynolds_Missouri_UnitedStates
+29181.0,Ripley,Missouri,Ripley_Missouri_UnitedStates
+29183.0,St. Charles,Missouri,St.Charles_Missouri_UnitedStates
+29185.0,St. Clair,Missouri,St.Clair_Missouri_UnitedStates
+29186.0,Ste. Genevieve,Missouri,Ste.Genevieve_Missouri_UnitedStates
+29187.0,St. Francois,Missouri,St.Francois_Missouri_UnitedStates
+29189.0,St. Louis,Missouri,St.Louis_Missouri_UnitedStates
+29195.0,Saline,Missouri,Saline_Missouri_UnitedStates
+29197.0,Schuyler,Missouri,Schuyler_Missouri_UnitedStates
+29199.0,Scotland,Missouri,Scotland_Missouri_UnitedStates
+29201.0,Scott,Missouri,Scott_Missouri_UnitedStates
+29203.0,Shannon,Missouri,Shannon_Missouri_UnitedStates
+29205.0,Shelby,Missouri,Shelby_Missouri_UnitedStates
+29207.0,Stoddard,Missouri,Stoddard_Missouri_UnitedStates
+29209.0,Stone,Missouri,Stone_Missouri_UnitedStates
+29211.0,Sullivan,Missouri,Sullivan_Missouri_UnitedStates
+29213.0,Taney,Missouri,Taney_Missouri_UnitedStates
+29215.0,Texas,Missouri,Texas_Missouri_UnitedStates
+29217.0,Vernon,Missouri,Vernon_Missouri_UnitedStates
+29219.0,Warren,Missouri,Warren_Missouri_UnitedStates
+29221.0,Washington,Missouri,Washington_Missouri_UnitedStates
+29223.0,Wayne,Missouri,Wayne_Missouri_UnitedStates
+29225.0,Webster,Missouri,Webster_Missouri_UnitedStates
+29227.0,Worth,Missouri,Worth_Missouri_UnitedStates
+29229.0,Wright,Missouri,Wright_Missouri_UnitedStates
+30001.0,Beaverhead,Montana,Beaverhead_Montana_UnitedStates
+30003.0,Big Horn,Montana,BigHorn_Montana_UnitedStates
+30005.0,Blaine,Montana,Blaine_Montana_UnitedStates
+30007.0,Broadwater,Montana,Broadwater_Montana_UnitedStates
+30009.0,Carbon,Montana,Carbon_Montana_UnitedStates
+30011.0,Carter,Montana,Carter_Montana_UnitedStates
+30013.0,Cascade,Montana,Cascade_Montana_UnitedStates
+30015.0,Chouteau,Montana,Chouteau_Montana_UnitedStates
+30017.0,Custer,Montana,Custer_Montana_UnitedStates
+30019.0,Daniels,Montana,Daniels_Montana_UnitedStates
+30021.0,Dawson,Montana,Dawson_Montana_UnitedStates
+30023.0,Deer Lodge,Montana,DeerLodge_Montana_UnitedStates
+30025.0,Fallon,Montana,Fallon_Montana_UnitedStates
+30027.0,Fergus,Montana,Fergus_Montana_UnitedStates
+30029.0,Flathead,Montana,Flathead_Montana_UnitedStates
+30031.0,Gallatin,Montana,Gallatin_Montana_UnitedStates
+30033.0,Garfield,Montana,Garfield_Montana_UnitedStates
+30035.0,Glacier,Montana,Glacier_Montana_UnitedStates
+30037.0,Golden Valley,Montana,GoldenValley_Montana_UnitedStates
+30039.0,Granite,Montana,Granite_Montana_UnitedStates
+30041.0,Hill,Montana,Hill_Montana_UnitedStates
+30043.0,Jefferson,Montana,Jefferson_Montana_UnitedStates
+30045.0,Judith Basin,Montana,JudithBasin_Montana_UnitedStates
+30047.0,Lake,Montana,Lake_Montana_UnitedStates
+30049.0,Lewis and Clark,Montana,LewisandClark_Montana_UnitedStates
+30051.0,Liberty,Montana,Liberty_Montana_UnitedStates
+30053.0,Lincoln,Montana,Lincoln_Montana_UnitedStates
+30055.0,McCone,Montana,McCone_Montana_UnitedStates
+30057.0,Madison,Montana,Madison_Montana_UnitedStates
+30059.0,Meagher,Montana,Meagher_Montana_UnitedStates
+30061.0,Mineral,Montana,Mineral_Montana_UnitedStates
+30063.0,Missoula,Montana,Missoula_Montana_UnitedStates
+30065.0,Musselshell,Montana,Musselshell_Montana_UnitedStates
+30067.0,Park,Montana,Park_Montana_UnitedStates
+30069.0,Petroleum,Montana,Petroleum_Montana_UnitedStates
+30071.0,Phillips,Montana,Phillips_Montana_UnitedStates
+30073.0,Pondera,Montana,Pondera_Montana_UnitedStates
+30075.0,Powder River,Montana,PowderRiver_Montana_UnitedStates
+30077.0,Powell,Montana,Powell_Montana_UnitedStates
+30079.0,Prairie,Montana,Prairie_Montana_UnitedStates
+30081.0,Ravalli,Montana,Ravalli_Montana_UnitedStates
+30083.0,Richland,Montana,Richland_Montana_UnitedStates
+30085.0,Roosevelt,Montana,Roosevelt_Montana_UnitedStates
+30087.0,Rosebud,Montana,Rosebud_Montana_UnitedStates
+30089.0,Sanders,Montana,Sanders_Montana_UnitedStates
+30091.0,Sheridan,Montana,Sheridan_Montana_UnitedStates
+30093.0,Silver Bow,Montana,SilverBow_Montana_UnitedStates
+30095.0,Stillwater,Montana,Stillwater_Montana_UnitedStates
+30097.0,Sweet Grass,Montana,SweetGrass_Montana_UnitedStates
+30099.0,Teton,Montana,Teton_Montana_UnitedStates
+30101.0,Toole,Montana,Toole_Montana_UnitedStates
+30103.0,Treasure,Montana,Treasure_Montana_UnitedStates
+30105.0,Valley,Montana,Valley_Montana_UnitedStates
+30107.0,Wheatland,Montana,Wheatland_Montana_UnitedStates
+30109.0,Wibaux,Montana,Wibaux_Montana_UnitedStates
+30111.0,Yellowstone,Montana,Yellowstone_Montana_UnitedStates
+31001.0,Adams,Nebraska,Adams_Nebraska_UnitedStates
+31003.0,Antelope,Nebraska,Antelope_Nebraska_UnitedStates
+31005.0,Arthur,Nebraska,Arthur_Nebraska_UnitedStates
+31007.0,Banner,Nebraska,Banner_Nebraska_UnitedStates
+31009.0,Blaine,Nebraska,Blaine_Nebraska_UnitedStates
+31011.0,Boone,Nebraska,Boone_Nebraska_UnitedStates
+31013.0,Box Butte,Nebraska,BoxButte_Nebraska_UnitedStates
+31015.0,Boyd,Nebraska,Boyd_Nebraska_UnitedStates
+31017.0,Brown,Nebraska,Brown_Nebraska_UnitedStates
+31019.0,Buffalo,Nebraska,Buffalo_Nebraska_UnitedStates
+31021.0,Burt,Nebraska,Burt_Nebraska_UnitedStates
+31023.0,Butler,Nebraska,Butler_Nebraska_UnitedStates
+31025.0,Cass,Nebraska,Cass_Nebraska_UnitedStates
+31027.0,Cedar,Nebraska,Cedar_Nebraska_UnitedStates
+31029.0,Chase,Nebraska,Chase_Nebraska_UnitedStates
+31031.0,Cherry,Nebraska,Cherry_Nebraska_UnitedStates
+31033.0,Cheyenne,Nebraska,Cheyenne_Nebraska_UnitedStates
+31035.0,Clay,Nebraska,Clay_Nebraska_UnitedStates
+31037.0,Colfax,Nebraska,Colfax_Nebraska_UnitedStates
+31039.0,Cuming,Nebraska,Cuming_Nebraska_UnitedStates
+31041.0,Custer,Nebraska,Custer_Nebraska_UnitedStates
+31043.0,Dakota,Nebraska,Dakota_Nebraska_UnitedStates
+31045.0,Dawes,Nebraska,Dawes_Nebraska_UnitedStates
+31047.0,Dawson,Nebraska,Dawson_Nebraska_UnitedStates
+31049.0,Deuel,Nebraska,Deuel_Nebraska_UnitedStates
+31051.0,Dixon,Nebraska,Dixon_Nebraska_UnitedStates
+31053.0,Dodge,Nebraska,Dodge_Nebraska_UnitedStates
+31055.0,Douglas,Nebraska,Douglas_Nebraska_UnitedStates
+31057.0,Dundy,Nebraska,Dundy_Nebraska_UnitedStates
+31059.0,Fillmore,Nebraska,Fillmore_Nebraska_UnitedStates
+31061.0,Franklin,Nebraska,Franklin_Nebraska_UnitedStates
+31063.0,Frontier,Nebraska,Frontier_Nebraska_UnitedStates
+31065.0,Furnas,Nebraska,Furnas_Nebraska_UnitedStates
+31067.0,Gage,Nebraska,Gage_Nebraska_UnitedStates
+31069.0,Garden,Nebraska,Garden_Nebraska_UnitedStates
+31071.0,Garfield,Nebraska,Garfield_Nebraska_UnitedStates
+31073.0,Gosper,Nebraska,Gosper_Nebraska_UnitedStates
+31075.0,Grant,Nebraska,Grant_Nebraska_UnitedStates
+31077.0,Greeley,Nebraska,Greeley_Nebraska_UnitedStates
+31079.0,Hall,Nebraska,Hall_Nebraska_UnitedStates
+31081.0,Hamilton,Nebraska,Hamilton_Nebraska_UnitedStates
+31083.0,Harlan,Nebraska,Harlan_Nebraska_UnitedStates
+31085.0,Hayes,Nebraska,Hayes_Nebraska_UnitedStates
+31087.0,Hitchcock,Nebraska,Hitchcock_Nebraska_UnitedStates
+31089.0,Holt,Nebraska,Holt_Nebraska_UnitedStates
+31091.0,Hooker,Nebraska,Hooker_Nebraska_UnitedStates
+31093.0,Howard,Nebraska,Howard_Nebraska_UnitedStates
+31095.0,Jefferson,Nebraska,Jefferson_Nebraska_UnitedStates
+31097.0,Johnson,Nebraska,Johnson_Nebraska_UnitedStates
+31099.0,Kearney,Nebraska,Kearney_Nebraska_UnitedStates
+31101.0,Keith,Nebraska,Keith_Nebraska_UnitedStates
+31103.0,Keya Paha,Nebraska,KeyaPaha_Nebraska_UnitedStates
+31105.0,Kimball,Nebraska,Kimball_Nebraska_UnitedStates
+31107.0,Knox,Nebraska,Knox_Nebraska_UnitedStates
+31109.0,Lancaster,Nebraska,Lancaster_Nebraska_UnitedStates
+31111.0,Lincoln,Nebraska,Lincoln_Nebraska_UnitedStates
+31113.0,Logan,Nebraska,Logan_Nebraska_UnitedStates
+31115.0,Loup,Nebraska,Loup_Nebraska_UnitedStates
+31117.0,McPherson,Nebraska,McPherson_Nebraska_UnitedStates
+31119.0,Madison,Nebraska,Madison_Nebraska_UnitedStates
+31121.0,Merrick,Nebraska,Merrick_Nebraska_UnitedStates
+31123.0,Morrill,Nebraska,Morrill_Nebraska_UnitedStates
+31125.0,Nance,Nebraska,Nance_Nebraska_UnitedStates
+31127.0,Nemaha,Nebraska,Nemaha_Nebraska_UnitedStates
+31129.0,Nuckolls,Nebraska,Nuckolls_Nebraska_UnitedStates
+31131.0,Otoe,Nebraska,Otoe_Nebraska_UnitedStates
+31133.0,Pawnee,Nebraska,Pawnee_Nebraska_UnitedStates
+31135.0,Perkins,Nebraska,Perkins_Nebraska_UnitedStates
+31137.0,Phelps,Nebraska,Phelps_Nebraska_UnitedStates
+31139.0,Pierce,Nebraska,Pierce_Nebraska_UnitedStates
+31141.0,Platte,Nebraska,Platte_Nebraska_UnitedStates
+31143.0,Polk,Nebraska,Polk_Nebraska_UnitedStates
+31145.0,Red Willow,Nebraska,RedWillow_Nebraska_UnitedStates
+31147.0,Richardson,Nebraska,Richardson_Nebraska_UnitedStates
+31149.0,Rock,Nebraska,Rock_Nebraska_UnitedStates
+31151.0,Saline,Nebraska,Saline_Nebraska_UnitedStates
+31153.0,Sarpy,Nebraska,Sarpy_Nebraska_UnitedStates
+31155.0,Saunders,Nebraska,Saunders_Nebraska_UnitedStates
+31157.0,Scotts Bluff,Nebraska,ScottsBluff_Nebraska_UnitedStates
+31159.0,Seward,Nebraska,Seward_Nebraska_UnitedStates
+31161.0,Sheridan,Nebraska,Sheridan_Nebraska_UnitedStates
+31163.0,Sherman,Nebraska,Sherman_Nebraska_UnitedStates
+31165.0,Sioux,Nebraska,Sioux_Nebraska_UnitedStates
+31167.0,Stanton,Nebraska,Stanton_Nebraska_UnitedStates
+31169.0,Thayer,Nebraska,Thayer_Nebraska_UnitedStates
+31171.0,Thomas,Nebraska,Thomas_Nebraska_UnitedStates
+31173.0,Thurston,Nebraska,Thurston_Nebraska_UnitedStates
+31175.0,Valley,Nebraska,Valley_Nebraska_UnitedStates
+31177.0,Washington,Nebraska,Washington_Nebraska_UnitedStates
+31179.0,Wayne,Nebraska,Wayne_Nebraska_UnitedStates
+31181.0,Webster,Nebraska,Webster_Nebraska_UnitedStates
+31183.0,Wheeler,Nebraska,Wheeler_Nebraska_UnitedStates
+31185.0,York,Nebraska,York_Nebraska_UnitedStates
+32001.0,Churchill,Nevada,Churchill_Nevada_UnitedStates
+32003.0,Clark,Nevada,Clark_Nevada_UnitedStates
+32005.0,Douglas,Nevada,Douglas_Nevada_UnitedStates
+32007.0,Elko,Nevada,Elko_Nevada_UnitedStates
+32009.0,Esmeralda,Nevada,Esmeralda_Nevada_UnitedStates
+32011.0,Eureka,Nevada,Eureka_Nevada_UnitedStates
+32013.0,Humboldt,Nevada,Humboldt_Nevada_UnitedStates
+32015.0,Lander,Nevada,Lander_Nevada_UnitedStates
+32017.0,Lincoln,Nevada,Lincoln_Nevada_UnitedStates
+32019.0,Lyon,Nevada,Lyon_Nevada_UnitedStates
+32021.0,Mineral,Nevada,Mineral_Nevada_UnitedStates
+32023.0,Nye,Nevada,Nye_Nevada_UnitedStates
+32027.0,Pershing,Nevada,Pershing_Nevada_UnitedStates
+32029.0,Storey,Nevada,Storey_Nevada_UnitedStates
+32031.0,Washoe,Nevada,Washoe_Nevada_UnitedStates
+32033.0,White Pine,Nevada,WhitePine_Nevada_UnitedStates
+32510.0,Carson City,Nevada,CarsonCity_Nevada_UnitedStates
+33001.0,Belknap,New Hampshire,Belknap_NewHampshire_UnitedStates
+33003.0,Carroll,New Hampshire,Carroll_NewHampshire_UnitedStates
+33005.0,Cheshire,New Hampshire,Cheshire_NewHampshire_UnitedStates
+33007.0,Coos,New Hampshire,Coos_NewHampshire_UnitedStates
+33009.0,Grafton,New Hampshire,Grafton_NewHampshire_UnitedStates
+33011.0,Hillsborough,New Hampshire,Hillsborough_NewHampshire_UnitedStates
+33013.0,Merrimack,New Hampshire,Merrimack_NewHampshire_UnitedStates
+33015.0,Rockingham,New Hampshire,Rockingham_NewHampshire_UnitedStates
+33017.0,Strafford,New Hampshire,Strafford_NewHampshire_UnitedStates
+33019.0,Sullivan,New Hampshire,Sullivan_NewHampshire_UnitedStates
+34001.0,Atlantic,New Jersey,Atlantic_NewJersey_UnitedStates
+34003.0,Bergen,New Jersey,Bergen_NewJersey_UnitedStates
+34005.0,Burlington,New Jersey,Burlington_NewJersey_UnitedStates
+34007.0,Camden,New Jersey,Camden_NewJersey_UnitedStates
+34009.0,Cape May,New Jersey,CapeMay_NewJersey_UnitedStates
+34011.0,Cumberland,New Jersey,Cumberland_NewJersey_UnitedStates
+34013.0,Essex,New Jersey,Essex_NewJersey_UnitedStates
+34015.0,Gloucester,New Jersey,Gloucester_NewJersey_UnitedStates
+34017.0,Hudson,New Jersey,Hudson_NewJersey_UnitedStates
+34019.0,Hunterdon,New Jersey,Hunterdon_NewJersey_UnitedStates
+34021.0,Mercer,New Jersey,Mercer_NewJersey_UnitedStates
+34023.0,Middlesex,New Jersey,Middlesex_NewJersey_UnitedStates
+34025.0,Monmouth,New Jersey,Monmouth_NewJersey_UnitedStates
+34027.0,Morris,New Jersey,Morris_NewJersey_UnitedStates
+34029.0,Ocean,New Jersey,Ocean_NewJersey_UnitedStates
+34031.0,Passaic,New Jersey,Passaic_NewJersey_UnitedStates
+34033.0,Salem,New Jersey,Salem_NewJersey_UnitedStates
+34035.0,Somerset,New Jersey,Somerset_NewJersey_UnitedStates
+34037.0,Sussex,New Jersey,Sussex_NewJersey_UnitedStates
+34039.0,Union,New Jersey,Union_NewJersey_UnitedStates
+34041.0,Warren,New Jersey,Warren_NewJersey_UnitedStates
+35001.0,Bernalillo,New Mexico,Bernalillo_NewMexico_UnitedStates
+35003.0,Catron,New Mexico,Catron_NewMexico_UnitedStates
+35005.0,Chaves,New Mexico,Chaves_NewMexico_UnitedStates
+35006.0,Cibola,New Mexico,Cibola_NewMexico_UnitedStates
+35007.0,Colfax,New Mexico,Colfax_NewMexico_UnitedStates
+35009.0,Curry,New Mexico,Curry_NewMexico_UnitedStates
+35011.0,De Baca,New Mexico,DeBaca_NewMexico_UnitedStates
+35013.0,Dona Ana,New Mexico,DonaAna_NewMexico_UnitedStates
+35015.0,Eddy,New Mexico,Eddy_NewMexico_UnitedStates
+35017.0,Grant,New Mexico,Grant_NewMexico_UnitedStates
+35019.0,Guadalupe,New Mexico,Guadalupe_NewMexico_UnitedStates
+35021.0,Harding,New Mexico,Harding_NewMexico_UnitedStates
+35023.0,Hidalgo,New Mexico,Hidalgo_NewMexico_UnitedStates
+35025.0,Lea,New Mexico,Lea_NewMexico_UnitedStates
+35027.0,Lincoln,New Mexico,Lincoln_NewMexico_UnitedStates
+35028.0,Los Alamos,New Mexico,LosAlamos_NewMexico_UnitedStates
+35029.0,Luna,New Mexico,Luna_NewMexico_UnitedStates
+35031.0,McKinley,New Mexico,McKinley_NewMexico_UnitedStates
+35033.0,Mora,New Mexico,Mora_NewMexico_UnitedStates
+35035.0,Otero,New Mexico,Otero_NewMexico_UnitedStates
+35037.0,Quay,New Mexico,Quay_NewMexico_UnitedStates
+35039.0,Rio Arriba,New Mexico,RioArriba_NewMexico_UnitedStates
+35041.0,Roosevelt,New Mexico,Roosevelt_NewMexico_UnitedStates
+35043.0,Sandoval,New Mexico,Sandoval_NewMexico_UnitedStates
+35045.0,San Juan,New Mexico,SanJuan_NewMexico_UnitedStates
+35047.0,San Miguel,New Mexico,SanMiguel_NewMexico_UnitedStates
+35049.0,Santa Fe,New Mexico,SantaFe_NewMexico_UnitedStates
+35051.0,Sierra,New Mexico,Sierra_NewMexico_UnitedStates
+35053.0,Socorro,New Mexico,Socorro_NewMexico_UnitedStates
+35055.0,Taos,New Mexico,Taos_NewMexico_UnitedStates
+35057.0,Torrance,New Mexico,Torrance_NewMexico_UnitedStates
+35059.0,Union,New Mexico,Union_NewMexico_UnitedStates
+35061.0,Valencia,New Mexico,Valencia_NewMexico_UnitedStates
+36001.0,Albany,New York,Albany_NewYork_UnitedStates
+36003.0,Allegany,New York,Allegany_NewYork_UnitedStates
+36005.0,Bronx,New York,Bronx_NewYork_UnitedStates
+36007.0,Broome,New York,Broome_NewYork_UnitedStates
+36009.0,Cattaraugus,New York,Cattaraugus_NewYork_UnitedStates
+36011.0,Cayuga,New York,Cayuga_NewYork_UnitedStates
+36013.0,Chautauqua,New York,Chautauqua_NewYork_UnitedStates
+36015.0,Chemung,New York,Chemung_NewYork_UnitedStates
+36017.0,Chenango,New York,Chenango_NewYork_UnitedStates
+36019.0,Clinton,New York,Clinton_NewYork_UnitedStates
+36021.0,Columbia,New York,Columbia_NewYork_UnitedStates
+36023.0,Cortland,New York,Cortland_NewYork_UnitedStates
+36025.0,Delaware,New York,Delaware_NewYork_UnitedStates
+36027.0,Dutchess,New York,Dutchess_NewYork_UnitedStates
+36029.0,Erie,New York,Erie_NewYork_UnitedStates
+36031.0,Essex,New York,Essex_NewYork_UnitedStates
+36033.0,Franklin,New York,Franklin_NewYork_UnitedStates
+36035.0,Fulton,New York,Fulton_NewYork_UnitedStates
+36037.0,Genesee,New York,Genesee_NewYork_UnitedStates
+36039.0,Greene,New York,Greene_NewYork_UnitedStates
+36041.0,Hamilton,New York,Hamilton_NewYork_UnitedStates
+36043.0,Herkimer,New York,Herkimer_NewYork_UnitedStates
+36045.0,Jefferson,New York,Jefferson_NewYork_UnitedStates
+36047.0,Kings,New York,Kings_NewYork_UnitedStates
+36049.0,Lewis,New York,Lewis_NewYork_UnitedStates
+36051.0,Livingston,New York,Livingston_NewYork_UnitedStates
+36053.0,Madison,New York,Madison_NewYork_UnitedStates
+36055.0,Monroe,New York,Monroe_NewYork_UnitedStates
+36057.0,Montgomery,New York,Montgomery_NewYork_UnitedStates
+36059.0,Nassau,New York,Nassau_NewYork_UnitedStates
+36061.0,New York City,New York,NewYork_NewYork_UnitedStates
+36063.0,Niagara,New York,Niagara_NewYork_UnitedStates
+36065.0,Oneida,New York,Oneida_NewYork_UnitedStates
+36067.0,Onondaga,New York,Onondaga_NewYork_UnitedStates
+36069.0,Ontario,New York,Ontario_NewYork_UnitedStates
+36071.0,Orange,New York,Orange_NewYork_UnitedStates
+36073.0,Orleans,New York,Orleans_NewYork_UnitedStates
+36075.0,Oswego,New York,Oswego_NewYork_UnitedStates
+36077.0,Otsego,New York,Otsego_NewYork_UnitedStates
+36079.0,Putnam,New York,Putnam_NewYork_UnitedStates
+36081.0,Queens,New York,Queens_NewYork_UnitedStates
+36083.0,Rensselaer,New York,Rensselaer_NewYork_UnitedStates
+36085.0,Richmond,New York,Richmond_NewYork_UnitedStates
+36087.0,Rockland,New York,Rockland_NewYork_UnitedStates
+36089.0,St. Lawrence,New York,St.Lawrence_NewYork_UnitedStates
+36091.0,Saratoga,New York,Saratoga_NewYork_UnitedStates
+36093.0,Schenectady,New York,Schenectady_NewYork_UnitedStates
+36095.0,Schoharie,New York,Schoharie_NewYork_UnitedStates
+36097.0,Schuyler,New York,Schuyler_NewYork_UnitedStates
+36099.0,Seneca,New York,Seneca_NewYork_UnitedStates
+36101.0,Steuben,New York,Steuben_NewYork_UnitedStates
+36103.0,Suffolk,New York,Suffolk_NewYork_UnitedStates
+36105.0,Sullivan,New York,Sullivan_NewYork_UnitedStates
+36107.0,Tioga,New York,Tioga_NewYork_UnitedStates
+36109.0,Tompkins,New York,Tompkins_NewYork_UnitedStates
+36111.0,Ulster,New York,Ulster_NewYork_UnitedStates
+36113.0,Warren,New York,Warren_NewYork_UnitedStates
+36115.0,Washington,New York,Washington_NewYork_UnitedStates
+36117.0,Wayne,New York,Wayne_NewYork_UnitedStates
+36119.0,Westchester,New York,Westchester_NewYork_UnitedStates
+36121.0,Wyoming,New York,Wyoming_NewYork_UnitedStates
+36123.0,Yates,New York,Yates_NewYork_UnitedStates
+37001.0,Alamance,North Carolina,Alamance_NorthCarolina_UnitedStates
+37003.0,Alexander,North Carolina,Alexander_NorthCarolina_UnitedStates
+37005.0,Alleghany,North Carolina,Alleghany_NorthCarolina_UnitedStates
+37007.0,Anson,North Carolina,Anson_NorthCarolina_UnitedStates
+37009.0,Ashe,North Carolina,Ashe_NorthCarolina_UnitedStates
+37011.0,Avery,North Carolina,Avery_NorthCarolina_UnitedStates
+37013.0,Beaufort,North Carolina,Beaufort_NorthCarolina_UnitedStates
+37015.0,Bertie,North Carolina,Bertie_NorthCarolina_UnitedStates
+37017.0,Bladen,North Carolina,Bladen_NorthCarolina_UnitedStates
+37019.0,Brunswick,North Carolina,Brunswick_NorthCarolina_UnitedStates
+37021.0,Buncombe,North Carolina,Buncombe_NorthCarolina_UnitedStates
+37023.0,Burke,North Carolina,Burke_NorthCarolina_UnitedStates
+37025.0,Cabarrus,North Carolina,Cabarrus_NorthCarolina_UnitedStates
+37027.0,Caldwell,North Carolina,Caldwell_NorthCarolina_UnitedStates
+37029.0,Camden,North Carolina,Camden_NorthCarolina_UnitedStates
+37031.0,Carteret,North Carolina,Carteret_NorthCarolina_UnitedStates
+37033.0,Caswell,North Carolina,Caswell_NorthCarolina_UnitedStates
+37035.0,Catawba,North Carolina,Catawba_NorthCarolina_UnitedStates
+37037.0,Chatham,North Carolina,Chatham_NorthCarolina_UnitedStates
+37039.0,Cherokee,North Carolina,Cherokee_NorthCarolina_UnitedStates
+37041.0,Chowan,North Carolina,Chowan_NorthCarolina_UnitedStates
+37043.0,Clay,North Carolina,Clay_NorthCarolina_UnitedStates
+37045.0,Cleveland,North Carolina,Cleveland_NorthCarolina_UnitedStates
+37047.0,Columbus,North Carolina,Columbus_NorthCarolina_UnitedStates
+37049.0,Craven,North Carolina,Craven_NorthCarolina_UnitedStates
+37051.0,Cumberland,North Carolina,Cumberland_NorthCarolina_UnitedStates
+37053.0,Currituck,North Carolina,Currituck_NorthCarolina_UnitedStates
+37055.0,Dare,North Carolina,Dare_NorthCarolina_UnitedStates
+37057.0,Davidson,North Carolina,Davidson_NorthCarolina_UnitedStates
+37059.0,Davie,North Carolina,Davie_NorthCarolina_UnitedStates
+37061.0,Duplin,North Carolina,Duplin_NorthCarolina_UnitedStates
+37063.0,Durham,North Carolina,Durham_NorthCarolina_UnitedStates
+37065.0,Edgecombe,North Carolina,Edgecombe_NorthCarolina_UnitedStates
+37067.0,Forsyth,North Carolina,Forsyth_NorthCarolina_UnitedStates
+37069.0,Franklin,North Carolina,Franklin_NorthCarolina_UnitedStates
+37071.0,Gaston,North Carolina,Gaston_NorthCarolina_UnitedStates
+37073.0,Gates,North Carolina,Gates_NorthCarolina_UnitedStates
+37075.0,Graham,North Carolina,Graham_NorthCarolina_UnitedStates
+37077.0,Granville,North Carolina,Granville_NorthCarolina_UnitedStates
+37079.0,Greene,North Carolina,Greene_NorthCarolina_UnitedStates
+37081.0,Guilford,North Carolina,Guilford_NorthCarolina_UnitedStates
+37083.0,Halifax,North Carolina,Halifax_NorthCarolina_UnitedStates
+37085.0,Harnett,North Carolina,Harnett_NorthCarolina_UnitedStates
+37087.0,Haywood,North Carolina,Haywood_NorthCarolina_UnitedStates
+37089.0,Henderson,North Carolina,Henderson_NorthCarolina_UnitedStates
+37091.0,Hertford,North Carolina,Hertford_NorthCarolina_UnitedStates
+37093.0,Hoke,North Carolina,Hoke_NorthCarolina_UnitedStates
+37095.0,Hyde,North Carolina,Hyde_NorthCarolina_UnitedStates
+37097.0,Iredell,North Carolina,Iredell_NorthCarolina_UnitedStates
+37099.0,Jackson,North Carolina,Jackson_NorthCarolina_UnitedStates
+37101.0,Johnston,North Carolina,Johnston_NorthCarolina_UnitedStates
+37103.0,Jones,North Carolina,Jones_NorthCarolina_UnitedStates
+37105.0,Lee,North Carolina,Lee_NorthCarolina_UnitedStates
+37107.0,Lenoir,North Carolina,Lenoir_NorthCarolina_UnitedStates
+37109.0,Lincoln,North Carolina,Lincoln_NorthCarolina_UnitedStates
+37111.0,McDowell,North Carolina,McDowell_NorthCarolina_UnitedStates
+37113.0,Macon,North Carolina,Macon_NorthCarolina_UnitedStates
+37115.0,Madison,North Carolina,Madison_NorthCarolina_UnitedStates
+37117.0,Martin,North Carolina,Martin_NorthCarolina_UnitedStates
+37119.0,Mecklenburg,North Carolina,Mecklenburg_NorthCarolina_UnitedStates
+37121.0,Mitchell,North Carolina,Mitchell_NorthCarolina_UnitedStates
+37123.0,Montgomery,North Carolina,Montgomery_NorthCarolina_UnitedStates
+37125.0,Moore,North Carolina,Moore_NorthCarolina_UnitedStates
+37127.0,Nash,North Carolina,Nash_NorthCarolina_UnitedStates
+37129.0,New Hanover,North Carolina,NewHanover_NorthCarolina_UnitedStates
+37131.0,Northampton,North Carolina,Northampton_NorthCarolina_UnitedStates
+37133.0,Onslow,North Carolina,Onslow_NorthCarolina_UnitedStates
+37135.0,Orange,North Carolina,Orange_NorthCarolina_UnitedStates
+37137.0,Pamlico,North Carolina,Pamlico_NorthCarolina_UnitedStates
+37139.0,Pasquotank,North Carolina,Pasquotank_NorthCarolina_UnitedStates
+37141.0,Pender,North Carolina,Pender_NorthCarolina_UnitedStates
+37143.0,Perquimans,North Carolina,Perquimans_NorthCarolina_UnitedStates
+37145.0,Person,North Carolina,Person_NorthCarolina_UnitedStates
+37147.0,Pitt,North Carolina,Pitt_NorthCarolina_UnitedStates
+37149.0,Polk,North Carolina,Polk_NorthCarolina_UnitedStates
+37151.0,Randolph,North Carolina,Randolph_NorthCarolina_UnitedStates
+37153.0,Richmond,North Carolina,Richmond_NorthCarolina_UnitedStates
+37155.0,Robeson,North Carolina,Robeson_NorthCarolina_UnitedStates
+37157.0,Rockingham,North Carolina,Rockingham_NorthCarolina_UnitedStates
+37159.0,Rowan,North Carolina,Rowan_NorthCarolina_UnitedStates
+37161.0,Rutherford,North Carolina,Rutherford_NorthCarolina_UnitedStates
+37163.0,Sampson,North Carolina,Sampson_NorthCarolina_UnitedStates
+37165.0,Scotland,North Carolina,Scotland_NorthCarolina_UnitedStates
+37167.0,Stanly,North Carolina,Stanly_NorthCarolina_UnitedStates
+37169.0,Stokes,North Carolina,Stokes_NorthCarolina_UnitedStates
+37171.0,Surry,North Carolina,Surry_NorthCarolina_UnitedStates
+37173.0,Swain,North Carolina,Swain_NorthCarolina_UnitedStates
+37175.0,Transylvania,North Carolina,Transylvania_NorthCarolina_UnitedStates
+37177.0,Tyrrell,North Carolina,Tyrrell_NorthCarolina_UnitedStates
+37179.0,Union,North Carolina,Union_NorthCarolina_UnitedStates
+37181.0,Vance,North Carolina,Vance_NorthCarolina_UnitedStates
+37183.0,Wake,North Carolina,Wake_NorthCarolina_UnitedStates
+37185.0,Warren,North Carolina,Warren_NorthCarolina_UnitedStates
+37187.0,Washington,North Carolina,Washington_NorthCarolina_UnitedStates
+37189.0,Watauga,North Carolina,Watauga_NorthCarolina_UnitedStates
+37191.0,Wayne,North Carolina,Wayne_NorthCarolina_UnitedStates
+37193.0,Wilkes,North Carolina,Wilkes_NorthCarolina_UnitedStates
+37195.0,Wilson,North Carolina,Wilson_NorthCarolina_UnitedStates
+37197.0,Yadkin,North Carolina,Yadkin_NorthCarolina_UnitedStates
+37199.0,Yancey,North Carolina,Yancey_NorthCarolina_UnitedStates
+38001.0,Adams,North Dakota,Adams_NorthDakota_UnitedStates
+38003.0,Barnes,North Dakota,Barnes_NorthDakota_UnitedStates
+38005.0,Benson,North Dakota,Benson_NorthDakota_UnitedStates
+38007.0,Billings,North Dakota,Billings_NorthDakota_UnitedStates
+38009.0,Bottineau,North Dakota,Bottineau_NorthDakota_UnitedStates
+38011.0,Bowman,North Dakota,Bowman_NorthDakota_UnitedStates
+38013.0,Burke,North Dakota,Burke_NorthDakota_UnitedStates
+38015.0,Burleigh,North Dakota,Burleigh_NorthDakota_UnitedStates
+38017.0,Cass,North Dakota,Cass_NorthDakota_UnitedStates
+38019.0,Cavalier,North Dakota,Cavalier_NorthDakota_UnitedStates
+38021.0,Dickey,North Dakota,Dickey_NorthDakota_UnitedStates
+38023.0,Divide,North Dakota,Divide_NorthDakota_UnitedStates
+38025.0,Dunn,North Dakota,Dunn_NorthDakota_UnitedStates
+38027.0,Eddy,North Dakota,Eddy_NorthDakota_UnitedStates
+38029.0,Emmons,North Dakota,Emmons_NorthDakota_UnitedStates
+38031.0,Foster,North Dakota,Foster_NorthDakota_UnitedStates
+38033.0,Golden Valley,North Dakota,GoldenValley_NorthDakota_UnitedStates
+38035.0,Grand Forks,North Dakota,GrandForks_NorthDakota_UnitedStates
+38037.0,Grant,North Dakota,Grant_NorthDakota_UnitedStates
+38039.0,Griggs,North Dakota,Griggs_NorthDakota_UnitedStates
+38041.0,Hettinger,North Dakota,Hettinger_NorthDakota_UnitedStates
+38043.0,Kidder,North Dakota,Kidder_NorthDakota_UnitedStates
+38045.0,LaMoure,North Dakota,LaMoure_NorthDakota_UnitedStates
+38047.0,Logan,North Dakota,Logan_NorthDakota_UnitedStates
+38049.0,McHenry,North Dakota,McHenry_NorthDakota_UnitedStates
+38051.0,McIntosh,North Dakota,McIntosh_NorthDakota_UnitedStates
+38053.0,McKenzie,North Dakota,McKenzie_NorthDakota_UnitedStates
+38055.0,McLean,North Dakota,McLean_NorthDakota_UnitedStates
+38057.0,Mercer,North Dakota,Mercer_NorthDakota_UnitedStates
+38059.0,Morton,North Dakota,Morton_NorthDakota_UnitedStates
+38061.0,Mountrail,North Dakota,Mountrail_NorthDakota_UnitedStates
+38063.0,Nelson,North Dakota,Nelson_NorthDakota_UnitedStates
+38065.0,Oliver,North Dakota,Oliver_NorthDakota_UnitedStates
+38067.0,Pembina,North Dakota,Pembina_NorthDakota_UnitedStates
+38069.0,Pierce,North Dakota,Pierce_NorthDakota_UnitedStates
+38071.0,Ramsey,North Dakota,Ramsey_NorthDakota_UnitedStates
+38073.0,Ransom,North Dakota,Ransom_NorthDakota_UnitedStates
+38075.0,Renville,North Dakota,Renville_NorthDakota_UnitedStates
+38077.0,Richland,North Dakota,Richland_NorthDakota_UnitedStates
+38079.0,Rolette,North Dakota,Rolette_NorthDakota_UnitedStates
+38081.0,Sargent,North Dakota,Sargent_NorthDakota_UnitedStates
+38083.0,Sheridan,North Dakota,Sheridan_NorthDakota_UnitedStates
+38085.0,Sioux,North Dakota,Sioux_NorthDakota_UnitedStates
+38087.0,Slope,North Dakota,Slope_NorthDakota_UnitedStates
+38089.0,Stark,North Dakota,Stark_NorthDakota_UnitedStates
+38091.0,Steele,North Dakota,Steele_NorthDakota_UnitedStates
+38093.0,Stutsman,North Dakota,Stutsman_NorthDakota_UnitedStates
+38095.0,Towner,North Dakota,Towner_NorthDakota_UnitedStates
+38097.0,Traill,North Dakota,Traill_NorthDakota_UnitedStates
+38099.0,Walsh,North Dakota,Walsh_NorthDakota_UnitedStates
+38101.0,Ward,North Dakota,Ward_NorthDakota_UnitedStates
+38103.0,Wells,North Dakota,Wells_NorthDakota_UnitedStates
+38105.0,Williams,North Dakota,Williams_NorthDakota_UnitedStates
+39001.0,Adams,Ohio,Adams_Ohio_UnitedStates
+39003.0,Allen,Ohio,Allen_Ohio_UnitedStates
+39005.0,Ashland,Ohio,Ashland_Ohio_UnitedStates
+39007.0,Ashtabula,Ohio,Ashtabula_Ohio_UnitedStates
+39009.0,Athens,Ohio,Athens_Ohio_UnitedStates
+39011.0,Auglaize,Ohio,Auglaize_Ohio_UnitedStates
+39013.0,Belmont,Ohio,Belmont_Ohio_UnitedStates
+39015.0,Brown,Ohio,Brown_Ohio_UnitedStates
+39017.0,Butler,Ohio,Butler_Ohio_UnitedStates
+39019.0,Carroll,Ohio,Carroll_Ohio_UnitedStates
+39021.0,Champaign,Ohio,Champaign_Ohio_UnitedStates
+39023.0,Clark,Ohio,Clark_Ohio_UnitedStates
+39025.0,Clermont,Ohio,Clermont_Ohio_UnitedStates
+39027.0,Clinton,Ohio,Clinton_Ohio_UnitedStates
+39029.0,Columbiana,Ohio,Columbiana_Ohio_UnitedStates
+39031.0,Coshocton,Ohio,Coshocton_Ohio_UnitedStates
+39033.0,Crawford,Ohio,Crawford_Ohio_UnitedStates
+39035.0,Cuyahoga,Ohio,Cuyahoga_Ohio_UnitedStates
+39037.0,Darke,Ohio,Darke_Ohio_UnitedStates
+39039.0,Defiance,Ohio,Defiance_Ohio_UnitedStates
+39041.0,Delaware,Ohio,Delaware_Ohio_UnitedStates
+39043.0,Erie,Ohio,Erie_Ohio_UnitedStates
+39045.0,Fairfield,Ohio,Fairfield_Ohio_UnitedStates
+39047.0,Fayette,Ohio,Fayette_Ohio_UnitedStates
+39049.0,Franklin,Ohio,Franklin_Ohio_UnitedStates
+39051.0,Fulton,Ohio,Fulton_Ohio_UnitedStates
+39053.0,Gallia,Ohio,Gallia_Ohio_UnitedStates
+39055.0,Geauga,Ohio,Geauga_Ohio_UnitedStates
+39057.0,Greene,Ohio,Greene_Ohio_UnitedStates
+39059.0,Guernsey,Ohio,Guernsey_Ohio_UnitedStates
+39061.0,Hamilton,Ohio,Hamilton_Ohio_UnitedStates
+39063.0,Hancock,Ohio,Hancock_Ohio_UnitedStates
+39065.0,Hardin,Ohio,Hardin_Ohio_UnitedStates
+39067.0,Harrison,Ohio,Harrison_Ohio_UnitedStates
+39069.0,Henry,Ohio,Henry_Ohio_UnitedStates
+39071.0,Highland,Ohio,Highland_Ohio_UnitedStates
+39073.0,Hocking,Ohio,Hocking_Ohio_UnitedStates
+39075.0,Holmes,Ohio,Holmes_Ohio_UnitedStates
+39077.0,Huron,Ohio,Huron_Ohio_UnitedStates
+39079.0,Jackson,Ohio,Jackson_Ohio_UnitedStates
+39081.0,Jefferson,Ohio,Jefferson_Ohio_UnitedStates
+39083.0,Knox,Ohio,Knox_Ohio_UnitedStates
+39085.0,Lake,Ohio,Lake_Ohio_UnitedStates
+39087.0,Lawrence,Ohio,Lawrence_Ohio_UnitedStates
+39089.0,Licking,Ohio,Licking_Ohio_UnitedStates
+39091.0,Logan,Ohio,Logan_Ohio_UnitedStates
+39093.0,Lorain,Ohio,Lorain_Ohio_UnitedStates
+39095.0,Lucas,Ohio,Lucas_Ohio_UnitedStates
+39097.0,Madison,Ohio,Madison_Ohio_UnitedStates
+39099.0,Mahoning,Ohio,Mahoning_Ohio_UnitedStates
+39101.0,Marion,Ohio,Marion_Ohio_UnitedStates
+39103.0,Medina,Ohio,Medina_Ohio_UnitedStates
+39105.0,Meigs,Ohio,Meigs_Ohio_UnitedStates
+39107.0,Mercer,Ohio,Mercer_Ohio_UnitedStates
+39109.0,Miami,Ohio,Miami_Ohio_UnitedStates
+39111.0,Monroe,Ohio,Monroe_Ohio_UnitedStates
+39113.0,Montgomery,Ohio,Montgomery_Ohio_UnitedStates
+39115.0,Morgan,Ohio,Morgan_Ohio_UnitedStates
+39117.0,Morrow,Ohio,Morrow_Ohio_UnitedStates
+39119.0,Muskingum,Ohio,Muskingum_Ohio_UnitedStates
+39121.0,Noble,Ohio,Noble_Ohio_UnitedStates
+39123.0,Ottawa,Ohio,Ottawa_Ohio_UnitedStates
+39125.0,Paulding,Ohio,Paulding_Ohio_UnitedStates
+39127.0,Perry,Ohio,Perry_Ohio_UnitedStates
+39129.0,Pickaway,Ohio,Pickaway_Ohio_UnitedStates
+39131.0,Pike,Ohio,Pike_Ohio_UnitedStates
+39133.0,Portage,Ohio,Portage_Ohio_UnitedStates
+39135.0,Preble,Ohio,Preble_Ohio_UnitedStates
+39137.0,Putnam,Ohio,Putnam_Ohio_UnitedStates
+39139.0,Richland,Ohio,Richland_Ohio_UnitedStates
+39141.0,Ross,Ohio,Ross_Ohio_UnitedStates
+39143.0,Sandusky,Ohio,Sandusky_Ohio_UnitedStates
+39145.0,Scioto,Ohio,Scioto_Ohio_UnitedStates
+39147.0,Seneca,Ohio,Seneca_Ohio_UnitedStates
+39149.0,Shelby,Ohio,Shelby_Ohio_UnitedStates
+39151.0,Stark,Ohio,Stark_Ohio_UnitedStates
+39153.0,Summit,Ohio,Summit_Ohio_UnitedStates
+39155.0,Trumbull,Ohio,Trumbull_Ohio_UnitedStates
+39157.0,Tuscarawas,Ohio,Tuscarawas_Ohio_UnitedStates
+39159.0,Union,Ohio,Union_Ohio_UnitedStates
+39161.0,Van Wert,Ohio,VanWert_Ohio_UnitedStates
+39163.0,Vinton,Ohio,Vinton_Ohio_UnitedStates
+39165.0,Warren,Ohio,Warren_Ohio_UnitedStates
+39167.0,Washington,Ohio,Washington_Ohio_UnitedStates
+39169.0,Wayne,Ohio,Wayne_Ohio_UnitedStates
+39171.0,Williams,Ohio,Williams_Ohio_UnitedStates
+39173.0,Wood,Ohio,Wood_Ohio_UnitedStates
+39175.0,Wyandot,Ohio,Wyandot_Ohio_UnitedStates
+40001.0,Adair,Oklahoma,Adair_Oklahoma_UnitedStates
+40003.0,Alfalfa,Oklahoma,Alfalfa_Oklahoma_UnitedStates
+40005.0,Atoka,Oklahoma,Atoka_Oklahoma_UnitedStates
+40007.0,Beaver,Oklahoma,Beaver_Oklahoma_UnitedStates
+40009.0,Beckham,Oklahoma,Beckham_Oklahoma_UnitedStates
+40011.0,Blaine,Oklahoma,Blaine_Oklahoma_UnitedStates
+40013.0,Bryan,Oklahoma,Bryan_Oklahoma_UnitedStates
+40015.0,Caddo,Oklahoma,Caddo_Oklahoma_UnitedStates
+40017.0,Canadian,Oklahoma,Canadian_Oklahoma_UnitedStates
+40019.0,Carter,Oklahoma,Carter_Oklahoma_UnitedStates
+40021.0,Cherokee,Oklahoma,Cherokee_Oklahoma_UnitedStates
+40023.0,Choctaw,Oklahoma,Choctaw_Oklahoma_UnitedStates
+40025.0,Cimarron,Oklahoma,Cimarron_Oklahoma_UnitedStates
+40027.0,Cleveland,Oklahoma,Cleveland_Oklahoma_UnitedStates
+40029.0,Coal,Oklahoma,Coal_Oklahoma_UnitedStates
+40031.0,Comanche,Oklahoma,Comanche_Oklahoma_UnitedStates
+40033.0,Cotton,Oklahoma,Cotton_Oklahoma_UnitedStates
+40035.0,Craig,Oklahoma,Craig_Oklahoma_UnitedStates
+40037.0,Creek,Oklahoma,Creek_Oklahoma_UnitedStates
+40039.0,Custer,Oklahoma,Custer_Oklahoma_UnitedStates
+40041.0,Delaware,Oklahoma,Delaware_Oklahoma_UnitedStates
+40043.0,Dewey,Oklahoma,Dewey_Oklahoma_UnitedStates
+40045.0,Ellis,Oklahoma,Ellis_Oklahoma_UnitedStates
+40047.0,Garfield,Oklahoma,Garfield_Oklahoma_UnitedStates
+40049.0,Garvin,Oklahoma,Garvin_Oklahoma_UnitedStates
+40051.0,Grady,Oklahoma,Grady_Oklahoma_UnitedStates
+40053.0,Grant,Oklahoma,Grant_Oklahoma_UnitedStates
+40055.0,Greer,Oklahoma,Greer_Oklahoma_UnitedStates
+40057.0,Harmon,Oklahoma,Harmon_Oklahoma_UnitedStates
+40059.0,Harper,Oklahoma,Harper_Oklahoma_UnitedStates
+40061.0,Haskell,Oklahoma,Haskell_Oklahoma_UnitedStates
+40063.0,Hughes,Oklahoma,Hughes_Oklahoma_UnitedStates
+40065.0,Jackson,Oklahoma,Jackson_Oklahoma_UnitedStates
+40067.0,Jefferson,Oklahoma,Jefferson_Oklahoma_UnitedStates
+40069.0,Johnston,Oklahoma,Johnston_Oklahoma_UnitedStates
+40071.0,Kay,Oklahoma,Kay_Oklahoma_UnitedStates
+40073.0,Kingfisher,Oklahoma,Kingfisher_Oklahoma_UnitedStates
+40075.0,Kiowa,Oklahoma,Kiowa_Oklahoma_UnitedStates
+40077.0,Latimer,Oklahoma,Latimer_Oklahoma_UnitedStates
+40079.0,Le Flore,Oklahoma,LeFlore_Oklahoma_UnitedStates
+40081.0,Lincoln,Oklahoma,Lincoln_Oklahoma_UnitedStates
+40083.0,Logan,Oklahoma,Logan_Oklahoma_UnitedStates
+40085.0,Love,Oklahoma,Love_Oklahoma_UnitedStates
+40087.0,McClain,Oklahoma,McClain_Oklahoma_UnitedStates
+40089.0,McCurtain,Oklahoma,McCurtain_Oklahoma_UnitedStates
+40091.0,McIntosh,Oklahoma,McIntosh_Oklahoma_UnitedStates
+40093.0,Major,Oklahoma,Major_Oklahoma_UnitedStates
+40095.0,Marshall,Oklahoma,Marshall_Oklahoma_UnitedStates
+40097.0,Mayes,Oklahoma,Mayes_Oklahoma_UnitedStates
+40099.0,Murray,Oklahoma,Murray_Oklahoma_UnitedStates
+40101.0,Muskogee,Oklahoma,Muskogee_Oklahoma_UnitedStates
+40103.0,Noble,Oklahoma,Noble_Oklahoma_UnitedStates
+40105.0,Nowata,Oklahoma,Nowata_Oklahoma_UnitedStates
+40107.0,Okfuskee,Oklahoma,Okfuskee_Oklahoma_UnitedStates
+40109.0,Oklahoma,Oklahoma,Oklahoma_Oklahoma_UnitedStates
+40111.0,Okmulgee,Oklahoma,Okmulgee_Oklahoma_UnitedStates
+40113.0,Osage,Oklahoma,Osage_Oklahoma_UnitedStates
+40115.0,Ottawa,Oklahoma,Ottawa_Oklahoma_UnitedStates
+40117.0,Pawnee,Oklahoma,Pawnee_Oklahoma_UnitedStates
+40119.0,Payne,Oklahoma,Payne_Oklahoma_UnitedStates
+40121.0,Pittsburg,Oklahoma,Pittsburg_Oklahoma_UnitedStates
+40123.0,Pontotoc,Oklahoma,Pontotoc_Oklahoma_UnitedStates
+40125.0,Pottawatomie,Oklahoma,Pottawatomie_Oklahoma_UnitedStates
+40127.0,Pushmataha,Oklahoma,Pushmataha_Oklahoma_UnitedStates
+40129.0,Roger Mills,Oklahoma,RogerMills_Oklahoma_UnitedStates
+40131.0,Rogers,Oklahoma,Rogers_Oklahoma_UnitedStates
+40133.0,Seminole,Oklahoma,Seminole_Oklahoma_UnitedStates
+40135.0,Sequoyah,Oklahoma,Sequoyah_Oklahoma_UnitedStates
+40137.0,Stephens,Oklahoma,Stephens_Oklahoma_UnitedStates
+40139.0,Texas,Oklahoma,Texas_Oklahoma_UnitedStates
+40141.0,Tillman,Oklahoma,Tillman_Oklahoma_UnitedStates
+40143.0,Tulsa,Oklahoma,Tulsa_Oklahoma_UnitedStates
+40145.0,Wagoner,Oklahoma,Wagoner_Oklahoma_UnitedStates
+40147.0,Washington,Oklahoma,Washington_Oklahoma_UnitedStates
+40149.0,Washita,Oklahoma,Washita_Oklahoma_UnitedStates
+40151.0,Woods,Oklahoma,Woods_Oklahoma_UnitedStates
+40153.0,Woodward,Oklahoma,Woodward_Oklahoma_UnitedStates
+41001.0,Baker,Oregon,Baker_Oregon_UnitedStates
+41003.0,Benton,Oregon,Benton_Oregon_UnitedStates
+41005.0,Clackamas,Oregon,Clackamas_Oregon_UnitedStates
+41007.0,Clatsop,Oregon,Clatsop_Oregon_UnitedStates
+41009.0,Columbia,Oregon,Columbia_Oregon_UnitedStates
+41011.0,Coos,Oregon,Coos_Oregon_UnitedStates
+41013.0,Crook,Oregon,Crook_Oregon_UnitedStates
+41015.0,Curry,Oregon,Curry_Oregon_UnitedStates
+41017.0,Deschutes,Oregon,Deschutes_Oregon_UnitedStates
+41019.0,Douglas,Oregon,Douglas_Oregon_UnitedStates
+41021.0,Gilliam,Oregon,Gilliam_Oregon_UnitedStates
+41023.0,Grant,Oregon,Grant_Oregon_UnitedStates
+41025.0,Harney,Oregon,Harney_Oregon_UnitedStates
+41027.0,Hood River,Oregon,HoodRiver_Oregon_UnitedStates
+41029.0,Jackson,Oregon,Jackson_Oregon_UnitedStates
+41031.0,Jefferson,Oregon,Jefferson_Oregon_UnitedStates
+41033.0,Josephine,Oregon,Josephine_Oregon_UnitedStates
+41035.0,Klamath,Oregon,Klamath_Oregon_UnitedStates
+41037.0,Lake,Oregon,Lake_Oregon_UnitedStates
+41039.0,Lane,Oregon,Lane_Oregon_UnitedStates
+41041.0,Lincoln,Oregon,Lincoln_Oregon_UnitedStates
+41043.0,Linn,Oregon,Linn_Oregon_UnitedStates
+41045.0,Malheur,Oregon,Malheur_Oregon_UnitedStates
+41047.0,Marion,Oregon,Marion_Oregon_UnitedStates
+41049.0,Morrow,Oregon,Morrow_Oregon_UnitedStates
+41051.0,Multnomah,Oregon,Multnomah_Oregon_UnitedStates
+41053.0,Polk,Oregon,Polk_Oregon_UnitedStates
+41055.0,Sherman,Oregon,Sherman_Oregon_UnitedStates
+41057.0,Tillamook,Oregon,Tillamook_Oregon_UnitedStates
+41059.0,Umatilla,Oregon,Umatilla_Oregon_UnitedStates
+41061.0,Union,Oregon,Union_Oregon_UnitedStates
+41063.0,Wallowa,Oregon,Wallowa_Oregon_UnitedStates
+41065.0,Wasco,Oregon,Wasco_Oregon_UnitedStates
+41067.0,Washington,Oregon,Washington_Oregon_UnitedStates
+41069.0,Wheeler,Oregon,Wheeler_Oregon_UnitedStates
+41071.0,Yamhill,Oregon,Yamhill_Oregon_UnitedStates
+42001.0,Adams,Pennsylvania,Adams_Pennsylvania_UnitedStates
+42003.0,Allegheny,Pennsylvania,Allegheny_Pennsylvania_UnitedStates
+42005.0,Armstrong,Pennsylvania,Armstrong_Pennsylvania_UnitedStates
+42007.0,Beaver,Pennsylvania,Beaver_Pennsylvania_UnitedStates
+42009.0,Bedford,Pennsylvania,Bedford_Pennsylvania_UnitedStates
+42011.0,Berks,Pennsylvania,Berks_Pennsylvania_UnitedStates
+42013.0,Blair,Pennsylvania,Blair_Pennsylvania_UnitedStates
+42015.0,Bradford,Pennsylvania,Bradford_Pennsylvania_UnitedStates
+42017.0,Bucks,Pennsylvania,Bucks_Pennsylvania_UnitedStates
+42019.0,Butler,Pennsylvania,Butler_Pennsylvania_UnitedStates
+42021.0,Cambria,Pennsylvania,Cambria_Pennsylvania_UnitedStates
+42023.0,Cameron,Pennsylvania,Cameron_Pennsylvania_UnitedStates
+42025.0,Carbon,Pennsylvania,Carbon_Pennsylvania_UnitedStates
+42027.0,Centre,Pennsylvania,Centre_Pennsylvania_UnitedStates
+42029.0,Chester,Pennsylvania,Chester_Pennsylvania_UnitedStates
+42031.0,Clarion,Pennsylvania,Clarion_Pennsylvania_UnitedStates
+42033.0,Clearfield,Pennsylvania,Clearfield_Pennsylvania_UnitedStates
+42035.0,Clinton,Pennsylvania,Clinton_Pennsylvania_UnitedStates
+42037.0,Columbia,Pennsylvania,Columbia_Pennsylvania_UnitedStates
+42039.0,Crawford,Pennsylvania,Crawford_Pennsylvania_UnitedStates
+42041.0,Cumberland,Pennsylvania,Cumberland_Pennsylvania_UnitedStates
+42043.0,Dauphin,Pennsylvania,Dauphin_Pennsylvania_UnitedStates
+42045.0,Delaware,Pennsylvania,Delaware_Pennsylvania_UnitedStates
+42047.0,Elk,Pennsylvania,Elk_Pennsylvania_UnitedStates
+42049.0,Erie,Pennsylvania,Erie_Pennsylvania_UnitedStates
+42051.0,Fayette,Pennsylvania,Fayette_Pennsylvania_UnitedStates
+42053.0,Forest,Pennsylvania,Forest_Pennsylvania_UnitedStates
+42055.0,Franklin,Pennsylvania,Franklin_Pennsylvania_UnitedStates
+42057.0,Fulton,Pennsylvania,Fulton_Pennsylvania_UnitedStates
+42059.0,Greene,Pennsylvania,Greene_Pennsylvania_UnitedStates
+42061.0,Huntingdon,Pennsylvania,Huntingdon_Pennsylvania_UnitedStates
+42063.0,Indiana,Pennsylvania,Indiana_Pennsylvania_UnitedStates
+42065.0,Jefferson,Pennsylvania,Jefferson_Pennsylvania_UnitedStates
+42067.0,Juniata,Pennsylvania,Juniata_Pennsylvania_UnitedStates
+42069.0,Lackawanna,Pennsylvania,Lackawanna_Pennsylvania_UnitedStates
+42071.0,Lancaster,Pennsylvania,Lancaster_Pennsylvania_UnitedStates
+42073.0,Lawrence,Pennsylvania,Lawrence_Pennsylvania_UnitedStates
+42075.0,Lebanon,Pennsylvania,Lebanon_Pennsylvania_UnitedStates
+42077.0,Lehigh,Pennsylvania,Lehigh_Pennsylvania_UnitedStates
+42079.0,Luzerne,Pennsylvania,Luzerne_Pennsylvania_UnitedStates
+42081.0,Lycoming,Pennsylvania,Lycoming_Pennsylvania_UnitedStates
+42083.0,McKean,Pennsylvania,McKean_Pennsylvania_UnitedStates
+42085.0,Mercer,Pennsylvania,Mercer_Pennsylvania_UnitedStates
+42087.0,Mifflin,Pennsylvania,Mifflin_Pennsylvania_UnitedStates
+42089.0,Monroe,Pennsylvania,Monroe_Pennsylvania_UnitedStates
+42091.0,Montgomery,Pennsylvania,Montgomery_Pennsylvania_UnitedStates
+42093.0,Montour,Pennsylvania,Montour_Pennsylvania_UnitedStates
+42095.0,Northampton,Pennsylvania,Northampton_Pennsylvania_UnitedStates
+42097.0,Northumberland,Pennsylvania,Northumberland_Pennsylvania_UnitedStates
+42099.0,Perry,Pennsylvania,Perry_Pennsylvania_UnitedStates
+42101.0,Philadelphia,Pennsylvania,Philadelphia_Pennsylvania_UnitedStates
+42103.0,Pike,Pennsylvania,Pike_Pennsylvania_UnitedStates
+42105.0,Potter,Pennsylvania,Potter_Pennsylvania_UnitedStates
+42107.0,Schuylkill,Pennsylvania,Schuylkill_Pennsylvania_UnitedStates
+42109.0,Snyder,Pennsylvania,Snyder_Pennsylvania_UnitedStates
+42111.0,Somerset,Pennsylvania,Somerset_Pennsylvania_UnitedStates
+42113.0,Sullivan,Pennsylvania,Sullivan_Pennsylvania_UnitedStates
+42115.0,Susquehanna,Pennsylvania,Susquehanna_Pennsylvania_UnitedStates
+42117.0,Tioga,Pennsylvania,Tioga_Pennsylvania_UnitedStates
+42119.0,Union,Pennsylvania,Union_Pennsylvania_UnitedStates
+42121.0,Venango,Pennsylvania,Venango_Pennsylvania_UnitedStates
+42123.0,Warren,Pennsylvania,Warren_Pennsylvania_UnitedStates
+42125.0,Washington,Pennsylvania,Washington_Pennsylvania_UnitedStates
+42127.0,Wayne,Pennsylvania,Wayne_Pennsylvania_UnitedStates
+42129.0,Westmoreland,Pennsylvania,Westmoreland_Pennsylvania_UnitedStates
+42131.0,Wyoming,Pennsylvania,Wyoming_Pennsylvania_UnitedStates
+42133.0,York,Pennsylvania,York_Pennsylvania_UnitedStates
+44001.0,Bristol,Rhode Island,Bristol_RhodeIsland_UnitedStates
+44003.0,Kent,Rhode Island,Kent_RhodeIsland_UnitedStates
+44005.0,Newport,Rhode Island,Newport_RhodeIsland_UnitedStates
+44007.0,Providence,Rhode Island,Providence_RhodeIsland_UnitedStates
+44009.0,Washington,Rhode Island,Washington_RhodeIsland_UnitedStates
+45001.0,Abbeville,South Carolina,Abbeville_SouthCarolina_UnitedStates
+45003.0,Aiken,South Carolina,Aiken_SouthCarolina_UnitedStates
+45005.0,Allendale,South Carolina,Allendale_SouthCarolina_UnitedStates
+45007.0,Anderson,South Carolina,Anderson_SouthCarolina_UnitedStates
+45009.0,Bamberg,South Carolina,Bamberg_SouthCarolina_UnitedStates
+45011.0,Barnwell,South Carolina,Barnwell_SouthCarolina_UnitedStates
+45013.0,Beaufort,South Carolina,Beaufort_SouthCarolina_UnitedStates
+45015.0,Berkeley,South Carolina,Berkeley_SouthCarolina_UnitedStates
+45017.0,Calhoun,South Carolina,Calhoun_SouthCarolina_UnitedStates
+45019.0,Charleston,South Carolina,Charleston_SouthCarolina_UnitedStates
+45021.0,Cherokee,South Carolina,Cherokee_SouthCarolina_UnitedStates
+45023.0,Chester,South Carolina,Chester_SouthCarolina_UnitedStates
+45025.0,Chesterfield,South Carolina,Chesterfield_SouthCarolina_UnitedStates
+45027.0,Clarendon,South Carolina,Clarendon_SouthCarolina_UnitedStates
+45029.0,Colleton,South Carolina,Colleton_SouthCarolina_UnitedStates
+45031.0,Darlington,South Carolina,Darlington_SouthCarolina_UnitedStates
+45033.0,Dillon,South Carolina,Dillon_SouthCarolina_UnitedStates
+45035.0,Dorchester,South Carolina,Dorchester_SouthCarolina_UnitedStates
+45037.0,Edgefield,South Carolina,Edgefield_SouthCarolina_UnitedStates
+45039.0,Fairfield,South Carolina,Fairfield_SouthCarolina_UnitedStates
+45041.0,Florence,South Carolina,Florence_SouthCarolina_UnitedStates
+45043.0,Georgetown,South Carolina,Georgetown_SouthCarolina_UnitedStates
+45045.0,Greenville,South Carolina,Greenville_SouthCarolina_UnitedStates
+45047.0,Greenwood,South Carolina,Greenwood_SouthCarolina_UnitedStates
+45049.0,Hampton,South Carolina,Hampton_SouthCarolina_UnitedStates
+45051.0,Horry,South Carolina,Horry_SouthCarolina_UnitedStates
+45053.0,Jasper,South Carolina,Jasper_SouthCarolina_UnitedStates
+45055.0,Kershaw,South Carolina,Kershaw_SouthCarolina_UnitedStates
+45057.0,Lancaster,South Carolina,Lancaster_SouthCarolina_UnitedStates
+45059.0,Laurens,South Carolina,Laurens_SouthCarolina_UnitedStates
+45061.0,Lee,South Carolina,Lee_SouthCarolina_UnitedStates
+45063.0,Lexington,South Carolina,Lexington_SouthCarolina_UnitedStates
+45065.0,McCormick,South Carolina,McCormick_SouthCarolina_UnitedStates
+45067.0,Marion,South Carolina,Marion_SouthCarolina_UnitedStates
+45069.0,Marlboro,South Carolina,Marlboro_SouthCarolina_UnitedStates
+45071.0,Newberry,South Carolina,Newberry_SouthCarolina_UnitedStates
+45073.0,Oconee,South Carolina,Oconee_SouthCarolina_UnitedStates
+45075.0,Orangeburg,South Carolina,Orangeburg_SouthCarolina_UnitedStates
+45077.0,Pickens,South Carolina,Pickens_SouthCarolina_UnitedStates
+45079.0,Richland,South Carolina,Richland_SouthCarolina_UnitedStates
+45081.0,Saluda,South Carolina,Saluda_SouthCarolina_UnitedStates
+45083.0,Spartanburg,South Carolina,Spartanburg_SouthCarolina_UnitedStates
+45085.0,Sumter,South Carolina,Sumter_SouthCarolina_UnitedStates
+45087.0,Union,South Carolina,Union_SouthCarolina_UnitedStates
+45089.0,Williamsburg,South Carolina,Williamsburg_SouthCarolina_UnitedStates
+45091.0,York,South Carolina,York_SouthCarolina_UnitedStates
+46003.0,Aurora,South Dakota,Aurora_SouthDakota_UnitedStates
+46005.0,Beadle,South Dakota,Beadle_SouthDakota_UnitedStates
+46007.0,Bennett,South Dakota,Bennett_SouthDakota_UnitedStates
+46009.0,Bon Homme,South Dakota,BonHomme_SouthDakota_UnitedStates
+46011.0,Brookings,South Dakota,Brookings_SouthDakota_UnitedStates
+46013.0,Brown,South Dakota,Brown_SouthDakota_UnitedStates
+46015.0,Brule,South Dakota,Brule_SouthDakota_UnitedStates
+46017.0,Buffalo,South Dakota,Buffalo_SouthDakota_UnitedStates
+46019.0,Butte,South Dakota,Butte_SouthDakota_UnitedStates
+46021.0,Campbell,South Dakota,Campbell_SouthDakota_UnitedStates
+46023.0,Charles Mix,South Dakota,CharlesMix_SouthDakota_UnitedStates
+46025.0,Clark,South Dakota,Clark_SouthDakota_UnitedStates
+46027.0,Clay,South Dakota,Clay_SouthDakota_UnitedStates
+46029.0,Codington,South Dakota,Codington_SouthDakota_UnitedStates
+46031.0,Corson,South Dakota,Corson_SouthDakota_UnitedStates
+46033.0,Custer,South Dakota,Custer_SouthDakota_UnitedStates
+46035.0,Davison,South Dakota,Davison_SouthDakota_UnitedStates
+46037.0,Day,South Dakota,Day_SouthDakota_UnitedStates
+46039.0,Deuel,South Dakota,Deuel_SouthDakota_UnitedStates
+46041.0,Dewey,South Dakota,Dewey_SouthDakota_UnitedStates
+46043.0,Douglas,South Dakota,Douglas_SouthDakota_UnitedStates
+46045.0,Edmunds,South Dakota,Edmunds_SouthDakota_UnitedStates
+46047.0,Fall River,South Dakota,FallRiver_SouthDakota_UnitedStates
+46049.0,Faulk,South Dakota,Faulk_SouthDakota_UnitedStates
+46051.0,Grant,South Dakota,Grant_SouthDakota_UnitedStates
+46053.0,Gregory,South Dakota,Gregory_SouthDakota_UnitedStates
+46055.0,Haakon,South Dakota,Haakon_SouthDakota_UnitedStates
+46057.0,Hamlin,South Dakota,Hamlin_SouthDakota_UnitedStates
+46059.0,Hand,South Dakota,Hand_SouthDakota_UnitedStates
+46061.0,Hanson,South Dakota,Hanson_SouthDakota_UnitedStates
+46063.0,Harding,South Dakota,Harding_SouthDakota_UnitedStates
+46065.0,Hughes,South Dakota,Hughes_SouthDakota_UnitedStates
+46067.0,Hutchinson,South Dakota,Hutchinson_SouthDakota_UnitedStates
+46069.0,Hyde,South Dakota,Hyde_SouthDakota_UnitedStates
+46071.0,Jackson,South Dakota,Jackson_SouthDakota_UnitedStates
+46073.0,Jerauld,South Dakota,Jerauld_SouthDakota_UnitedStates
+46075.0,Jones,South Dakota,Jones_SouthDakota_UnitedStates
+46077.0,Kingsbury,South Dakota,Kingsbury_SouthDakota_UnitedStates
+46079.0,Lake,South Dakota,Lake_SouthDakota_UnitedStates
+46081.0,Lawrence,South Dakota,Lawrence_SouthDakota_UnitedStates
+46083.0,Lincoln,South Dakota,Lincoln_SouthDakota_UnitedStates
+46085.0,Lyman,South Dakota,Lyman_SouthDakota_UnitedStates
+46087.0,McCook,South Dakota,McCook_SouthDakota_UnitedStates
+46089.0,McPherson,South Dakota,McPherson_SouthDakota_UnitedStates
+46091.0,Marshall,South Dakota,Marshall_SouthDakota_UnitedStates
+46093.0,Meade,South Dakota,Meade_SouthDakota_UnitedStates
+46095.0,Mellette,South Dakota,Mellette_SouthDakota_UnitedStates
+46097.0,Miner,South Dakota,Miner_SouthDakota_UnitedStates
+46099.0,Minnehaha,South Dakota,Minnehaha_SouthDakota_UnitedStates
+46101.0,Moody,South Dakota,Moody_SouthDakota_UnitedStates
+46102.0,Oglala Lakota,South Dakota,OglalaLakota_SouthDakota_UnitedStates
+46103.0,Pennington,South Dakota,Pennington_SouthDakota_UnitedStates
+46105.0,Perkins,South Dakota,Perkins_SouthDakota_UnitedStates
+46107.0,Potter,South Dakota,Potter_SouthDakota_UnitedStates
+46109.0,Roberts,South Dakota,Roberts_SouthDakota_UnitedStates
+46111.0,Sanborn,South Dakota,Sanborn_SouthDakota_UnitedStates
+46115.0,Spink,South Dakota,Spink_SouthDakota_UnitedStates
+46117.0,Stanley,South Dakota,Stanley_SouthDakota_UnitedStates
+46119.0,Sully,South Dakota,Sully_SouthDakota_UnitedStates
+46121.0,Todd,South Dakota,Todd_SouthDakota_UnitedStates
+46123.0,Tripp,South Dakota,Tripp_SouthDakota_UnitedStates
+46125.0,Turner,South Dakota,Turner_SouthDakota_UnitedStates
+46127.0,Union,South Dakota,Union_SouthDakota_UnitedStates
+46129.0,Walworth,South Dakota,Walworth_SouthDakota_UnitedStates
+46135.0,Yankton,South Dakota,Yankton_SouthDakota_UnitedStates
+46137.0,Ziebach,South Dakota,Ziebach_SouthDakota_UnitedStates
+47001.0,Anderson,Tennessee,Anderson_Tennessee_UnitedStates
+47003.0,Bedford,Tennessee,Bedford_Tennessee_UnitedStates
+47005.0,Benton,Tennessee,Benton_Tennessee_UnitedStates
+47007.0,Bledsoe,Tennessee,Bledsoe_Tennessee_UnitedStates
+47009.0,Blount,Tennessee,Blount_Tennessee_UnitedStates
+47011.0,Bradley,Tennessee,Bradley_Tennessee_UnitedStates
+47013.0,Campbell,Tennessee,Campbell_Tennessee_UnitedStates
+47015.0,Cannon,Tennessee,Cannon_Tennessee_UnitedStates
+47017.0,Carroll,Tennessee,Carroll_Tennessee_UnitedStates
+47019.0,Carter,Tennessee,Carter_Tennessee_UnitedStates
+47021.0,Cheatham,Tennessee,Cheatham_Tennessee_UnitedStates
+47023.0,Chester,Tennessee,Chester_Tennessee_UnitedStates
+47025.0,Claiborne,Tennessee,Claiborne_Tennessee_UnitedStates
+47027.0,Clay,Tennessee,Clay_Tennessee_UnitedStates
+47029.0,Cocke,Tennessee,Cocke_Tennessee_UnitedStates
+47031.0,Coffee,Tennessee,Coffee_Tennessee_UnitedStates
+47033.0,Crockett,Tennessee,Crockett_Tennessee_UnitedStates
+47035.0,Cumberland,Tennessee,Cumberland_Tennessee_UnitedStates
+47037.0,Davidson,Tennessee,Davidson_Tennessee_UnitedStates
+47039.0,Decatur,Tennessee,Decatur_Tennessee_UnitedStates
+47041.0,DeKalb,Tennessee,DeKalb_Tennessee_UnitedStates
+47043.0,Dickson,Tennessee,Dickson_Tennessee_UnitedStates
+47045.0,Dyer,Tennessee,Dyer_Tennessee_UnitedStates
+47047.0,Fayette,Tennessee,Fayette_Tennessee_UnitedStates
+47049.0,Fentress,Tennessee,Fentress_Tennessee_UnitedStates
+47051.0,Franklin,Tennessee,Franklin_Tennessee_UnitedStates
+47053.0,Gibson,Tennessee,Gibson_Tennessee_UnitedStates
+47055.0,Giles,Tennessee,Giles_Tennessee_UnitedStates
+47057.0,Grainger,Tennessee,Grainger_Tennessee_UnitedStates
+47059.0,Greene,Tennessee,Greene_Tennessee_UnitedStates
+47061.0,Grundy,Tennessee,Grundy_Tennessee_UnitedStates
+47063.0,Hamblen,Tennessee,Hamblen_Tennessee_UnitedStates
+47065.0,Hamilton,Tennessee,Hamilton_Tennessee_UnitedStates
+47067.0,Hancock,Tennessee,Hancock_Tennessee_UnitedStates
+47069.0,Hardeman,Tennessee,Hardeman_Tennessee_UnitedStates
+47071.0,Hardin,Tennessee,Hardin_Tennessee_UnitedStates
+47073.0,Hawkins,Tennessee,Hawkins_Tennessee_UnitedStates
+47075.0,Haywood,Tennessee,Haywood_Tennessee_UnitedStates
+47077.0,Henderson,Tennessee,Henderson_Tennessee_UnitedStates
+47079.0,Henry,Tennessee,Henry_Tennessee_UnitedStates
+47081.0,Hickman,Tennessee,Hickman_Tennessee_UnitedStates
+47083.0,Houston,Tennessee,Houston_Tennessee_UnitedStates
+47085.0,Humphreys,Tennessee,Humphreys_Tennessee_UnitedStates
+47087.0,Jackson,Tennessee,Jackson_Tennessee_UnitedStates
+47089.0,Jefferson,Tennessee,Jefferson_Tennessee_UnitedStates
+47091.0,Johnson,Tennessee,Johnson_Tennessee_UnitedStates
+47093.0,Knox,Tennessee,Knox_Tennessee_UnitedStates
+47095.0,Lake,Tennessee,Lake_Tennessee_UnitedStates
+47097.0,Lauderdale,Tennessee,Lauderdale_Tennessee_UnitedStates
+47099.0,Lawrence,Tennessee,Lawrence_Tennessee_UnitedStates
+47101.0,Lewis,Tennessee,Lewis_Tennessee_UnitedStates
+47103.0,Lincoln,Tennessee,Lincoln_Tennessee_UnitedStates
+47105.0,Loudon,Tennessee,Loudon_Tennessee_UnitedStates
+47107.0,McMinn,Tennessee,McMinn_Tennessee_UnitedStates
+47109.0,McNairy,Tennessee,McNairy_Tennessee_UnitedStates
+47111.0,Macon,Tennessee,Macon_Tennessee_UnitedStates
+47113.0,Madison,Tennessee,Madison_Tennessee_UnitedStates
+47115.0,Marion,Tennessee,Marion_Tennessee_UnitedStates
+47117.0,Marshall,Tennessee,Marshall_Tennessee_UnitedStates
+47119.0,Maury,Tennessee,Maury_Tennessee_UnitedStates
+47121.0,Meigs,Tennessee,Meigs_Tennessee_UnitedStates
+47123.0,Monroe,Tennessee,Monroe_Tennessee_UnitedStates
+47125.0,Montgomery,Tennessee,Montgomery_Tennessee_UnitedStates
+47127.0,Moore,Tennessee,Moore_Tennessee_UnitedStates
+47129.0,Morgan,Tennessee,Morgan_Tennessee_UnitedStates
+47131.0,Obion,Tennessee,Obion_Tennessee_UnitedStates
+47133.0,Overton,Tennessee,Overton_Tennessee_UnitedStates
+47135.0,Perry,Tennessee,Perry_Tennessee_UnitedStates
+47137.0,Pickett,Tennessee,Pickett_Tennessee_UnitedStates
+47139.0,Polk,Tennessee,Polk_Tennessee_UnitedStates
+47141.0,Putnam,Tennessee,Putnam_Tennessee_UnitedStates
+47143.0,Rhea,Tennessee,Rhea_Tennessee_UnitedStates
+47145.0,Roane,Tennessee,Roane_Tennessee_UnitedStates
+47147.0,Robertson,Tennessee,Robertson_Tennessee_UnitedStates
+47149.0,Rutherford,Tennessee,Rutherford_Tennessee_UnitedStates
+47151.0,Scott,Tennessee,Scott_Tennessee_UnitedStates
+47153.0,Sequatchie,Tennessee,Sequatchie_Tennessee_UnitedStates
+47155.0,Sevier,Tennessee,Sevier_Tennessee_UnitedStates
+47157.0,Shelby,Tennessee,Shelby_Tennessee_UnitedStates
+47159.0,Smith,Tennessee,Smith_Tennessee_UnitedStates
+47161.0,Stewart,Tennessee,Stewart_Tennessee_UnitedStates
+47163.0,Sullivan,Tennessee,Sullivan_Tennessee_UnitedStates
+47165.0,Sumner,Tennessee,Sumner_Tennessee_UnitedStates
+47167.0,Tipton,Tennessee,Tipton_Tennessee_UnitedStates
+47169.0,Trousdale,Tennessee,Trousdale_Tennessee_UnitedStates
+47171.0,Unicoi,Tennessee,Unicoi_Tennessee_UnitedStates
+47173.0,Union,Tennessee,Union_Tennessee_UnitedStates
+47175.0,Van Buren,Tennessee,VanBuren_Tennessee_UnitedStates
+47177.0,Warren,Tennessee,Warren_Tennessee_UnitedStates
+47179.0,Washington,Tennessee,Washington_Tennessee_UnitedStates
+47181.0,Wayne,Tennessee,Wayne_Tennessee_UnitedStates
+47183.0,Weakley,Tennessee,Weakley_Tennessee_UnitedStates
+47185.0,White,Tennessee,White_Tennessee_UnitedStates
+47187.0,Williamson,Tennessee,Williamson_Tennessee_UnitedStates
+47189.0,Wilson,Tennessee,Wilson_Tennessee_UnitedStates
+48001.0,Anderson,Texas,Anderson_Texas_UnitedStates
+48003.0,Andrews,Texas,Andrews_Texas_UnitedStates
+48005.0,Angelina,Texas,Angelina_Texas_UnitedStates
+48007.0,Aransas,Texas,Aransas_Texas_UnitedStates
+48009.0,Archer,Texas,Archer_Texas_UnitedStates
+48011.0,Armstrong,Texas,Armstrong_Texas_UnitedStates
+48013.0,Atascosa,Texas,Atascosa_Texas_UnitedStates
+48015.0,Austin,Texas,Austin_Texas_UnitedStates
+48017.0,Bailey,Texas,Bailey_Texas_UnitedStates
+48019.0,Bandera,Texas,Bandera_Texas_UnitedStates
+48021.0,Bastrop,Texas,Bastrop_Texas_UnitedStates
+48023.0,Baylor,Texas,Baylor_Texas_UnitedStates
+48025.0,Bee,Texas,Bee_Texas_UnitedStates
+48027.0,Bell,Texas,Bell_Texas_UnitedStates
+48029.0,Bexar,Texas,Bexar_Texas_UnitedStates
+48031.0,Blanco,Texas,Blanco_Texas_UnitedStates
+48033.0,Borden,Texas,Borden_Texas_UnitedStates
+48035.0,Bosque,Texas,Bosque_Texas_UnitedStates
+48037.0,Bowie,Texas,Bowie_Texas_UnitedStates
+48039.0,Brazoria,Texas,Brazoria_Texas_UnitedStates
+48041.0,Brazos,Texas,Brazos_Texas_UnitedStates
+48043.0,Brewster,Texas,Brewster_Texas_UnitedStates
+48045.0,Briscoe,Texas,Briscoe_Texas_UnitedStates
+48047.0,Brooks,Texas,Brooks_Texas_UnitedStates
+48049.0,Brown,Texas,Brown_Texas_UnitedStates
+48051.0,Burleson,Texas,Burleson_Texas_UnitedStates
+48053.0,Burnet,Texas,Burnet_Texas_UnitedStates
+48055.0,Caldwell,Texas,Caldwell_Texas_UnitedStates
+48057.0,Calhoun,Texas,Calhoun_Texas_UnitedStates
+48059.0,Callahan,Texas,Callahan_Texas_UnitedStates
+48061.0,Cameron,Texas,Cameron_Texas_UnitedStates
+48063.0,Camp,Texas,Camp_Texas_UnitedStates
+48065.0,Carson,Texas,Carson_Texas_UnitedStates
+48067.0,Cass,Texas,Cass_Texas_UnitedStates
+48069.0,Castro,Texas,Castro_Texas_UnitedStates
+48071.0,Chambers,Texas,Chambers_Texas_UnitedStates
+48073.0,Cherokee,Texas,Cherokee_Texas_UnitedStates
+48075.0,Childress,Texas,Childress_Texas_UnitedStates
+48077.0,Clay,Texas,Clay_Texas_UnitedStates
+48079.0,Cochran,Texas,Cochran_Texas_UnitedStates
+48081.0,Coke,Texas,Coke_Texas_UnitedStates
+48083.0,Coleman,Texas,Coleman_Texas_UnitedStates
+48085.0,Collin,Texas,Collin_Texas_UnitedStates
+48087.0,Collingsworth,Texas,Collingsworth_Texas_UnitedStates
+48089.0,Colorado,Texas,Colorado_Texas_UnitedStates
+48091.0,Comal,Texas,Comal_Texas_UnitedStates
+48093.0,Comanche,Texas,Comanche_Texas_UnitedStates
+48095.0,Concho,Texas,Concho_Texas_UnitedStates
+48097.0,Cooke,Texas,Cooke_Texas_UnitedStates
+48099.0,Coryell,Texas,Coryell_Texas_UnitedStates
+48101.0,Cottle,Texas,Cottle_Texas_UnitedStates
+48103.0,Crane,Texas,Crane_Texas_UnitedStates
+48105.0,Crockett,Texas,Crockett_Texas_UnitedStates
+48107.0,Crosby,Texas,Crosby_Texas_UnitedStates
+48109.0,Culberson,Texas,Culberson_Texas_UnitedStates
+48111.0,Dallam,Texas,Dallam_Texas_UnitedStates
+48113.0,Dallas,Texas,Dallas_Texas_UnitedStates
+48115.0,Dawson,Texas,Dawson_Texas_UnitedStates
+48117.0,Deaf Smith,Texas,DeafSmith_Texas_UnitedStates
+48119.0,Delta,Texas,Delta_Texas_UnitedStates
+48121.0,Denton,Texas,Denton_Texas_UnitedStates
+48123.0,DeWitt,Texas,DeWitt_Texas_UnitedStates
+48125.0,Dickens,Texas,Dickens_Texas_UnitedStates
+48127.0,Dimmit,Texas,Dimmit_Texas_UnitedStates
+48129.0,Donley,Texas,Donley_Texas_UnitedStates
+48131.0,Duval,Texas,Duval_Texas_UnitedStates
+48133.0,Eastland,Texas,Eastland_Texas_UnitedStates
+48135.0,Ector,Texas,Ector_Texas_UnitedStates
+48137.0,Edwards,Texas,Edwards_Texas_UnitedStates
+48139.0,Ellis,Texas,Ellis_Texas_UnitedStates
+48141.0,El Paso,Texas,ElPaso_Texas_UnitedStates
+48143.0,Erath,Texas,Erath_Texas_UnitedStates
+48145.0,Falls,Texas,Falls_Texas_UnitedStates
+48147.0,Fannin,Texas,Fannin_Texas_UnitedStates
+48149.0,Fayette,Texas,Fayette_Texas_UnitedStates
+48151.0,Fisher,Texas,Fisher_Texas_UnitedStates
+48153.0,Floyd,Texas,Floyd_Texas_UnitedStates
+48155.0,Foard,Texas,Foard_Texas_UnitedStates
+48157.0,Fort Bend,Texas,FortBend_Texas_UnitedStates
+48159.0,Franklin,Texas,Franklin_Texas_UnitedStates
+48161.0,Freestone,Texas,Freestone_Texas_UnitedStates
+48163.0,Frio,Texas,Frio_Texas_UnitedStates
+48165.0,Gaines,Texas,Gaines_Texas_UnitedStates
+48167.0,Galveston,Texas,Galveston_Texas_UnitedStates
+48169.0,Garza,Texas,Garza_Texas_UnitedStates
+48171.0,Gillespie,Texas,Gillespie_Texas_UnitedStates
+48173.0,Glasscock,Texas,Glasscock_Texas_UnitedStates
+48175.0,Goliad,Texas,Goliad_Texas_UnitedStates
+48177.0,Gonzales,Texas,Gonzales_Texas_UnitedStates
+48179.0,Gray,Texas,Gray_Texas_UnitedStates
+48181.0,Grayson,Texas,Grayson_Texas_UnitedStates
+48183.0,Gregg,Texas,Gregg_Texas_UnitedStates
+48185.0,Grimes,Texas,Grimes_Texas_UnitedStates
+48187.0,Guadalupe,Texas,Guadalupe_Texas_UnitedStates
+48189.0,Hale,Texas,Hale_Texas_UnitedStates
+48191.0,Hall,Texas,Hall_Texas_UnitedStates
+48193.0,Hamilton,Texas,Hamilton_Texas_UnitedStates
+48195.0,Hansford,Texas,Hansford_Texas_UnitedStates
+48197.0,Hardeman,Texas,Hardeman_Texas_UnitedStates
+48199.0,Hardin,Texas,Hardin_Texas_UnitedStates
+48201.0,Harris,Texas,Harris_Texas_UnitedStates
+48203.0,Harrison,Texas,Harrison_Texas_UnitedStates
+48205.0,Hartley,Texas,Hartley_Texas_UnitedStates
+48207.0,Haskell,Texas,Haskell_Texas_UnitedStates
+48209.0,Hays,Texas,Hays_Texas_UnitedStates
+48211.0,Hemphill,Texas,Hemphill_Texas_UnitedStates
+48213.0,Henderson,Texas,Henderson_Texas_UnitedStates
+48215.0,Hidalgo,Texas,Hidalgo_Texas_UnitedStates
+48217.0,Hill,Texas,Hill_Texas_UnitedStates
+48219.0,Hockley,Texas,Hockley_Texas_UnitedStates
+48221.0,Hood,Texas,Hood_Texas_UnitedStates
+48223.0,Hopkins,Texas,Hopkins_Texas_UnitedStates
+48225.0,Houston,Texas,Houston_Texas_UnitedStates
+48227.0,Howard,Texas,Howard_Texas_UnitedStates
+48229.0,Hudspeth,Texas,Hudspeth_Texas_UnitedStates
+48231.0,Hunt,Texas,Hunt_Texas_UnitedStates
+48233.0,Hutchinson,Texas,Hutchinson_Texas_UnitedStates
+48235.0,Irion,Texas,Irion_Texas_UnitedStates
+48237.0,Jack,Texas,Jack_Texas_UnitedStates
+48239.0,Jackson,Texas,Jackson_Texas_UnitedStates
+48241.0,Jasper,Texas,Jasper_Texas_UnitedStates
+48243.0,Jeff Davis,Texas,JeffDavis_Texas_UnitedStates
+48245.0,Jefferson,Texas,Jefferson_Texas_UnitedStates
+48247.0,Jim Hogg,Texas,JimHogg_Texas_UnitedStates
+48249.0,Jim Wells,Texas,JimWells_Texas_UnitedStates
+48251.0,Johnson,Texas,Johnson_Texas_UnitedStates
+48253.0,Jones,Texas,Jones_Texas_UnitedStates
+48255.0,Karnes,Texas,Karnes_Texas_UnitedStates
+48257.0,Kaufman,Texas,Kaufman_Texas_UnitedStates
+48259.0,Kendall,Texas,Kendall_Texas_UnitedStates
+48261.0,Kenedy,Texas,Kenedy_Texas_UnitedStates
+48263.0,Kent,Texas,Kent_Texas_UnitedStates
+48265.0,Kerr,Texas,Kerr_Texas_UnitedStates
+48267.0,Kimble,Texas,Kimble_Texas_UnitedStates
+48269.0,King,Texas,King_Texas_UnitedStates
+48271.0,Kinney,Texas,Kinney_Texas_UnitedStates
+48273.0,Kleberg,Texas,Kleberg_Texas_UnitedStates
+48275.0,Knox,Texas,Knox_Texas_UnitedStates
+48277.0,Lamar,Texas,Lamar_Texas_UnitedStates
+48279.0,Lamb,Texas,Lamb_Texas_UnitedStates
+48281.0,Lampasas,Texas,Lampasas_Texas_UnitedStates
+48283.0,La Salle,Texas,LaSalle_Texas_UnitedStates
+48285.0,Lavaca,Texas,Lavaca_Texas_UnitedStates
+48287.0,Lee,Texas,Lee_Texas_UnitedStates
+48289.0,Leon,Texas,Leon_Texas_UnitedStates
+48291.0,Liberty,Texas,Liberty_Texas_UnitedStates
+48293.0,Limestone,Texas,Limestone_Texas_UnitedStates
+48295.0,Lipscomb,Texas,Lipscomb_Texas_UnitedStates
+48297.0,Live Oak,Texas,LiveOak_Texas_UnitedStates
+48299.0,Llano,Texas,Llano_Texas_UnitedStates
+48301.0,Loving,Texas,Loving_Texas_UnitedStates
+48303.0,Lubbock,Texas,Lubbock_Texas_UnitedStates
+48305.0,Lynn,Texas,Lynn_Texas_UnitedStates
+48307.0,McCulloch,Texas,McCulloch_Texas_UnitedStates
+48309.0,McLennan,Texas,McLennan_Texas_UnitedStates
+48311.0,McMullen,Texas,McMullen_Texas_UnitedStates
+48313.0,Madison,Texas,Madison_Texas_UnitedStates
+48315.0,Marion,Texas,Marion_Texas_UnitedStates
+48317.0,Martin,Texas,Martin_Texas_UnitedStates
+48319.0,Mason,Texas,Mason_Texas_UnitedStates
+48321.0,Matagorda,Texas,Matagorda_Texas_UnitedStates
+48323.0,Maverick,Texas,Maverick_Texas_UnitedStates
+48325.0,Medina,Texas,Medina_Texas_UnitedStates
+48327.0,Menard,Texas,Menard_Texas_UnitedStates
+48329.0,Midland,Texas,Midland_Texas_UnitedStates
+48331.0,Milam,Texas,Milam_Texas_UnitedStates
+48333.0,Mills,Texas,Mills_Texas_UnitedStates
+48335.0,Mitchell,Texas,Mitchell_Texas_UnitedStates
+48337.0,Montague,Texas,Montague_Texas_UnitedStates
+48339.0,Montgomery,Texas,Montgomery_Texas_UnitedStates
+48341.0,Moore,Texas,Moore_Texas_UnitedStates
+48343.0,Morris,Texas,Morris_Texas_UnitedStates
+48345.0,Motley,Texas,Motley_Texas_UnitedStates
+48347.0,Nacogdoches,Texas,Nacogdoches_Texas_UnitedStates
+48349.0,Navarro,Texas,Navarro_Texas_UnitedStates
+48351.0,Newton,Texas,Newton_Texas_UnitedStates
+48353.0,Nolan,Texas,Nolan_Texas_UnitedStates
+48355.0,Nueces,Texas,Nueces_Texas_UnitedStates
+48357.0,Ochiltree,Texas,Ochiltree_Texas_UnitedStates
+48359.0,Oldham,Texas,Oldham_Texas_UnitedStates
+48361.0,Orange,Texas,Orange_Texas_UnitedStates
+48363.0,Palo Pinto,Texas,PaloPinto_Texas_UnitedStates
+48365.0,Panola,Texas,Panola_Texas_UnitedStates
+48367.0,Parker,Texas,Parker_Texas_UnitedStates
+48369.0,Parmer,Texas,Parmer_Texas_UnitedStates
+48371.0,Pecos,Texas,Pecos_Texas_UnitedStates
+48373.0,Polk,Texas,Polk_Texas_UnitedStates
+48375.0,Potter,Texas,Potter_Texas_UnitedStates
+48377.0,Presidio,Texas,Presidio_Texas_UnitedStates
+48379.0,Rains,Texas,Rains_Texas_UnitedStates
+48381.0,Randall,Texas,Randall_Texas_UnitedStates
+48383.0,Reagan,Texas,Reagan_Texas_UnitedStates
+48385.0,Real,Texas,Real_Texas_UnitedStates
+48387.0,Red River,Texas,RedRiver_Texas_UnitedStates
+48389.0,Reeves,Texas,Reeves_Texas_UnitedStates
+48391.0,Refugio,Texas,Refugio_Texas_UnitedStates
+48393.0,Roberts,Texas,Roberts_Texas_UnitedStates
+48395.0,Robertson,Texas,Robertson_Texas_UnitedStates
+48397.0,Rockwall,Texas,Rockwall_Texas_UnitedStates
+48399.0,Runnels,Texas,Runnels_Texas_UnitedStates
+48401.0,Rusk,Texas,Rusk_Texas_UnitedStates
+48403.0,Sabine,Texas,Sabine_Texas_UnitedStates
+48405.0,San Augustine,Texas,SanAugustine_Texas_UnitedStates
+48407.0,San Jacinto,Texas,SanJacinto_Texas_UnitedStates
+48409.0,San Patricio,Texas,SanPatricio_Texas_UnitedStates
+48411.0,San Saba,Texas,SanSaba_Texas_UnitedStates
+48413.0,Schleicher,Texas,Schleicher_Texas_UnitedStates
+48415.0,Scurry,Texas,Scurry_Texas_UnitedStates
+48417.0,Shackelford,Texas,Shackelford_Texas_UnitedStates
+48419.0,Shelby,Texas,Shelby_Texas_UnitedStates
+48421.0,Sherman,Texas,Sherman_Texas_UnitedStates
+48423.0,Smith,Texas,Smith_Texas_UnitedStates
+48425.0,Somervell,Texas,Somervell_Texas_UnitedStates
+48427.0,Starr,Texas,Starr_Texas_UnitedStates
+48429.0,Stephens,Texas,Stephens_Texas_UnitedStates
+48431.0,Sterling,Texas,Sterling_Texas_UnitedStates
+48433.0,Stonewall,Texas,Stonewall_Texas_UnitedStates
+48435.0,Sutton,Texas,Sutton_Texas_UnitedStates
+48437.0,Swisher,Texas,Swisher_Texas_UnitedStates
+48439.0,Tarrant,Texas,Tarrant_Texas_UnitedStates
+48441.0,Taylor,Texas,Taylor_Texas_UnitedStates
+48443.0,Terrell,Texas,Terrell_Texas_UnitedStates
+48445.0,Terry,Texas,Terry_Texas_UnitedStates
+48447.0,Throckmorton,Texas,Throckmorton_Texas_UnitedStates
+48449.0,Titus,Texas,Titus_Texas_UnitedStates
+48451.0,Tom Green,Texas,TomGreen_Texas_UnitedStates
+48453.0,Travis,Texas,Travis_Texas_UnitedStates
+48455.0,Trinity,Texas,Trinity_Texas_UnitedStates
+48457.0,Tyler,Texas,Tyler_Texas_UnitedStates
+48459.0,Upshur,Texas,Upshur_Texas_UnitedStates
+48461.0,Upton,Texas,Upton_Texas_UnitedStates
+48463.0,Uvalde,Texas,Uvalde_Texas_UnitedStates
+48465.0,Val Verde,Texas,ValVerde_Texas_UnitedStates
+48467.0,Van Zandt,Texas,VanZandt_Texas_UnitedStates
+48469.0,Victoria,Texas,Victoria_Texas_UnitedStates
+48471.0,Walker,Texas,Walker_Texas_UnitedStates
+48473.0,Waller,Texas,Waller_Texas_UnitedStates
+48475.0,Ward,Texas,Ward_Texas_UnitedStates
+48477.0,Washington,Texas,Washington_Texas_UnitedStates
+48479.0,Webb,Texas,Webb_Texas_UnitedStates
+48481.0,Wharton,Texas,Wharton_Texas_UnitedStates
+48483.0,Wheeler,Texas,Wheeler_Texas_UnitedStates
+48485.0,Wichita,Texas,Wichita_Texas_UnitedStates
+48487.0,Wilbarger,Texas,Wilbarger_Texas_UnitedStates
+48489.0,Willacy,Texas,Willacy_Texas_UnitedStates
+48491.0,Williamson,Texas,Williamson_Texas_UnitedStates
+48493.0,Wilson,Texas,Wilson_Texas_UnitedStates
+48495.0,Winkler,Texas,Winkler_Texas_UnitedStates
+48497.0,Wise,Texas,Wise_Texas_UnitedStates
+48499.0,Wood,Texas,Wood_Texas_UnitedStates
+48501.0,Yoakum,Texas,Yoakum_Texas_UnitedStates
+48503.0,Young,Texas,Young_Texas_UnitedStates
+48505.0,Zapata,Texas,Zapata_Texas_UnitedStates
+48507.0,Zavala,Texas,Zavala_Texas_UnitedStates
+49001.0,Beaver,Utah,Beaver_Utah_UnitedStates
+49003.0,Box Elder,Utah,BoxElder_Utah_UnitedStates
+49005.0,Cache,Utah,Cache_Utah_UnitedStates
+49007.0,Carbon,Utah,Carbon_Utah_UnitedStates
+49009.0,Daggett,Utah,Daggett_Utah_UnitedStates
+49011.0,Davis,Utah,Davis_Utah_UnitedStates
+49013.0,Duchesne,Utah,Duchesne_Utah_UnitedStates
+49015.0,Emery,Utah,Emery_Utah_UnitedStates
+49017.0,Garfield,Utah,Garfield_Utah_UnitedStates
+49019.0,Grand,Utah,Grand_Utah_UnitedStates
+49021.0,Iron,Utah,Iron_Utah_UnitedStates
+49023.0,Juab,Utah,Juab_Utah_UnitedStates
+49025.0,Kane,Utah,Kane_Utah_UnitedStates
+49027.0,Millard,Utah,Millard_Utah_UnitedStates
+49029.0,Morgan,Utah,Morgan_Utah_UnitedStates
+49031.0,Piute,Utah,Piute_Utah_UnitedStates
+49033.0,Rich,Utah,Rich_Utah_UnitedStates
+49035.0,Salt Lake,Utah,SaltLake_Utah_UnitedStates
+49037.0,San Juan,Utah,SanJuan_Utah_UnitedStates
+49039.0,Sanpete,Utah,Sanpete_Utah_UnitedStates
+49041.0,Sevier,Utah,Sevier_Utah_UnitedStates
+49043.0,Summit,Utah,Summit_Utah_UnitedStates
+49045.0,Tooele,Utah,Tooele_Utah_UnitedStates
+49047.0,Uintah,Utah,Uintah_Utah_UnitedStates
+49049.0,Utah,Utah,Utah_Utah_UnitedStates
+49051.0,Wasatch,Utah,Wasatch_Utah_UnitedStates
+49053.0,Washington,Utah,Washington_Utah_UnitedStates
+49055.0,Wayne,Utah,Wayne_Utah_UnitedStates
+49057.0,Weber,Utah,Weber_Utah_UnitedStates
+50001.0,Addison,Vermont,Addison_Vermont_UnitedStates
+50003.0,Bennington,Vermont,Bennington_Vermont_UnitedStates
+50005.0,Caledonia,Vermont,Caledonia_Vermont_UnitedStates
+50007.0,Chittenden,Vermont,Chittenden_Vermont_UnitedStates
+50009.0,Essex,Vermont,Essex_Vermont_UnitedStates
+50011.0,Franklin,Vermont,Franklin_Vermont_UnitedStates
+50013.0,Grand Isle,Vermont,GrandIsle_Vermont_UnitedStates
+50015.0,Lamoille,Vermont,Lamoille_Vermont_UnitedStates
+50017.0,Orange,Vermont,Orange_Vermont_UnitedStates
+50019.0,Orleans,Vermont,Orleans_Vermont_UnitedStates
+50021.0,Rutland,Vermont,Rutland_Vermont_UnitedStates
+50023.0,Washington,Vermont,Washington_Vermont_UnitedStates
+50025.0,Windham,Vermont,Windham_Vermont_UnitedStates
+50027.0,Windsor,Vermont,Windsor_Vermont_UnitedStates
+51001.0,Accomack,Virginia,Accomack_Virginia_UnitedStates
+51003.0,Albemarle,Virginia,Albemarle_Virginia_UnitedStates
+51005.0,Alleghany,Virginia,Alleghany_Virginia_UnitedStates
+51007.0,Amelia,Virginia,Amelia_Virginia_UnitedStates
+51009.0,Amherst,Virginia,Amherst_Virginia_UnitedStates
+51011.0,Appomattox,Virginia,Appomattox_Virginia_UnitedStates
+51013.0,Arlington,Virginia,Arlington_Virginia_UnitedStates
+51015.0,Augusta,Virginia,Augusta_Virginia_UnitedStates
+51017.0,Bath,Virginia,Bath_Virginia_UnitedStates
+51019.0,Bedford,Virginia,Bedford_Virginia_UnitedStates
+51021.0,Bland,Virginia,Bland_Virginia_UnitedStates
+51023.0,Botetourt,Virginia,Botetourt_Virginia_UnitedStates
+51025.0,Brunswick,Virginia,Brunswick_Virginia_UnitedStates
+51027.0,Buchanan,Virginia,Buchanan_Virginia_UnitedStates
+51029.0,Buckingham,Virginia,Buckingham_Virginia_UnitedStates
+51031.0,Campbell,Virginia,Campbell_Virginia_UnitedStates
+51033.0,Caroline,Virginia,Caroline_Virginia_UnitedStates
+51035.0,Carroll,Virginia,Carroll_Virginia_UnitedStates
+51036.0,Charles City,Virginia,CharlesCity_Virginia_UnitedStates
+51037.0,Charlotte,Virginia,Charlotte_Virginia_UnitedStates
+51041.0,Chesterfield,Virginia,Chesterfield_Virginia_UnitedStates
+51043.0,Clarke,Virginia,Clarke_Virginia_UnitedStates
+51045.0,Craig,Virginia,Craig_Virginia_UnitedStates
+51047.0,Culpeper,Virginia,Culpeper_Virginia_UnitedStates
+51049.0,Cumberland,Virginia,Cumberland_Virginia_UnitedStates
+51051.0,Dickenson,Virginia,Dickenson_Virginia_UnitedStates
+51053.0,Dinwiddie,Virginia,Dinwiddie_Virginia_UnitedStates
+51057.0,Essex,Virginia,Essex_Virginia_UnitedStates
+51059.0,Fairfax,Virginia,Fairfax_Virginia_UnitedStates
+51061.0,Fauquier,Virginia,Fauquier_Virginia_UnitedStates
+51063.0,Floyd,Virginia,Floyd_Virginia_UnitedStates
+51065.0,Fluvanna,Virginia,Fluvanna_Virginia_UnitedStates
+51067.0,Franklin,Virginia,Franklin_Virginia_UnitedStates
+51069.0,Frederick,Virginia,Frederick_Virginia_UnitedStates
+51071.0,Giles,Virginia,Giles_Virginia_UnitedStates
+51073.0,Gloucester,Virginia,Gloucester_Virginia_UnitedStates
+51075.0,Goochland,Virginia,Goochland_Virginia_UnitedStates
+51077.0,Grayson,Virginia,Grayson_Virginia_UnitedStates
+51079.0,Greene,Virginia,Greene_Virginia_UnitedStates
+51081.0,Greensville,Virginia,Greensville_Virginia_UnitedStates
+51083.0,Halifax,Virginia,Halifax_Virginia_UnitedStates
+51085.0,Hanover,Virginia,Hanover_Virginia_UnitedStates
+51087.0,Henrico,Virginia,Henrico_Virginia_UnitedStates
+51089.0,Henry,Virginia,Henry_Virginia_UnitedStates
+51091.0,Highland,Virginia,Highland_Virginia_UnitedStates
+51093.0,Isle of Wight,Virginia,IsleofWight_Virginia_UnitedStates
+51095.0,James City,Virginia,JamesCity_Virginia_UnitedStates
+51097.0,King and Queen,Virginia,KingandQueen_Virginia_UnitedStates
+51099.0,King George,Virginia,KingGeorge_Virginia_UnitedStates
+51101.0,King William,Virginia,KingWilliam_Virginia_UnitedStates
+51103.0,Lancaster,Virginia,Lancaster_Virginia_UnitedStates
+51105.0,Lee,Virginia,Lee_Virginia_UnitedStates
+51107.0,Loudoun,Virginia,Loudoun_Virginia_UnitedStates
+51109.0,Louisa,Virginia,Louisa_Virginia_UnitedStates
+51111.0,Lunenburg,Virginia,Lunenburg_Virginia_UnitedStates
+51113.0,Madison,Virginia,Madison_Virginia_UnitedStates
+51115.0,Mathews,Virginia,Mathews_Virginia_UnitedStates
+51117.0,Mecklenburg,Virginia,Mecklenburg_Virginia_UnitedStates
+51119.0,Middlesex,Virginia,Middlesex_Virginia_UnitedStates
+51121.0,Montgomery,Virginia,Montgomery_Virginia_UnitedStates
+51125.0,Nelson,Virginia,Nelson_Virginia_UnitedStates
+51127.0,New Kent,Virginia,NewKent_Virginia_UnitedStates
+51131.0,Northampton,Virginia,Northampton_Virginia_UnitedStates
+51133.0,Northumberland,Virginia,Northumberland_Virginia_UnitedStates
+51135.0,Nottoway,Virginia,Nottoway_Virginia_UnitedStates
+51137.0,Orange,Virginia,Orange_Virginia_UnitedStates
+51139.0,Page,Virginia,Page_Virginia_UnitedStates
+51141.0,Patrick,Virginia,Patrick_Virginia_UnitedStates
+51143.0,Pittsylvania,Virginia,Pittsylvania_Virginia_UnitedStates
+51145.0,Powhatan,Virginia,Powhatan_Virginia_UnitedStates
+51147.0,Prince Edward,Virginia,PrinceEdward_Virginia_UnitedStates
+51149.0,Prince George,Virginia,PrinceGeorge_Virginia_UnitedStates
+51153.0,Prince William,Virginia,PrinceWilliam_Virginia_UnitedStates
+51155.0,Pulaski,Virginia,Pulaski_Virginia_UnitedStates
+51157.0,Rappahannock,Virginia,Rappahannock_Virginia_UnitedStates
+51159.0,Richmond,Virginia,Richmond_Virginia_UnitedStates
+51161.0,Roanoke,Virginia,Roanoke_Virginia_UnitedStates
+51163.0,Rockbridge,Virginia,Rockbridge_Virginia_UnitedStates
+51165.0,Rockingham,Virginia,Rockingham_Virginia_UnitedStates
+51167.0,Russell,Virginia,Russell_Virginia_UnitedStates
+51169.0,Scott,Virginia,Scott_Virginia_UnitedStates
+51171.0,Shenandoah,Virginia,Shenandoah_Virginia_UnitedStates
+51173.0,Smyth,Virginia,Smyth_Virginia_UnitedStates
+51175.0,Southampton,Virginia,Southampton_Virginia_UnitedStates
+51177.0,Spotsylvania,Virginia,Spotsylvania_Virginia_UnitedStates
+51179.0,Stafford,Virginia,Stafford_Virginia_UnitedStates
+51181.0,Surry,Virginia,Surry_Virginia_UnitedStates
+51183.0,Sussex,Virginia,Sussex_Virginia_UnitedStates
+51185.0,Tazewell,Virginia,Tazewell_Virginia_UnitedStates
+51187.0,Warren,Virginia,Warren_Virginia_UnitedStates
+51191.0,Washington,Virginia,Washington_Virginia_UnitedStates
+51193.0,Westmoreland,Virginia,Westmoreland_Virginia_UnitedStates
+51195.0,Wise,Virginia,Wise_Virginia_UnitedStates
+51197.0,Wythe,Virginia,Wythe_Virginia_UnitedStates
+51199.0,York,Virginia,York_Virginia_UnitedStates
+51510.0,Alexandria,Virginia,Alexandria_Virginia_UnitedStates
+51520.0,Bristol,Virginia,Bristol_Virginia_UnitedStates
+51530.0,Buena Vista,Virginia,BuenaVista_Virginia_UnitedStates
+51540.0,Charlottesville,Virginia,Charlottesville_Virginia_UnitedStates
+51550.0,Chesapeake,Virginia,Chesapeake_Virginia_UnitedStates
+51570.0,Colonial Heights,Virginia,ColonialHeights_Virginia_UnitedStates
+51580.0,Covington,Virginia,Covington_Virginia_UnitedStates
+51590.0,Danville,Virginia,Danville_Virginia_UnitedStates
+51595.0,Emporia,Virginia,Emporia_Virginia_UnitedStates
+51600.0,Fairfax City,Virginia,FairfaxCity_Virginia_UnitedStates
+51610.0,Falls Church,Virginia,FallsChurch_Virginia_UnitedStates
+51620.0,Franklin City,Virginia,FranklinCity_Virginia_UnitedStates
+51630.0,Fredericksburg,Virginia,Fredericksburg_Virginia_UnitedStates
+51640.0,Galax,Virginia,Galax_Virginia_UnitedStates
+51650.0,Hampton,Virginia,Hampton_Virginia_UnitedStates
+51660.0,Harrisonburg,Virginia,Harrisonburg_Virginia_UnitedStates
+51670.0,Hopewell,Virginia,Hopewell_Virginia_UnitedStates
+51678.0,Lexington,Virginia,Lexington_Virginia_UnitedStates
+51680.0,Lynchburg,Virginia,Lynchburg_Virginia_UnitedStates
+51683.0,Manassas,Virginia,Manassas_Virginia_UnitedStates
+51685.0,Manassas Park,Virginia,ManassasPark_Virginia_UnitedStates
+51690.0,Martinsville,Virginia,Martinsville_Virginia_UnitedStates
+51700.0,Newport News,Virginia,NewportNews_Virginia_UnitedStates
+51710.0,Norfolk,Virginia,Norfolk_Virginia_UnitedStates
+51720.0,Norton,Virginia,Norton_Virginia_UnitedStates
+51730.0,Petersburg,Virginia,Petersburg_Virginia_UnitedStates
+51735.0,Poquoson,Virginia,Poquoson_Virginia_UnitedStates
+51740.0,Portsmouth,Virginia,Portsmouth_Virginia_UnitedStates
+51750.0,Radford,Virginia,Radford_Virginia_UnitedStates
+51760.0,Richmond City,Virginia,RichmondCity_Virginia_UnitedStates
+51770.0,Roanoke City,Virginia,RoanokeCity_Virginia_UnitedStates
+51775.0,Salem,Virginia,Salem_Virginia_UnitedStates
+51790.0,Staunton,Virginia,Staunton_Virginia_UnitedStates
+51800.0,Suffolk,Virginia,Suffolk_Virginia_UnitedStates
+51810.0,Virginia Beach,Virginia,VirginiaBeach_Virginia_UnitedStates
+51820.0,Waynesboro,Virginia,Waynesboro_Virginia_UnitedStates
+51830.0,Williamsburg,Virginia,Williamsburg_Virginia_UnitedStates
+51840.0,Winchester,Virginia,Winchester_Virginia_UnitedStates
+53001.0,Adams,Washington,Adams_Washington_UnitedStates
+53003.0,Asotin,Washington,Asotin_Washington_UnitedStates
+53005.0,Benton,Washington,Benton_Washington_UnitedStates
+53007.0,Chelan,Washington,Chelan_Washington_UnitedStates
+53009.0,Clallam,Washington,Clallam_Washington_UnitedStates
+53011.0,Clark,Washington,Clark_Washington_UnitedStates
+53013.0,Columbia,Washington,Columbia_Washington_UnitedStates
+53015.0,Cowlitz,Washington,Cowlitz_Washington_UnitedStates
+53017.0,Douglas,Washington,Douglas_Washington_UnitedStates
+53019.0,Ferry,Washington,Ferry_Washington_UnitedStates
+53021.0,Franklin,Washington,Franklin_Washington_UnitedStates
+53023.0,Garfield,Washington,Garfield_Washington_UnitedStates
+53025.0,Grant,Washington,Grant_Washington_UnitedStates
+53027.0,Grays Harbor,Washington,GraysHarbor_Washington_UnitedStates
+53029.0,Island,Washington,Island_Washington_UnitedStates
+53031.0,Jefferson,Washington,Jefferson_Washington_UnitedStates
+53033.0,King,Washington,King_Washington_UnitedStates
+53035.0,Kitsap,Washington,Kitsap_Washington_UnitedStates
+53037.0,Kittitas,Washington,Kittitas_Washington_UnitedStates
+53039.0,Klickitat,Washington,Klickitat_Washington_UnitedStates
+53041.0,Lewis,Washington,Lewis_Washington_UnitedStates
+53043.0,Lincoln,Washington,Lincoln_Washington_UnitedStates
+53045.0,Mason,Washington,Mason_Washington_UnitedStates
+53047.0,Okanogan,Washington,Okanogan_Washington_UnitedStates
+53049.0,Pacific,Washington,Pacific_Washington_UnitedStates
+53051.0,Pend Oreille,Washington,PendOreille_Washington_UnitedStates
+53053.0,Pierce,Washington,Pierce_Washington_UnitedStates
+53055.0,San Juan,Washington,SanJuan_Washington_UnitedStates
+53057.0,Skagit,Washington,Skagit_Washington_UnitedStates
+53059.0,Skamania,Washington,Skamania_Washington_UnitedStates
+53061.0,Snohomish,Washington,Snohomish_Washington_UnitedStates
+53063.0,Spokane,Washington,Spokane_Washington_UnitedStates
+53065.0,Stevens,Washington,Stevens_Washington_UnitedStates
+53067.0,Thurston,Washington,Thurston_Washington_UnitedStates
+53069.0,Wahkiakum,Washington,Wahkiakum_Washington_UnitedStates
+53071.0,Walla Walla,Washington,WallaWalla_Washington_UnitedStates
+53073.0,Whatcom,Washington,Whatcom_Washington_UnitedStates
+53075.0,Whitman,Washington,Whitman_Washington_UnitedStates
+53077.0,Yakima,Washington,Yakima_Washington_UnitedStates
+54001.0,Barbour,West Virginia,Barbour_WestVirginia_UnitedStates
+54003.0,Berkeley,West Virginia,Berkeley_WestVirginia_UnitedStates
+54005.0,Boone,West Virginia,Boone_WestVirginia_UnitedStates
+54007.0,Braxton,West Virginia,Braxton_WestVirginia_UnitedStates
+54009.0,Brooke,West Virginia,Brooke_WestVirginia_UnitedStates
+54011.0,Cabell,West Virginia,Cabell_WestVirginia_UnitedStates
+54013.0,Calhoun,West Virginia,Calhoun_WestVirginia_UnitedStates
+54015.0,Clay,West Virginia,Clay_WestVirginia_UnitedStates
+54017.0,Doddridge,West Virginia,Doddridge_WestVirginia_UnitedStates
+54019.0,Fayette,West Virginia,Fayette_WestVirginia_UnitedStates
+54021.0,Gilmer,West Virginia,Gilmer_WestVirginia_UnitedStates
+54023.0,Grant,West Virginia,Grant_WestVirginia_UnitedStates
+54025.0,Greenbrier,West Virginia,Greenbrier_WestVirginia_UnitedStates
+54027.0,Hampshire,West Virginia,Hampshire_WestVirginia_UnitedStates
+54029.0,Hancock,West Virginia,Hancock_WestVirginia_UnitedStates
+54031.0,Hardy,West Virginia,Hardy_WestVirginia_UnitedStates
+54033.0,Harrison,West Virginia,Harrison_WestVirginia_UnitedStates
+54035.0,Jackson,West Virginia,Jackson_WestVirginia_UnitedStates
+54037.0,Jefferson,West Virginia,Jefferson_WestVirginia_UnitedStates
+54039.0,Kanawha,West Virginia,Kanawha_WestVirginia_UnitedStates
+54041.0,Lewis,West Virginia,Lewis_WestVirginia_UnitedStates
+54043.0,Lincoln,West Virginia,Lincoln_WestVirginia_UnitedStates
+54045.0,Logan,West Virginia,Logan_WestVirginia_UnitedStates
+54047.0,McDowell,West Virginia,McDowell_WestVirginia_UnitedStates
+54049.0,Marion,West Virginia,Marion_WestVirginia_UnitedStates
+54051.0,Marshall,West Virginia,Marshall_WestVirginia_UnitedStates
+54053.0,Mason,West Virginia,Mason_WestVirginia_UnitedStates
+54055.0,Mercer,West Virginia,Mercer_WestVirginia_UnitedStates
+54057.0,Mineral,West Virginia,Mineral_WestVirginia_UnitedStates
+54059.0,Mingo,West Virginia,Mingo_WestVirginia_UnitedStates
+54061.0,Monongalia,West Virginia,Monongalia_WestVirginia_UnitedStates
+54063.0,Monroe,West Virginia,Monroe_WestVirginia_UnitedStates
+54065.0,Morgan,West Virginia,Morgan_WestVirginia_UnitedStates
+54067.0,Nicholas,West Virginia,Nicholas_WestVirginia_UnitedStates
+54069.0,Ohio,West Virginia,Ohio_WestVirginia_UnitedStates
+54071.0,Pendleton,West Virginia,Pendleton_WestVirginia_UnitedStates
+54073.0,Pleasants,West Virginia,Pleasants_WestVirginia_UnitedStates
+54075.0,Pocahontas,West Virginia,Pocahontas_WestVirginia_UnitedStates
+54077.0,Preston,West Virginia,Preston_WestVirginia_UnitedStates
+54079.0,Putnam,West Virginia,Putnam_WestVirginia_UnitedStates
+54081.0,Raleigh,West Virginia,Raleigh_WestVirginia_UnitedStates
+54083.0,Randolph,West Virginia,Randolph_WestVirginia_UnitedStates
+54085.0,Ritchie,West Virginia,Ritchie_WestVirginia_UnitedStates
+54087.0,Roane,West Virginia,Roane_WestVirginia_UnitedStates
+54089.0,Summers,West Virginia,Summers_WestVirginia_UnitedStates
+54091.0,Taylor,West Virginia,Taylor_WestVirginia_UnitedStates
+54093.0,Tucker,West Virginia,Tucker_WestVirginia_UnitedStates
+54095.0,Tyler,West Virginia,Tyler_WestVirginia_UnitedStates
+54097.0,Upshur,West Virginia,Upshur_WestVirginia_UnitedStates
+54099.0,Wayne,West Virginia,Wayne_WestVirginia_UnitedStates
+54101.0,Webster,West Virginia,Webster_WestVirginia_UnitedStates
+54103.0,Wetzel,West Virginia,Wetzel_WestVirginia_UnitedStates
+54105.0,Wirt,West Virginia,Wirt_WestVirginia_UnitedStates
+54107.0,Wood,West Virginia,Wood_WestVirginia_UnitedStates
+54109.0,Wyoming,West Virginia,Wyoming_WestVirginia_UnitedStates
+55001.0,Adams,Wisconsin,Adams_Wisconsin_UnitedStates
+55003.0,Ashland,Wisconsin,Ashland_Wisconsin_UnitedStates
+55005.0,Barron,Wisconsin,Barron_Wisconsin_UnitedStates
+55007.0,Bayfield,Wisconsin,Bayfield_Wisconsin_UnitedStates
+55009.0,Brown,Wisconsin,Brown_Wisconsin_UnitedStates
+55011.0,Buffalo,Wisconsin,Buffalo_Wisconsin_UnitedStates
+55013.0,Burnett,Wisconsin,Burnett_Wisconsin_UnitedStates
+55015.0,Calumet,Wisconsin,Calumet_Wisconsin_UnitedStates
+55017.0,Chippewa,Wisconsin,Chippewa_Wisconsin_UnitedStates
+55019.0,Clark,Wisconsin,Clark_Wisconsin_UnitedStates
+55021.0,Columbia,Wisconsin,Columbia_Wisconsin_UnitedStates
+55023.0,Crawford,Wisconsin,Crawford_Wisconsin_UnitedStates
+55025.0,Dane,Wisconsin,Dane_Wisconsin_UnitedStates
+55027.0,Dodge,Wisconsin,Dodge_Wisconsin_UnitedStates
+55029.0,Door,Wisconsin,Door_Wisconsin_UnitedStates
+55031.0,Douglas,Wisconsin,Douglas_Wisconsin_UnitedStates
+55033.0,Dunn,Wisconsin,Dunn_Wisconsin_UnitedStates
+55035.0,Eau Claire,Wisconsin,EauClaire_Wisconsin_UnitedStates
+55037.0,Florence,Wisconsin,Florence_Wisconsin_UnitedStates
+55039.0,Fond du Lac,Wisconsin,FondduLac_Wisconsin_UnitedStates
+55041.0,Forest,Wisconsin,Forest_Wisconsin_UnitedStates
+55043.0,Grant,Wisconsin,Grant_Wisconsin_UnitedStates
+55045.0,Green,Wisconsin,Green_Wisconsin_UnitedStates
+55047.0,Green Lake,Wisconsin,GreenLake_Wisconsin_UnitedStates
+55049.0,Iowa,Wisconsin,Iowa_Wisconsin_UnitedStates
+55051.0,Iron,Wisconsin,Iron_Wisconsin_UnitedStates
+55053.0,Jackson,Wisconsin,Jackson_Wisconsin_UnitedStates
+55055.0,Jefferson,Wisconsin,Jefferson_Wisconsin_UnitedStates
+55057.0,Juneau,Wisconsin,Juneau_Wisconsin_UnitedStates
+55059.0,Kenosha,Wisconsin,Kenosha_Wisconsin_UnitedStates
+55061.0,Kewaunee,Wisconsin,Kewaunee_Wisconsin_UnitedStates
+55063.0,La Crosse,Wisconsin,LaCrosse_Wisconsin_UnitedStates
+55065.0,Lafayette,Wisconsin,Lafayette_Wisconsin_UnitedStates
+55067.0,Langlade,Wisconsin,Langlade_Wisconsin_UnitedStates
+55069.0,Lincoln,Wisconsin,Lincoln_Wisconsin_UnitedStates
+55071.0,Manitowoc,Wisconsin,Manitowoc_Wisconsin_UnitedStates
+55073.0,Marathon,Wisconsin,Marathon_Wisconsin_UnitedStates
+55075.0,Marinette,Wisconsin,Marinette_Wisconsin_UnitedStates
+55077.0,Marquette,Wisconsin,Marquette_Wisconsin_UnitedStates
+55078.0,Menominee,Wisconsin,Menominee_Wisconsin_UnitedStates
+55079.0,Milwaukee,Wisconsin,Milwaukee_Wisconsin_UnitedStates
+55081.0,Monroe,Wisconsin,Monroe_Wisconsin_UnitedStates
+55083.0,Oconto,Wisconsin,Oconto_Wisconsin_UnitedStates
+55085.0,Oneida,Wisconsin,Oneida_Wisconsin_UnitedStates
+55087.0,Outagamie,Wisconsin,Outagamie_Wisconsin_UnitedStates
+55089.0,Ozaukee,Wisconsin,Ozaukee_Wisconsin_UnitedStates
+55091.0,Pepin,Wisconsin,Pepin_Wisconsin_UnitedStates
+55093.0,Pierce,Wisconsin,Pierce_Wisconsin_UnitedStates
+55095.0,Polk,Wisconsin,Polk_Wisconsin_UnitedStates
+55097.0,Portage,Wisconsin,Portage_Wisconsin_UnitedStates
+55099.0,Price,Wisconsin,Price_Wisconsin_UnitedStates
+55101.0,Racine,Wisconsin,Racine_Wisconsin_UnitedStates
+55103.0,Richland,Wisconsin,Richland_Wisconsin_UnitedStates
+55105.0,Rock,Wisconsin,Rock_Wisconsin_UnitedStates
+55107.0,Rusk,Wisconsin,Rusk_Wisconsin_UnitedStates
+55109.0,St. Croix,Wisconsin,St.Croix_Wisconsin_UnitedStates
+55111.0,Sauk,Wisconsin,Sauk_Wisconsin_UnitedStates
+55113.0,Sawyer,Wisconsin,Sawyer_Wisconsin_UnitedStates
+55115.0,Shawano,Wisconsin,Shawano_Wisconsin_UnitedStates
+55117.0,Sheboygan,Wisconsin,Sheboygan_Wisconsin_UnitedStates
+55119.0,Taylor,Wisconsin,Taylor_Wisconsin_UnitedStates
+55121.0,Trempealeau,Wisconsin,Trempealeau_Wisconsin_UnitedStates
+55123.0,Vernon,Wisconsin,Vernon_Wisconsin_UnitedStates
+55125.0,Vilas,Wisconsin,Vilas_Wisconsin_UnitedStates
+55127.0,Walworth,Wisconsin,Walworth_Wisconsin_UnitedStates
+55129.0,Washburn,Wisconsin,Washburn_Wisconsin_UnitedStates
+55131.0,Washington,Wisconsin,Washington_Wisconsin_UnitedStates
+55133.0,Waukesha,Wisconsin,Waukesha_Wisconsin_UnitedStates
+55135.0,Waupaca,Wisconsin,Waupaca_Wisconsin_UnitedStates
+55137.0,Waushara,Wisconsin,Waushara_Wisconsin_UnitedStates
+55139.0,Winnebago,Wisconsin,Winnebago_Wisconsin_UnitedStates
+55141.0,Wood,Wisconsin,Wood_Wisconsin_UnitedStates
+56001.0,Albany,Wyoming,Albany_Wyoming_UnitedStates
+56003.0,Big Horn,Wyoming,BigHorn_Wyoming_UnitedStates
+56005.0,Campbell,Wyoming,Campbell_Wyoming_UnitedStates
+56007.0,Carbon,Wyoming,Carbon_Wyoming_UnitedStates
+56009.0,Converse,Wyoming,Converse_Wyoming_UnitedStates
+56011.0,Crook,Wyoming,Crook_Wyoming_UnitedStates
+56013.0,Fremont,Wyoming,Fremont_Wyoming_UnitedStates
+56015.0,Goshen,Wyoming,Goshen_Wyoming_UnitedStates
+56017.0,Hot Springs,Wyoming,HotSprings_Wyoming_UnitedStates
+56019.0,Johnson,Wyoming,Johnson_Wyoming_UnitedStates
+56021.0,Laramie,Wyoming,Laramie_Wyoming_UnitedStates
+56023.0,Lincoln,Wyoming,Lincoln_Wyoming_UnitedStates
+56025.0,Natrona,Wyoming,Natrona_Wyoming_UnitedStates
+56027.0,Niobrara,Wyoming,Niobrara_Wyoming_UnitedStates
+56029.0,Park,Wyoming,Park_Wyoming_UnitedStates
+56031.0,Platte,Wyoming,Platte_Wyoming_UnitedStates
+56033.0,Sheridan,Wyoming,Sheridan_Wyoming_UnitedStates
+56035.0,Sublette,Wyoming,Sublette_Wyoming_UnitedStates
+56037.0,Sweetwater,Wyoming,Sweetwater_Wyoming_UnitedStates
+56039.0,Teton,Wyoming,Teton_Wyoming_UnitedStates
+56041.0,Uinta,Wyoming,Uinta_Wyoming_UnitedStates
+56043.0,Washakie,Wyoming,Washakie_Wyoming_UnitedStates
+56045.0,Weston,Wyoming,Weston_Wyoming_UnitedStates
